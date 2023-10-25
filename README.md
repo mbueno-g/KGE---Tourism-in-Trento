@@ -1,2 +1,2 @@
-# ProjectRepositoryTemplate
-This is a template fort all the KGE projects repository. In general the structure of this repository has to be applied to every iTelos project.
+# Natural Tourism Knowledge Graph
+This project is created for the KGE subject at Univeristy of Trento, using the iTelos methodology.
