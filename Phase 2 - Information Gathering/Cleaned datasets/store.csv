@@ -1,27 +1,27 @@
-id;name;latitude;longitude;;
-store_1;Athenas;46.310170;11.602231;;
-store_2;Mival Sport;45.789381;11.729931;;
-store_3;Zanolli Action Wear;46.068014;11.223190;;
-store_4;Salewa World;46.470714;11.314136;;
-store_5;Sportler Alpin;46.795687;11.938109;;
-store_6;Bergfuchs;46.779465;12.049103;;
-store_7;Mountain Spirit;46.499592;11.362583;;
-store_8;Peak Performance;46.731444;12.282764;;
-store_9;Sport Kassl;46.682073;11.897602;;
-store_10;K & K Depot;46.542285;11.617203;;
-store_11;Winkler Sport;46.828735;10.518692;;
-store_12;Sportecke;46.540200;11.616176;;
-store_13;Outdoor und Bekleidung Egarter Karl;46.737962;12.170923;;
-store_14;Snow House;46.060809;11.240737;;
-store_15;Montura store Borgo Valsugana;46.054015;11.458045;;
-store_16;Jack Wolfskin;46.499740;11.356313;;
-store_17;Bailo outlet;46.052317;11.450351;;
-store_18;CMP;46.536807;12.139747;;
-store_19;Kiwi Sports House;46.052761;11.451584;;
-store_20;Snowithus;46.262142;11.803095;;
-store_21;Alpenplus;46.897432;11.431614;;
-store_22;Futura;46.518635;11.504612;;
-store_23;Schiffel Lowa Store;46.716893;11.655319;;
-store_24;Sport Valeruz;46.476755;11.770109;;
-store_25;Linea Verticale;46.019559;11.896017;;
-store_26;Noleggio Sci;46.312840;11.687503;;
+id,name,latitude,longitude
+store_1,Athenas,46.31017,11.602231
+store_2,Mival Sport,45.789381,11.729931
+store_3,Zanolli Action Wear,46.068014,11.22319
+store_4,Salewa World,46.470714,11.314136
+store_5,Sportler Alpin,46.795687,11.938109
+store_6,Bergfuchs,46.779465,12.049103
+store_7,Mountain Spirit,46.499592,11.362583
+store_8,Peak Performance,46.731444,12.282764
+store_9,Sport Kassl,46.682073,11.897602
+store_10,K & K Depot,46.542285,11.617203
+store_11,Winkler Sport,46.828735,10.518692
+store_12,Sportecke,46.5402,11.616176
+store_13,Outdoor und Bekleidung Egarter Karl,46.737962,12.170923
+store_14,Snow House,46.060809,11.240737
+store_15,Montura store Borgo Valsugana,46.054015,11.458045
+store_16,Jack Wolfskin,46.49974,11.356313
+store_17,Bailo outlet,46.052317,11.450351
+store_18,CMP,46.536807,12.139747
+store_19,Kiwi Sports House,46.052761,11.451584
+store_20,Snowithus,46.262142,11.803095
+store_21,Alpenplus,46.897432,11.431614
+store_22,Futura,46.518635,11.504612
+store_23,Schiffel Lowa Store,46.716893,11.655319
+store_24,Sport Valeruz,46.476755,11.770109
+store_25,Linea Verticale,46.019559,11.896017
+store_26,Noleggio Sci,46.31284,11.687503

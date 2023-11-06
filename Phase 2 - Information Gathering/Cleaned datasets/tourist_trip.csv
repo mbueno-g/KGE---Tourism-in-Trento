@@ -1,21 +1,21 @@
-id;name;tourist_type;trip_origin;arrival_time;departure_time;needs car
-tourist_trip_1;Val di Ledro, Wasserfall ? Via del ponale loop from Riva del Garda;high;train_station42;3:25;0:00;0
-tourist_trip_2;Bastione ? Santa Barbara loop from Sant'Alessandro;high;bus_stop1970;4:50;0:00;0
-tourist_trip_3;Lago di Tenno ? TÅrkisfarbener Tenno See loop from Gavazzo;high;bus_stop872;5:04;0:00;0
-tourist_trip_4;Bindelweg ? Vista sul Piz BoÇ e il Sella loop from Canazei;high;bus_stop45;5:06;0:00;0
-tourist_trip_5;Becco di Filadonna via Rifugio Casarota;high;parking spot;5:16;0:00;1
-tourist_trip_6;Salita al Rifugio Vajolet e al Rifugio Re Alberto;high;parking spot;3:12;0:00;1
-tourist_trip_7;Salita al Rifugio Sette Selle ? Giro ad anello;high;parking spot;5:17;0:00;1
-tourist_trip_8;Camminata nei dintorni di Riva del Garda;low;parking spot;1:27;0:00;1
-tourist_trip_9;Camminando lungo il Lago di Ledro;low;parking spot;1:47;0:00;1
-tourist_trip_10;Qualche scorcio del Lago di Molveno;low;parking spot;1:14;0:00;1
-tourist_trip_11;Lago di Tenno ? TÅrkisfarbener Tenno See loop from Ville Del Monte;low;parking spot;1:47;0:00;1
-tourist_trip_12;Valle del Sarca ? Arco Castle loop from Caneve;low;bus_stop690;1:26;0:00;0
-tourist_trip_13;Altstadt Trient ? Chiesa di Santa Maria Maggiore loop from Trento FTM;low;train_station12;1:53;0:00;0
-tourist_trip_14;Valle del Sarca ? Arco Castle loop from Caneve;low;bus_stop690;1:04;0:00;0
-tourist_trip_15;Lungo il sentiero panoramico Bussate Tempesta;medium;parking spot;2:49;0:00;1
-tourist_trip_16;Giro del Lago di Ledro;medium;parking spot;2:38;0:00;1
-tourist_trip_17;Giro del lago di Levico ? Giro ad anello;medium;parking spot;2:02;0:00;1
-tourist_trip_18;Via del ponale ? Ponale Alto loop from Biacesa di Ledro;medium;bus_stop1015;3:32;0:00;0
-tourist_trip_19;Panorama Lago di Molveno ? Spiaggia del lago di Molveno loop from Molveno;medium;bus_stop20;2:52;0:00;0
-tourist_trip_20;Levicosee Ende ? Lago di Levico loop from Levico Terme;medium;bus_stop488;4:29;0:00;0
+id,name,tourist_type,trip_origin,arrival_time,needs car
+tourist_trip_1,"Val di Ledro, Wasserfall Via del ponale loop from Riva del Garda",high,train_station42,03:25,0
+tourist_trip_2,Bastione Santa Barbara loop from Sant'Alessandro,high,bus_stop1970,04:50,0
+tourist_trip_3,Lago di Tenno  Trkisfarbener Tenno See loop from Gavazzo,high,bus_stop872,05:04,0
+tourist_trip_4,Bindelweg  Vista sul Piz BoÇ e il Sella loop from Canazei,high,bus_stop45,05:06,0
+tourist_trip_5,Becco di Filadonna via Rifugio Casarota,high,parking spot,05:16,1
+tourist_trip_6,Salita al Rifugio Vajolet e al Rifugio Re Alberto,high,parking spot,03:12,1
+tourist_trip_7,Salita al Rifugio Sette Selle  Giro ad anello,high,parking spot,05:17,1
+tourist_trip_8,Camminata nei dintorni di Riva del Garda,low,parking spot,01:27,1
+tourist_trip_9,Camminando lungo il Lago di Ledro,low,parking spot,01:47,1
+tourist_trip_10,Qualche scorcio del Lago di Molveno,low,parking spot,01:14,1
+tourist_trip_11,Lago di Tenno  TÅrkisfarbener Tenno See loop from Ville Del Monte,low,parking spot,01:47,1
+tourist_trip_12,Valle del Sarca Arco Castle loop from Caneve,low,bus_stop690,01:26,0
+tourist_trip_13,Altstadt Trient  Chiesa di Santa Maria Maggiore loop from Trento FTM,low,train_station12,01:53,0
+tourist_trip_14,Valle del Sarca  Arco Castle loop from Caneve,low,bus_stop690,01:04,0
+tourist_trip_15,Lungo il sentiero panoramico Bussate Tempesta,medium,parking spot,02:49,1
+tourist_trip_16,Giro del Lago di Ledro,medium,parking spot,02:38,1
+tourist_trip_17,Giro del lago di Levico  Giro ad anello,medium,parking spot,02:02,1
+tourist_trip_18,Via del ponale  Ponale Alto loop from Biacesa di Ledro,medium,bus_stop1015,03:32,0
+tourist_trip_19,Panorama Lago di Molveno Spiaggia del lago di Molveno loop from Molveno,medium,bus_stop20,02:52,0
+tourist_trip_20,Levicosee Ende  Lago di Levico loop from Levico Terme,medium,bus_stop488,04:29,0
