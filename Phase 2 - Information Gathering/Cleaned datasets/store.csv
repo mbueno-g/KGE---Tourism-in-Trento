@@ -1,27 +1,1 @@
-id;name;latitude;longitude
-store_1;Athenas;116022313;463101702
-store_2;Mival Sport;117299314;457893808
-store_3;Zanolli Action Wear;112231895;46068014
-store_4;Salewa World;113141358;464707138
-store_5;Sportler Alpin;119381091;46795687
-store_6;Bergfuchs;120491033;467794647
-store_7;Mountain Spirit;113625827;464995922
-store_8;Peak Performance;122827641;46731444
-store_9;Sport Kassl;118976015;466820726
-store_10;K & K Depot;116172027;465422845
-store_11;Winkler Sport;105186919;468287349
-store_12;Sportecke;116161755;465402002
-store_13;Outdoor und Bekleidung Egarter Karl;121709229;467379618
-store_14;Snow House;112407373;460608091
-store_15;Montura store Borgo Valsugana;114580445;46054015
-store_16;Jack Wolfskin;113563127;464997396
-store_17;Bailo outlet;114503506;460523173
-store_18;CMP;121397469;465368066
-store_19;Kiwi Sports House;114515838;460527609
-store_20;Snowithus;118030947;462621419
-store_21;Alpenplus;114316143;468974319
-store_22;Futura;11504612;465186348
-store_23;Schiffel Lowa Store;116553188;467168925
-store_24;Sport Valeruz;117701094;464767553
-store_25;Linea Verticale;118960167;460195591
-store_26;Noleggio Sci;116875025;463128404
+id;name;latitude;longitudestore_1;Athenas;116022313;463101702store_2;Mival Sport;117299314;457893808store_3;Zanolli Action Wear;112231895;46068014store_4;Salewa World;113141358;464707138store_5;Sportler Alpin;119381091;46795687store_6;Bergfuchs;120491033;467794647store_7;Mountain Spirit;113625827;464995922store_8;Peak Performance;122827641;46731444store_9;Sport Kassl;118976015;466820726store_10;K & K Depot;116172027;465422845store_11;Winkler Sport;105186919;468287349store_12;Sportecke;116161755;465402002store_13;Outdoor und Bekleidung Egarter Karl;121709229;467379618store_14;Snow House;112407373;460608091store_15;Montura store Borgo Valsugana;114580445;46054015store_16;Jack Wolfskin;113563127;464997396store_17;Bailo outlet;114503506;460523173store_18;CMP;121397469;465368066store_19;Kiwi Sports House;114515838;460527609store_20;Snowithus;118030947;462621419store_21;Alpenplus;114316143;468974319store_22;Futura;11504612;465186348store_23;Schiffel Lowa Store;116553188;467168925store_24;Sport Valeruz;117701094;464767553store_25;Linea Verticale;118960167;460195591store_26;Noleggio Sci;116875025;463128404
