@@ -1,0 +1,33 @@
+Concept Label,Description
+accommodation_GID-14254,living quarters provided for public convenience
+accommodation type_GID-14001,specific category of housing that individuals can choose from when seeking a place to stay
+latitude_GID-46263,the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself
+longitude_GID-46270,the angular distance between a point on any meridian and the prime meridian at Greenwich
+city_GID-45988,an incorporated aministrative district established by state charter
+address_GID-45803,the place where a person or a place can be found or communicated with
+telephone number_GID-34494,the number is used in calling a particular telephone
+hike_GID-1458,a long walk usually for exercise or pleasure
+identifier_GID-39085,a symbol that establishes the identity of the one bearing it
+name_GID-2,a language unit by wich a person or a thing is known
+expertise_GID-30843,skilfullness by virtue of possesing special knowledge
+origin_GID-45883,"the place where something begins, where it springs into begin"
+duration_GID-80582,the period in time during which something continues
+accessible_GID-81615,capable of being reached
+car_GID-15945,a wheeled vehicle adapted to the rails
+brand_GID-36704,a name given to a product or service
+model_GID-31863,a type of product
+guide_GID-34478,someone that offers basic information or instruction
+email_GID-33745,(computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that is generated at the recipient's terminal when he logs in
+jurisdiction_GID-46238,in law; the territory within which power can be exercised
+tourist_GID-57726,someone that travels for pleasure
+birthday_GID-81257,the date on which a person was born
+gender_GID-33966,a grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives; in some languages it is quite arbitrary but in Indo-European languages it is usually based on sex or animateness
+nationality_GID-74177,the status of belonging to a particular nation by birth or naturalization
+cave_GID-49272,a geological formation consisting of an underground enclosure wit access from the surface of the ground or from the sea
+lake_GID-49734,a body of (usually fresh) water surrounded by land
+store_GID-23209,a mercantile establishment for the retail sale of goods or services
+bus station_GID-15745,a terminal that serves bus passengers
+train station_GID-22321,terminal where trains load or unload passengers or goods
+gas station_GID-18641,a service station that sells gasoline
+ski resort_GID-46553,a resort with lodging or facilities for skiing
+length_GID-28259,the linear extent in space from one end to the other; the longest horizontal dimension of something that is fixed in palce
