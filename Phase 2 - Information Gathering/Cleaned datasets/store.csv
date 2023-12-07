@@ -1,27 +1,10 @@
-id,name,latitude,longitude
-store_1,Athenas,46.31017,11.602231
-store_2,Mival Sport,45.789381,11.729931
-store_3,Zanolli Action Wear,46.068014,11.22319
-store_4,Salewa World,46.470714,11.314136
-store_5,Sportler Alpin,46.795687,11.938109
-store_6,Bergfuchs,46.779465,12.049103
-store_7,Mountain Spirit,46.499592,11.362583
-store_8,Peak Performance,46.731444,12.282764
-store_9,Sport Kassl,46.682073,11.897602
-store_10,K & K Depot,46.542285,11.617203
-store_11,Winkler Sport,46.828735,10.518692
-store_12,Sportecke,46.5402,11.616176
-store_13,Outdoor und Bekleidung Egarter Karl,46.737962,12.170923
-store_14,Snow House,46.060809,11.240737
-store_15,Montura store Borgo Valsugana,46.054015,11.458045
-store_16,Jack Wolfskin,46.49974,11.356313
-store_17,Bailo outlet,46.052317,11.450351
-store_18,CMP,46.536807,12.139747
-store_19,Kiwi Sports House,46.052761,11.451584
-store_20,Snowithus,46.262142,11.803095
-store_21,Alpenplus,46.897432,11.431614
-store_22,Futura,46.518635,11.504612
-store_23,Schiffel Lowa Store,46.716893,11.655319
-store_24,Sport Valeruz,46.476755,11.770109
-store_25,Linea Verticale,46.019559,11.896017
-store_26,Noleggio Sci,46.31284,11.687503
+id,name,latitude,longitude,address,city
+store_1,Athenas,46.31017,11.602231,"Athenas, Via Trento, Pè de Pardàc, Coste, Predazzo, Comunità territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38037, Italia",Predazzo
+store_2,Zanolli Action Wear,46.068014,11.22319,"Shop Center Valsugana, Via Tamarisi, Fornaci, Pergine Valsugana, Comunità Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38057, Italia",Trento
+store_3,Snow House,46.060809,11.240737,"Snow House, 13, Via Crivelli, Fontanabotte, Zivignago, Pergine Valsugana, Comunità Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38057, Italia",Pergine Valsugana
+store_4,Montura store Borgo Valsugana,46.054015,11.458045,"Montura store Borgo Valsugana, 48, Corso Ausugum, Borgo Valsugana, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38051, Italia",Trento
+store_5,Bailo outlet,46.052317,11.450351,"Bailo outlet, 12, Via Roma, Villa Argentina, Olle, Borgo Valsugana, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38051, Italia",Borgo Valsugana
+store_6,Kiwi Sports House,46.052761,11.451584,"Kiwi Sports House, 10/a, Via Roma, Onea, Olle, Borgo Valsugana, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38051, Italia",Borgo Valsugana
+store_7,Snowithus,46.262142,11.803095,"Snowithus, 9, Via Passo Rolle, San Martino di Castrozza, Primiero San Martino di Castrozza, Comunità di Primiero, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38054, Italia",San Martino di Castrozza
+store_8,Sport Valeruz,46.476755,11.770109,"Sport Valeruz, 22, Via Roma, Canazei, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38032, Italia",Canazei
+store_9,Noleggio Sci,46.31284,11.687503,"Noleggio Sci, Strada Provinciale Castelir di Bellamonte, Castelir di Bellamonte, Predazzo, Comunità territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38037, Italia",Predazzo

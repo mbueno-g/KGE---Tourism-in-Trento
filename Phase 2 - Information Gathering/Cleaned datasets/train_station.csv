@@ -1,48 +1,44 @@
 id,name,city,latitude,longitude,address
-train_station1,Trento Santa Chiara,Trento,46.054380,11.1354677,Trento Santa Chiara San Bartolomeo Oltrefersina Villazzano Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38128 Italia
-train_station2,Gardolo,Trento,46.108060,11.1046112,Gardolo Maso Rossi Canova Gardolo Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38121 Italia
+train_station1,Trento Santa Chiara,Trento,46.05438,11.1354677,Trento Santa Chiara San Bartolomeo Oltrefersina Villazzano Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38128 Italia
+train_station2,Gardolo,Trento,46.10806,11.1046112,Gardolo Maso Rossi Canova Gardolo Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38121 Italia
 train_station3,Caldonazzo,Caldonazzo,45.997429,11.2649955,Caldonazzo Caldonazzo Comunità  Alta Valsugana e Bersntol Provincia di Trento Trentino-Alto Adige/Südtirol38052 Italia
-train_station4,Calceranica,Calceranica,46.007313,11.2407723,Calceranica Calceranica al Lago Comunità  Alta Valsugana e Bersntol Provincia di Trento Trentino-Alto Adige/Südtirol38049 Italia
-train_station5,Villazzano,Trento,46.045889,11.1393028,Villazzano Via Banala Cernidor Villazzano Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38128 Italia
-train_station6,Levico Terme,Levico Terme,46.005919,11.3049369,Levico Terme Selva di Levico Levico Terme Comunità  Alta Valsugana e Bersntol Provincia di Trento Trentino-Alto Adige/Südtirol38056 Italia
-train_station7,Borgo Valsugana Centro,Borgo Valsugana Centro,46.051370,11.4540691,Borgo Valsugana Centro Onea Olle Borgo Valsugana Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38051 Italia
-train_station8,Avio,Avio,45.733738,10.9560297,Avio Và² Sinistro Sabbionara Avio Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38063 Italia
-train_station9,Mori,Mori,45.861294,11.0024377,Mori Rovereto Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38065 Italia
-train_station10,Rovereto,Rovereto,45.890823,11.0339061,Rovereto San Giorgio Rovereto Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38068 Italia
-train_station11,Serravalle all'Adige,Serravalle all'Adige,45.808218,1.1015147,Serravalle all'Adige Villetta Serravalle all'Adige Ala Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38061 Italia
-train_station12,Trento,Trento,46.072242,11.1193186,Trento Cristo Re Vela Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38122 Italia
-train_station13,Ala,Ala,45.759113,10.9963774,Ala Pilcante Ala Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38061 Italia
-train_station14,Roncegno Bagni-Marter,Roncegno Bagni-Marter,46.036332,11.3986395,Roncegno Bagni-Marter Marter Roncegno Terme Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol Italia
-train_station15,Povo-Mesiano,Trento,46.064923,11.1425787,Povo-Mesiano Bolghera Oltrefersina Povo Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38100 Italia
-train_station16,Trento San Bartolameo,Trento,46.047565,11.1352074,Trento San Bartolameo San Bartolomeo Oltrefersina Villazzano Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38128 Italia
-train_station17,San Cristoforo al Lago - Ischia,San Cristoforo al Lago - Ischia,46.039731,11.2339293,San Cristoforo al Lago - Ischia Via alla Stazione Maso Puller San Cristoforo al Lago Pergine Valsugana Comunità  Alta Valsugana e Bersntol Provincia di Trento Trentino-Alto Adige/Südtirol38057 Italia
-train_station18,Pergine Valsugana,Pergine Valsugana,46.062934,11.2321578,Pergine Valsugana Fornaci Susà  Pergine Valsugana Comunità  Alta Valsugana e Bersntol Provincia di Trento Trentino-Alto Adige/Südtirol38057 Italia
-train_station19,Trento FTM,Trento,46.074622,11.1209664,Trento FTM Cristo Re Martignano Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38122 Italia
-train_station20,Taio,Taio,46.322138,11.0677615,Taio Taio Predaia Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38012 Italia
-train_station21,Mollaro,Mollaro,46.294817,11.0682542,Mollaro Mollaro Predaia Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38093 Italia
-train_station22,Grumo - San Michele,Grumo - San Michele,46.193903,11.1279605,Grumo - San Michele Grumino San Michele all'Adige Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38098 Italia
-train_station23,Nave San Felice,Nave San Felice,46.168151,11.1139628,Nave San Felice Maso Rover Maso Goset Nave San Felice Lavis Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38097 Italia
-train_station24,Zambana,Zambana,46.151268,11.1007472,Zambana Maso Callianer Pressano Lavis Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38097 Italia
-train_station25,Dermulo,Dermulo,46.337574,11.0630878,Dermulo Dermulo Predaia Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38012 Italia
-train_station26,Mezzocorona Borgata,Mezzocorona Borgata,46.213947,11.1190969,Mezzocorona Borgata Mezzocorona Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38016 Italia
-train_station27,Mezzocorona,Mezzocorona,46.207201,11.1286919,Mezzocorona Mezzocorona Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38016 Italia
-train_station28,Mezzolombardo,Mezzolombardo,46.213446,11.0934429,Mezzolombardo Mezzolombardo Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38017 Italia
-train_station29,Lavis,Lavis,46.148216,11.0962279,Lavis Pressano Lavis Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38015 Italia
-train_station30,Mezzocorona Ferrovia,Mezzocorona Ferrovia,46.206386,11.1272011,Mezzocorona Ferrovia Mezzocorona Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38016 Italia
-train_station31,Lavis,Lavis,46.140024,11.1061184,Lavis Felti Pressano Lavis Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38015 Italia
-train_station32,Cles,Cles,46.364454,11.0388699,Cles Pez Maiano Cles Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38023 Italia
-train_station33,Tassullo,Ville d'Anaunia,46.341301,11.0538621,Tassullo Campo Tassullo Ville d'Anaunia Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38012 Italia
-train_station34,Bozzana,Bozzana,46.387344,10.9847443,Bozzana Bordiana Caldes Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38022 Italia
-train_station35,Mostizzolo,Mostizzolo,46.394815,11.0100891,Mostizzolo Viar Cis Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38023 Italia
-train_station36,Strigno,Stazione di Strigno,46.051185,11.5144411,Stazione di Strigno Villa Castel Ivano Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38059 Italia
-train_station37,Tezze di Grigno,Tezze di Grigno,45.990410,11.6696124,Tezze di Grigno Masi Orne Tezze Valsugana Grigno Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38055 Italia
-train_station38,Grigno,Grigno,46.015336,11.6249743,Grigno Grigno Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38055 Italia
-train_station39,Borgo Valsugana Est,Centro intermodale di Borgo Valsugana,46.052406,11.4638678,Centro intermodale di Borgo Valsugana Olle Borgo Valsugana Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38051 Italia
-train_station40,Bastione,Bastione,45.884655,10.8360422,Bastione Riva del Garda Comunità  Alto Garda e Ledro Provincia di Trento Trentino-Alto Adige/Südtirol38066 Italia
-train_station41,Borghetto sull'Adige,Borghetto sull'Adige,45.696893,10.9271072,Borghetto sull'Adige Borghetto Avio Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38063 Italia
-train_station42,Riva del Garda,Ascensore panoramico Bastione,45.884171,1.0837883,Ascensore panoramico Bastione Riva del Garda Comunità  Alto Garda e Ledro Provincia di Trento Trentino-Alto Adige/Südtirol38066 Italia
-train_station43,Malè,Malè,46.353582,10.9170884,Malè Pondasio Malè Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38027 Italia
-train_station44,Terzolas,Terzolas,46.358129,10.9256954,Terzolas Terzolas Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38027 Italia
-train_station45,Caldes,Caldes,46.366194,10.9455518,Caldes Samoclevo Caldes Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38022 Italia
-train_station46,Mezzana,Mezzana,46.313511,10.8014777,Mezzana Marilleva 900 Marilleva Mezzana Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol Italia
-train_station47,Dimaro,Dimaro,46.328952,10.8727325,Dimaro - Dimaro Dimaro Folgarida Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38025 Italia
+train_station4,Villazzano,Trento,46.045889,11.1393028,Villazzano Via Banala Cernidor Villazzano Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38128 Italia
+train_station5,Levico Terme,Levico Terme,46.005919,11.3049369,Levico Terme Selva di Levico Levico Terme Comunità  Alta Valsugana e Bersntol Provincia di Trento Trentino-Alto Adige/Südtirol38056 Italia
+train_station6,Borgo Valsugana Centro,Borgo Valsugana,46.05137,11.4540691,Borgo Valsugana Centro Onea Olle Borgo Valsugana Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38051 Italia
+train_station7,Avio,Avio,45.733738,10.9560297,Avio Và² Sinistro Sabbionara Avio Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38063 Italia
+train_station8,Mori,Mori,45.861294,11.0024377,Mori Rovereto Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38065 Italia
+train_station9,Rovereto,Rovereto,45.890823,11.0339061,Rovereto San Giorgio Rovereto Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38068 Italia
+train_station10,Trento,Trento,46.072242,11.1193186,Trento Cristo Re Vela Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38122 Italia
+train_station11,Ala,Ala,45.759113,10.9963774,Ala Pilcante Ala Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38061 Italia
+train_station12,Roncegno Bagni-Marter,Roncegno Terme,46.036332,11.3986395,Roncegno Bagni-Marter Marter Roncegno Terme Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol Italia
+train_station13,Povo-Mesiano,Trento,46.064923,11.1425787,Povo-Mesiano Bolghera Oltrefersina Povo Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38100 Italia
+train_station14,Trento San Bartolameo,Trento,46.047565,11.1352074,Trento San Bartolameo San Bartolomeo Oltrefersina Villazzano Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38128 Italia
+train_station15,San Cristoforo al Lago - Ischia,Pergine Valsugana,46.039731,11.2339293,San Cristoforo al Lago - Ischia Via alla Stazione Maso Puller San Cristoforo al Lago Pergine Valsugana Comunità  Alta Valsugana e Bersntol Provincia di Trento Trentino-Alto Adige/Südtirol38057 Italia
+train_station16,Pergine Valsugana,Pergine Valsugana,46.062934,11.2321578,Pergine Valsugana Fornaci Susà  Pergine Valsugana Comunità  Alta Valsugana e Bersntol Provincia di Trento Trentino-Alto Adige/Südtirol38057 Italia
+train_station17,Trento FTM,Trento,46.074622,11.1209664,Trento FTM Cristo Re Martignano Trento Territorio Val d'Adige Provincia di Trento Trentino-Alto Adige/Südtirol38122 Italia
+train_station18,Taio,Predaia,46.322138,11.0677615,Taio Taio Predaia Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38012 Italia
+train_station19,Mollaro,Predaia,46.294817,11.0682542,Mollaro Mollaro Predaia Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38093 Italia
+train_station20,Grumo - San Michele,San Michele allAdige,46.193903,11.1279605,Grumo - San Michele Grumino San Michele all'Adige Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38098 Italia
+train_station21,Nave San Felice,Lavis,46.168151,11.1139628,Nave San Felice Maso Rover Maso Goset Nave San Felice Lavis Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38097 Italia
+train_station22,Zambana,Lavis,46.151268,11.1007472,Zambana Maso Callianer Pressano Lavis Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38097 Italia
+train_station23,Dermulo,Predaia,46.337574,11.0630878,Dermulo Dermulo Predaia Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38012 Italia
+train_station24,Mezzocorona Borgata,Mezzocorona,46.213947,11.1190969,Mezzocorona Borgata Mezzocorona Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38016 Italia
+train_station25,Mezzocorona,Mezzocorona,46.207201,11.1286919,Mezzocorona Mezzocorona Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38016 Italia
+train_station26,Mezzolombardo,Mezzolombardo,46.213446,11.0934429,Mezzolombardo Mezzolombardo Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38017 Italia
+train_station27,Lavis,Lavis,46.148216,11.0962279,Lavis Pressano Lavis Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38015 Italia
+train_station28,Mezzocorona Ferrovia,Mezzocorona,46.206386,11.1272011,Mezzocorona Ferrovia Mezzocorona Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38016 Italia
+train_station29,Lavis,Lavis,46.140024,11.1061184,Lavis Felti Pressano Lavis Comunità  Rotaliana-Königsberg Provincia di Trento Trentino-Alto Adige/Südtirol38015 Italia
+train_station30,Cles,Cles,46.364454,11.0388699,Cles Pez Maiano Cles Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38023 Italia
+train_station31,Tassullo,Ville dAnaunia,46.341301,11.0538621,Tassullo Campo Tassullo Ville d'Anaunia Comunità  della Val di Non Provincia di Trento Trentino-Alto Adige/Südtirol38012 Italia
+train_station32,Strigno,Castel Ivano,46.051185,11.5144411,Stazione di Strigno Villa Castel Ivano Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38059 Italia
+train_station33,Tezze di Grigno,Grigno,45.99041,11.6696124,Tezze di Grigno Masi Orne Tezze Valsugana Grigno Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38055 Italia
+train_station34,Grigno,Grigno,46.015336,11.6249743,Grigno Grigno Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38055 Italia
+train_station35,Borgo Valsugana Est,Borgo Valsugana,46.052406,11.4638678,Centro intermodale di Borgo Valsugana Olle Borgo Valsugana Comunità  Valsugana e Tesino Provincia di Trento Trentino-Alto Adige/Südtirol38051 Italia
+train_station36,Bastione,Ledro,45.884655,10.8360422,Bastione Riva del Garda Comunità  Alto Garda e Ledro Provincia di Trento Trentino-Alto Adige/Südtirol38066 Italia
+train_station37,Borghetto sull'Adige,Avio,45.696893,10.9271072,Borghetto sull'Adige Borghetto Avio Comunità  della Vallagarina Provincia di Trento Trentino-Alto Adige/Südtirol38063 Italia
+train_station38,Riva del Garda,Ledro,45.884171,1.0837883,Ascensore panoramico Bastione Riva del Garda Comunità  Alto Garda e Ledro Provincia di Trento Trentino-Alto Adige/Südtirol38066 Italia
+train_station39,Malè,Male,46.353582,10.9170884,Malè Pondasio Malè Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38027 Italia
+train_station40,Terzolas,Terzolas,46.358129,10.9256954,Terzolas Terzolas Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38027 Italia
+train_station41,Caldes,Caldes,46.366194,10.9455518,Caldes Samoclevo Caldes Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38022 Italia
+train_station42,Mezzana,Mezzana,46.313511,10.8014777,Mezzana Marilleva 900 Marilleva Mezzana Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol Italia
+train_station43,Dimaro,Dimaro Folgarida,46.328952,10.8727325,Dimaro - Dimaro Dimaro Folgarida Comunità  della Valle di Sole Provincia di Trento Trentino-Alto Adige/Südtirol38025 Italia

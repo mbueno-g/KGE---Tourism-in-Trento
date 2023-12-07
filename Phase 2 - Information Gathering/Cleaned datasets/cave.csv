@@ -1,155 +1,75 @@
-index,name,latitude,longitude,,,,
-cave_entrance_1,Abisso del Cenote,46.5785849,11.973053,,,,
-cave_entrance_2,Abisso del Paradiso,45.8731305,11.3031629,,,,
-cave_entrance_3,Abisso di Malga Fossetta,45.9911674,11.5488313,,,,
-cave_entrance_4,Abisso Est,45.8123402,11.5641315,,,,
-cave_entrance_5,Abisso Spaurasso,45.8801782,11.8016786,,,,
-cave_entrance_6,Abisso Spiller,45.924981,11.428926,,,,
-cave_entrance_7,Alte Kuchl,46.8189902,11.7749937,,,,
-cave_entrance_8,Antro a SSE di Sant Antonio,46.0934588,11.6150319,,,,
-cave_entrance_9,Barenhohle,46.651802,11.5373061,,,,
-cave_entrance_10,Barenhohle  Grotta dellOrso,46.5741567,11.9859105,,,,
-cave_entrance_11,Brutto Buso,45.8510227,11.5542227,,,,
-cave_entrance_12,Buco del Baito,46.001219,11.483212,,,,
-cave_entrance_13,Buco del Fango,46.0801229,11.5926849,,,,
-cave_entrance_14,Buco del Pal,45.9873309,11.5909969,,,,
-cave_entrance_15,Bunker,46.6697839,11.6108144,,,,
-cave_entrance_16,Burger Knappenlcher,46.7221174,11.6395064,,,,
-cave_entrance_17,Bus de l Acqua,46.087753,11.6811786,,,,
-cave_entrance_18,Bus de la Bela,46.0571436,11.7033961,,,,
-cave_entrance_19,Bus de la Giacia,46.4725098,11.7133135,,,,
-cave_entrance_20,Bus de le Zaule,45.9781545,11.3595443,,,,
-cave_entrance_21,Bus de Re Fos,45.8724449,11.8279132,,,,
-cave_entrance_22,Bus del Canon,46.1002103,11.2597551,,,,
-cave_entrance_23,Bus dele Dodese,45.9942226,11.4642391,,,,
-cave_entrance_24,Busa del Can,45.9732765,11.4781454,,,,
-cave_entrance_25,Busi della Lasta Rossa,46.0050564,11.4585208,,,,
-cave_entrance_26,Buso Banchette,45.8550237,11.3716655,,,,
-cave_entrance_27,Buso del Diavolo,45.983988,11.5473979,,,,
-cave_entrance_28,Buso del Diavolo,45.8034085,11.6180909,,,,
-cave_entrance_29,Buso del Ghiaccio,45.9930214,11.5001728,,,,
-cave_entrance_30,Buso della Capra,45.9823993,11.5033632,,,,
-cave_entrance_31,Buso della Giassara,45.8126965,11.6025909,,,,
-cave_entrance_32,Buso della Neve,45.9500135,11.5071642,,,,
-cave_entrance_33,Buso della Spaluga,45.8004105,11.5499727,,,,
-cave_entrance_34,Buso della Val Lunga,45.8315161,11.6060567,,,,
-cave_entrance_35,Buso dellAsinello,45.8174881,11.6221913,,,,
-cave_entrance_36,Buso delle Sette Teste,45.8164368,11.6589842,,,,
-cave_entrance_37,Buso dellOrco,45.8174068,11.6580212,,,,
-cave_entrance_38,Buso Stonhaus,45.8878725,11.4415204,,,,
-cave_entrance_39,Caverna 2 di Malga Valfontane,46.1048373,11.6684993,,,,
-cave_entrance_40,Caverna dei ciclopi,46.1199366,11.722501,,,,
-cave_entrance_41,Caverna dei Pastori,46.0903937,11.6568324,,,,
-cave_entrance_42,Caverna del fiume scomparso,46.1204231,11.7209719,,,,
-cave_entrance_43,Caverna del Sieson,45.8943848,11.3889341,,,,
-cave_entrance_44,Caverna sentinella 1,46.1204265,11.7227193,,,,
-cave_entrance_45,Caverna sentinella 2 ,46.1204175,11.7227189,,,,
-cave_entrance_46,Caverna sentinella 3,46.1202932,11.722648,,,,
-cave_entrance_47,Cavernetta sotto Pozzo Lares,46.0999517,11.6622601,,,,
-cave_entrance_48,Coalo de la Taiarona,46.0154788,11.5618708,,,,
-cave_entrance_49,Coalo del Bracalgion,46.01512,11.5618155,,,,
-cave_entrance_50,Coalo della polveriera,46.0201094,11.5784912,,,,
-cave_entrance_51,Coalo sotto il Pozzo della Singala,46.0048385,11.588089,,,,
-cave_entrance_52,Cogolo dei Agnei,46.0240068,11.5576525,,,,
-cave_entrance_53,Covolo del Vento,46.0041255,11.6084148,,,,
-cave_entrance_54,Covolo della Tomba,46.004,11.6059965,,,,
-cave_entrance_55,Covolo della Val Fassinera,46.0073886,11.4559635,,,,
-cave_entrance_56,Covolo delle Balze,46.0053936,11.5850409,,,,
-cave_entrance_57,Crepa del Colon,46.0201159,11.560987,,,,
-cave_entrance_58,Crepa della Barbana,46.0065038,11.5673776,,,,
-cave_entrance_59,Crepa della Catarinela,46.0070589,11.5671063,,,,
-cave_entrance_60,el Coglolo dei Ortesini di Kuvl ,45.9174675,11.3170425,,,,
-cave_entrance_61,el Cogolo rosso,45.9134237,11.3123506,,,,
-cave_entrance_62,Elisabethstollen,46.6544607,11.5430177,,,,
-cave_entrance_63,ex Cava di marmo,45.8099243,11.3487911,,,,
-cave_entrance_64,Funtana Chistagna,46.8139289,10.4254275,,,,
-cave_entrance_65,Galleria 6,45.8675671,11.8346006,,,,
-cave_entrance_66,Galleria Cima Neutra,45.8191324,11.3455036,,,,
-cave_entrance_67,Galleria Cima Neutra,45.8201689,11.3462828,,,,
-cave_entrance_68,Galleria con Postazione,45.8543896,11.6566309,,,,
-cave_entrance_69,Galleria di Angelo,45.847616,11.6733591,,,,
-cave_entrance_70,Galleria Poggio di Col San Martino Prima Guerra Mondiale,45.8070252,11.9254591,,,,
-cave_entrance_71,Gallerie 1guerra Mondiale,45.7859279,11.5720405,,,,
-cave_entrance_72,Grotta 1 dei Briganti,45.9923717,11.6015017,,,,
-cave_entrance_73,Grotta 1 delle Beccarie,46.0047244,11.6077734,,,,
-cave_entrance_74,Grotta 1 delle Pale Rosse,46.118584,11.7263818,,,,
-cave_entrance_75,Grotta 1 delle sabbie,46.0792814,11.6212729,,,,
-cave_entrance_76,Grotta 2 dei Briganti,45.9923382,11.60155,,,,
-cave_entrance_77,Grotta 2 delle Beccarie,46.0047243,11.6077737,,,,
-cave_entrance_78,Grotta 2 delle sabbie,46.0792562,11.6211941,,,,
-cave_entrance_79,Grotta a Est di Malga Valfontane,46.1048374,11.6684958,,,,
-cave_entrance_80,Grotta a Sud di Malga Zanca,46.1117755,11.6915587,,,,
-cave_entrance_81,Grotta Carachighele,45.8813432,11.4283456,,,,
-cave_entrance_82,Grotta dei Camosci,46.0095685,11.5896134,,,,
-cave_entrance_83,Grotta dei Due Ingressi,46.0056723,11.5854543,,,,
-cave_entrance_84,Grotta dei Soeri,46.0073382,11.6115525,,,,
-cave_entrance_85,Grotta del Calgeron,46.0074146,11.6192771,,,,
-cave_entrance_86,Grotta del Colo,46.0893491,11.6150992,,,,
-cave_entrance_87,Grotta del Corvo,46.0088652,11.6171894,,,,
-cave_entrance_88,Grotta del Lago,45.979828,11.5131038,,,,
-cave_entrance_89,Grotta del Muschio,46.0053932,11.5854542,,,,
-cave_entrance_90,Grotta del Salto,46.0086712,11.6178003,,,,
-cave_entrance_91,Grotta del Soffio,46.0063165,11.5944989,,,,
-cave_entrance_92,Grotta dell Asenaro,46.0776146,11.6209918,,,,
-cave_entrance_93,Grotta dell Orso,46.0063111,11.5862591,,,,
-cave_entrance_94,Grotta della Bigonda,46.0181626,11.5809973,,,,
-cave_entrance_95,Grotta della Capra,45.978234,11.490113,,,,
-cave_entrance_96,Grotta della Fosca,46.1340042,11.726276,,,,
-cave_entrance_97,Grotta della Porta,46.0042871,11.5901815,,,,
-cave_entrance_98,Grotta della Volpe,46.1339999,11.7268325,,,,
-cave_entrance_99,Grotta dellacqua nera,46.0623254,11.693234,,,,
-cave_entrance_100,Grotta delle Taie,46.0160877,11.5668209,,,,
-cave_entrance_101,Grotta dello Sbircio,46.0053976,11.5868494,,,,
-cave_entrance_102,Grotta di Castel Tesino,46.0885855,11.6814614,,,,
-cave_entrance_103,Grotta di Costalta,45.9888791,11.3744918,,,,
-cave_entrance_104,Grotta di Ernesto,45.9781115,11.6563377,,,,
-cave_entrance_105,Grotta di Gange,46.088176,11.6136137,,,,
-cave_entrance_106,Grotta di Lissa,46.0752538,11.6298901,,,,
-cave_entrance_107,Grotta di San Lucano,46.294649,11.9081191,,,,
-cave_entrance_108,Grotta di Santa Barbara,45.9511273,11.8735912,,,,
-cave_entrance_109,Grotte di Oliero,45.8435538,11.6681485,,,,
-cave_entrance_110,Grotticella alla Casera Spessa,46.1290196,11.6935898,,,,
-cave_entrance_111,Leute Kubele,45.8550446,11.4400845,,,,
-cave_entrance_112,Loch,46.513111,11.2793236,,,,
-cave_entrance_113,Lorenzstollen,46.6542238,11.5419305,,,,
-cave_entrance_114,Miggehle,46.5138404,11.5405153,,,,
-cave_entrance_115,Miniera dellAubis,46.1119712,11.3132041,,,,
-cave_entrance_116,Mortner Gufl,46.4848027,11.43121,,,,
-cave_entrance_117,Occhio Destro Val delle Taie,46.0070528,11.5673772,,,,
-cave_entrance_118,Occhio Sinistro Val delle Taie,46.007053,11.5673722,,,,
-cave_entrance_119,Postazione Austriaca 1915 1918,46.1162799,11.2767013,,,,
-cave_entrance_120,Pozzo Alessandro,45.9874651,11.5997844,,,,
-cave_entrance_121,Pozzo dei Caprioli,45.9995587,11.6097407,,,,
-cave_entrance_122,Pozzo dei Cinque,45.9906656,11.586827,,,,
-cave_entrance_123,Pozzo del dragone,46.099319,11.6654641,,,,
-cave_entrance_124,Pozzo della Saetta,46.0063131,11.582591,,,,
-cave_entrance_125,Pozzo della Scura,45.9817768,11.5918221,,,,
-cave_entrance_126,Pozzo della Singala,46.004733,11.5879808,,,,
-cave_entrance_127,Pozzo delle Fratte,46.0653772,11.5552389,,,,
-cave_entrance_128,Pozzo dello sciamano,45.9981143,11.6055919,,,,
-cave_entrance_129,Pozzo Dogomale,46.0008889,11.5940213,,,,
-cave_entrance_130,Pozzo I Baito Cuvolin,46.0011095,11.4803788,,,,
-cave_entrance_131,Pozzo II Baito Cuvolin,46.0011719,11.4799941,,,,
-cave_entrance_132,Pozzo III Baito Cuvolin,46.0003917,11.4819352,,,,
-cave_entrance_133,Pozzo IV Baito Cuvolin,46.0003377,11.4819328,,,,
-cave_entrance_134,Pozzo Lares,46.1000236,11.6622636,,,,
-cave_entrance_135,Pozzo Nicola,46.0056058,11.579946,,,,
-cave_entrance_136,Pozzo sotto Cima Undici,46.0043354,11.4835195,,,,
-cave_entrance_137,Pozzo V Baito Cuvolin,46.0002748,11.4819299,,,,
-cave_entrance_138,Pozzo VI Baito Cuvolin,46.0031662,11.4818269,,,,
-cave_entrance_139,Pozzo VII Baito Cuvolin,46.0017801,11.4834825,,,,
-cave_entrance_140,Riparo Dalmeri,45.9951297,11.6016642,,,,
-cave_entrance_141,Risorgiva di Val Noana,46.1306614,11.8131647,,,,
-cave_entrance_142,Schneehhle  Grotta della Neve,46.6232663,11.9503449,,,,
-cave_entrance_143,Sfesa del Sanguanelo,46.0065003,11.5679329,,,,
-cave_entrance_144,Sorgente di Malga Arpaco,46.1116924,11.6988921,,,,
-cave_entrance_145,Sorgente Ferrugginosa,46.1300562,11.2764748,,,,
-cave_entrance_146,Speluga Fondi,45.8018559,11.4914135,,,,
-cave_entrance_147,Stoli,46.1557093,11.8038808,,,,
-cave_entrance_148,Stoli,46.1558973,11.8045149,,,,
-cave_entrance_149,Tana dei Beatrichi,46.006721,11.5665223,,,,
-cave_entrance_150,Tana del Lupo,45.7919277,11.8290331,,,,
-cave_entrance_151,Tana trifoglio,46.1198483,11.722432,,,,
-cave_entrance_152,Tschetter Loch,46.4825593,11.5645018,,,,
-cave_entrance_153,Uvada,46.1065615,11.6613364,,,,
-cave_entrance_154,Voragine di Cima Spiz,45.8755769,11.3103204,,,,
+index,address,city,name,latitude,longitude
+cave_1,"Antro a SSE di Sant' Antonio, Strada forestale Driosilana, Pieve Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38050, Italia",Pieve Tesino,Antro a SSE di Sant Antonio,46.0934588,11.6150319
+cave_2,"Buco del Fango, Strada forestale Luisierne, Masi dei Mioli, Maso dei Taviani, Pieve Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38050, Italia",Pieve Tesino,Buco del Fango,46.0801229,11.5926849
+cave_3,"Buco del Pal, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Buco del Pal,45.9873309,11.5909969
+cave_4,"Bus de l' Acqua, Strada forestale Prapezzè, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Castello Tesino,Bus de l Acqua,46.087753,11.6811786
+cave_5,"Caverna 2 di Malga Valfontane, Strada forestale Val Fontane, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Castello Tesino,Caverna 2 di Malga Valfontane,46.1048373,11.6684993
+cave_6,"Caverna dei ciclopi, Strada forestale Val Caora Bassa, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Caverna dei ciclopi,46.1199366,11.722501
+cave_7,"Caverna dei Pastori, Traccia Sentiero Cima Agaro - Magri, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Castello Tesino,Caverna dei Pastori,46.0903937,11.6568324
+cave_8,"Caverna del fiume scomparso, Strada forestale Val Caora Bassa, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Caverna del fiume scomparso,46.1204231,11.7209719
+cave_9,"Caverna sentinella 1, Strada forestale Val Caora Bassa, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Caverna sentinella 1,46.1204265,11.7227193
+cave_10,"Caverna sentinella 2�, Strada forestale Val Caora Bassa, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Caverna sentinella 2 ,46.1204175,11.7227189
+cave_11,"Caverna sentinella 3, Strada forestale Val Caora Bassa, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Caverna sentinella 3,46.1202932,11.722648
+cave_12,"Cavernetta sotto Pozzo Lares, Strada forestale Val Fontane, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Castello Tesino,Cavernetta sotto Pozzo Lares,46.0999517,11.6622601
+cave_13,"Coalo de la Taiarona, Via per Petretto, Ospedaletto, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Ospedaletto,Coalo de la Taiarona,46.0154788,11.5618708
+cave_14,"Coalo del Bracalgiòn, Via per Petretto, Ospedaletto, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Ospedaletto,Coalo del Bracalgion,46.01512,11.5618155
+cave_15,"Coalo della polveriera, Località Selva, Ospedaletto, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Ospedaletto,Coalo della polveriera,46.0201094,11.5784912
+cave_16,"Coalo sotto il Pozzo della Singala, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Coalo sotto il Pozzo della Singala,46.0048385,11.588089
+cave_17,"Cogolo dei Agnei, Via per Petretto, Roncade, Ospedaletto, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38059, Italia",Ospedaletto,Cogolo dei Agnei,46.0240068,11.5576525
+cave_18,"Covolo del Vento, Strada della Marcesina - Die Barricata Straße, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Covolo del Vento,46.0041255,11.6084148
+cave_19,"Covolo della Tomba, Strada della Marcesina, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Covolo della Tomba,46.004,11.6059965
+cave_20,"Covolo delle Balze, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Covolo delle Balze,46.0053936,11.5850409
+cave_21,"Crepa del Colon, Via per Petretto, Ospedaletto, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Ospedaletto,Crepa del Colon,46.0201159,11.560987
+cave_22,"el Coglolo dei Ortesini/di Kuvl vón Léhr-Hóvl, Tetsch - Via Tezze, Tetsch - Tezze, Lusérn - Luserna, Magnifica Comunità degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Luserna,el Coglolo dei Ortesini di Kuvl ,45.9174675,11.3170425
+cave_23,"Grotta 1 dei Briganti, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Grotta 1 dei Briganti,45.9923717,11.6015017
+cave_24,"Grotta 1 delle Beccarie, Strada della Marcesina - Die Barricata Straße, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta 1 delle Beccarie,46.0047244,11.6077734
+cave_25,"Grotta 1 delle Pale Rosse, Strada forestale Tonarezza di Sotto, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Grotta 1 delle Pale Rosse,46.118584,11.7263818
+cave_26,"Grotta 1 delle sabbie, Strada forestale Albarea bassa, Lissa, Pieve Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Pieve Tesino,Grotta 1 delle sabbie,46.0792814,11.6212729
+cave_27,"Grotta 2 dei Briganti, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Grotta 2 dei Briganti,45.9923382,11.60155
+cave_28,"Grotta 2 delle Beccarie, Strada della Marcesina - Die Barricata Straße, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta 2 delle Beccarie,46.0047243,11.6077737
+cave_29,"Grotta 2 delle sabbie, Strada forestale Albarea bassa, Lissa, Pieve Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Pieve Tesino,Grotta 2 delle sabbie,46.0792562,11.6211941
+cave_30,"Grotta a Est di Malga Valfontane, Strada forestale Val Fontane, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Castello Tesino,Grotta a Est di Malga Valfontane,46.1048374,11.6684958
+cave_31,"Grotta a Sud di Malga Zanca, Strada forestale Tonarezza di Sopra, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Grotta a Sud di Malga Zanca,46.1117755,11.6915587
+cave_32,"Grotta dei Camosci, Strada della Marcesina - Die Barricata Straße, Selva di Grigno, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta dei Camosci,46.0095685,11.5896134
+cave_33,"Grotta dei Due Ingressi, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Grotta dei Due Ingressi,46.0056723,11.5854543
+cave_34,"Grotta dei Soeri, Strada della Marcesina - Die Barricata Straße, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta dei Soeri,46.0073382,11.6115525
+cave_35,"Grotta del Calgeron, Sentiero grotte Calgeron, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta del Calgeron,46.0074146,11.6192771
+cave_36,"Grotta del Colo, sentiero per Grotta del Colo, Pieve Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Pieve Tesino,Grotta del Colo,46.0893491,11.6150992
+cave_37,"Grotta del Corvo, Via Pertega, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta del Corvo,46.0088652,11.6171894
+cave_38,"Grotta del Muschio, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Grotta del Muschio,46.0053932,11.5854542
+cave_39,"Grotta del Salto, Via Pertega, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta del Salto,46.0086712,11.6178003
+cave_40,"Grotta del Soffio, Strada della Marcesina - Die Barricata Straße, Selva di Grigno, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta del Soffio,46.0063165,11.5944989
+cave_41,"Grotta dell' Asenaro, Strada forestale Albarea bassa, Lissa, Pieve Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Pieve Tesino,Grotta dell Asenaro,46.0776146,11.6209918
+cave_42,"Grotta dell' Orso, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Grotta dell Orso,46.0063111,11.5862591
+cave_43,"Grotta della Bigonda, Strada della Marcesina - Die Barricata Straße, Ospedaletto, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Ospedaletto,Grotta della Bigonda,46.0181626,11.5809973
+cave_44,"Grotta della Fosca, Strada forestale Vallunga, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Grotta della Fosca,46.1340042,11.726276
+cave_45,"Grotta della Porta, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Grotta della Porta,46.0042871,11.5901815
+cave_46,"Grotta della Volpe, Strada forestale Vallunga, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Grotta della Volpe,46.1339999,11.7268325
+cave_47,"Grotta delle Taie, Strada della Bigonda, Ospedaletto, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Ospedaletto,Grotta delle Taie,46.0160877,11.5668209
+cave_48,"Grotta dello Sbircio, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Grotta dello Sbircio,46.0053976,11.5868494
+cave_49,"Grotta di Castel Tesino, Strada forestale Prapezzè, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Castello Tesino,Grotta di Castel Tesino,46.0885855,11.6814614
+cave_50,"Grotta di Ernesto, Strada forestale Val d'Antenne, Case Celeste, Tezze Valsugana, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Grotta di Ernesto,45.9781115,11.6563377
+cave_51,"Grotta di Gange, sentiero per Grotta del Colo, Pieve Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Pieve Tesino,Grotta di Gange,46.088176,11.6136137
+cave_52,"Grotta di Lissa, Sentiero di Passugola, Lissa, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Castello Tesino,Grotta di Lissa,46.0752538,11.6298901
+cave_53,"Grotticella alla Casera Spessa, SP79, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Castello Tesino,Grotticella alla Casera Spessa,46.1290196,11.6935898
+cave_54,"Miniera dell'Aubis, Hosler, Mitterpèrg - San Felice, Fierozzo - Vlarotz, Comunità Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Fierozzo,Miniera dellAubis,46.1119712,11.3132041
+cave_55,"Postazione Austriaca 1915/1918, Mulattiera militare, Fioré, Baselga di Piné, Comunità Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38042, Italia",Baselga di Pine,Postazione Austriaca 1915 1918,46.1162799,11.2767013
+cave_56,"Pozzo Alessandro, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Pozzo Alessandro,45.9874651,11.5997844
+cave_57,"Pozzo dei Caprioli, Strada forestale Costalta Valvacchetta, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Pozzo dei Caprioli,45.9995587,11.6097407
+cave_58,"Pozzo dei Cinque, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Pozzo dei Cinque,45.9906656,11.586827
+cave_59,"Pozzo del dragone, Strada forestale Val Fontane, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Castello Tesino,Pozzo del dragone,46.099319,11.6654641
+cave_60,"Pozzo della Saetta, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Pozzo della Saetta,46.0063131,11.582591
+cave_61,"Pozzo della Scura, Strada forestale Laghetti, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Pozzo della Scura,45.9817768,11.5918221
+cave_62,"Pozzo della Singala, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Pozzo della Singala,46.004733,11.5879808
+cave_63,"Pozzo dello sciamano, Strada forestale Costalta Valvacchetta, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Pozzo dello sciamano,45.9981143,11.6055919
+cave_64,"Pozzo Dogomale, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Pozzo Dogomale,46.0008889,11.5940213
+cave_65,"Pozzo Lares, Strada forestale Val Fontane, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Castello Tesino,Pozzo Lares,46.1000236,11.6622636
+cave_66,"Pozzo Nicola, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Grigno,Pozzo Nicola,46.0056058,11.579946
+cave_67,"Riparo Dalmeri, Strada forestale Giogomalo, Grigno, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38055, Italia",Grigno,Riparo Dalmeri,45.9951297,11.6016642
+cave_68,"Risorgiva di Val Noana, Val Caora, Imer, Comunità di Primiero, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Imer,Risorgiva di Val Noana,46.1306614,11.8131647
+cave_69,"Sorgente di Malga Arpaco, Strada forestale Tonarezza di Sopra, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Sorgente di Malga Arpaco,46.1116924,11.6988921
+cave_70,"Sorgente Ferrugginosa, Strada Forestale ""Costalta"", Fovo alto, Rizzolaga, Baselga di Piné, Comunità Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38042, Italia",Baselga di Pine,Sorgente Ferrugginosa,46.1300562,11.2764748
+cave_71,"Stoli, Via Di Sopra, Mezzano, Comunità di Primiero, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38054, Italia",Mezzano,Stoli,46.1557093,11.8038808
+cave_72,"Stoli, Via Di Sopra, Mezzano, Comunità di Primiero, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38054, Italia",Mezzano,Stoli,46.1558973,11.8045149
+cave_73,"Tana trifoglio, Strada forestale Val Caora Bassa, Cinte Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Cinte Tesino,Tana trifoglio,46.1198483,11.722432
+cave_74,"Uvada, Strada forestale Gorgantile, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Castello Tesino,Uvada,46.1065615,11.6613364
