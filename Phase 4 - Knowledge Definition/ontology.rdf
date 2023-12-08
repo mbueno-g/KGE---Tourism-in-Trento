@@ -27,22 +27,6 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#bus_station_GID-15745 -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#bus_station_GID-15745">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#transportation_GID-24838"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#cave_GID-49272 -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#cave_GID-49272">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#formation_GID-49530"/>
-    </owl:Class>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#formation_GID-49530 -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#formation_GID-49530"/>
@@ -67,22 +51,6 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#lake_GID-49734 -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#lake_GID-49734">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#formation_GID-49530"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#mountain_GID-49901 -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#mountain_GID-49901">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#formation_GID-49530"/>
-    </owl:Class>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#region_GID-46452 -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#region_GID-46452"/>
@@ -104,14 +72,6 @@
     <!-- http://knowdive.disi.unitn.it/etype#tourist_GID-57726 -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#tourist_GID-57726"/>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#train_station_GID-22321 -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#train_station_GID-22321">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#transportation_GID-24838"/>
-    </owl:Class>
     
 
 
