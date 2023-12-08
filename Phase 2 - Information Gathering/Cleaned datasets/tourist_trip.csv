@@ -1,21 +1,21 @@
-id,name,tourist_type,trip_origin,arrival_time,height
-tourist_trip_1,"Val di Ledro, Wasserfall Via del ponale loop from Riva del Garda",high,station_3484,03:25,470
-tourist_trip_2,Bastione Santa Barbara loop from Sant'Alessandro,high,station_790,04:50,780
-tourist_trip_3,Lago di Tenno ñ T¸rkisfarbener Tenno See loop from Gavazzo,high,station_2063,05:03,840
-tourist_trip_4,Punta Larici - Bocca Larici ñ Sentiero Ponale loop from Bastione,high,station_3484,07:23,1130
-tourist_trip_5,Becco di Filadonna via Rifugio Casarota,high,0,05:16,1000
-tourist_trip_6,Salita al Rifugio Vajolet e al Rifugio Re Alberto,high,0,03:12,650
-tourist_trip_7,Salita al Rifugio Sette Selle  Giro ad anello,high,0,05:17,830
-tourist_trip_8,Camminata nei dintorni di Riva del Garda,low,0,01:27,212
-tourist_trip_9,Camminando lungo il Lago di Ledro,low,0,01:47,50
-tourist_trip_10,Qualche scorcio del Lago di Molveno,low,0,01:14,50
-tourist_trip_11,Lago di Tenno  TÅrkisfarbener Tenno See loop from Ville Del Monte,low,0,01:10,90
-tourist_trip_12,Valle del Sarca Arco Castle loop from Caneve,low,station_911,01:26,160
-tourist_trip_13,Chiesa di Santa Maria Maggiore ñ Porta di Santa Margherita loop from Centro storico Trento,low,station_3465,00:55,0
-tourist_trip_14,Valle del Sarca  Arco Castle loop from Caneve,low,station_911,01:04,160
-tourist_trip_15,Lungo il sentiero panoramico Bussate Tempesta,medium,0,02:49,350
-tourist_trip_16,Giro del Lago di Ledro,medium,0,02:38,160
-tourist_trip_17,Giro del lago di Levico  Giro ad anello,medium,0,02:02,90
-tourist_trip_18,Via del ponale  Ponale Alto loop from Biacesa di Ledro,medium,station_2690,03:32,500
-tourist_trip_19,Panorama Lago di Molveno Spiaggia del lago di Molveno loop from Molveno,medium,station_1389,02:52,160
-tourist_trip_20,Salita al Bastione ñ Bastione loop from San Giacomo,medium,station_789,03:16,456
+id;name;tourist_type;trip_origin;arrival_time;height
+tourist_trip_1;Val di Ledro, Wasserfall Via del ponale loop from Riva del Garda;high;station_3484;03:25;470
+tourist_trip_2;Bastione Santa Barbara loop from Sant'Alessandro;high;station_790;04:50;780
+tourist_trip_3;Lago di Tenno ‚Äì Turkisfarbener Tenno See loop from Gavazzo;high;station_2063;05:03;840
+tourist_trip_4;Punta Larici - Bocca Larici ‚Äì Sentiero Ponale loop from Bastione;high;station_3484;07:23;1130
+tourist_trip_5;Becco di Filadonna via Rifugio Casarota;high;0;05:16;1000
+tourist_trip_6;Salita al Rifugio Vajolet e al Rifugio Re Alberto;high;0;03:12;650
+tourist_trip_7;Salita al Rifugio Sette Selle  Giro ad anello;high;0;05:17;830
+tourist_trip_8;Camminata nei dintorni di Riva del Garda;low;0;01:27;212
+tourist_trip_9;Camminando lungo il Lago di Ledro;low;0;01:47;50
+tourist_trip_10;Qualche scorcio del Lago di Molveno;low;0;01:14;50
+tourist_trip_11;Lago di Tenno  TÔøΩrkisfarbener Tenno See loop from Ville Del Monte;low;0;01:10;90
+tourist_trip_12;Valle del Sarca Arco Castle loop from Caneve;low;station_911;01:26;160
+tourist_trip_13;Chiesa di Santa Maria Maggiore ‚Äì Porta di Santa Margherita loop from Centro storico Trento;low;station_3465;00:55;0
+tourist_trip_14;Valle del Sarca  Arco Castle loop from Caneve;low;station_911;01:04;160
+tourist_trip_15;Lungo il sentiero panoramico Bussate Tempesta;medium;0;02:49;350
+tourist_trip_16;Giro del Lago di Ledro;medium;0;02:38;160
+tourist_trip_17;Giro del lago di Levico  Giro ad anello;medium;0;02:02;90
+tourist_trip_18;Via del ponale  Ponale Alto loop from Biacesa di Ledro;medium;station_2690;03:32;500
+tourist_trip_19;Panorama Lago di Molveno Spiaggia del lago di Molveno loop from Molveno;medium;station_1389;02:52;160
+tourist_trip_20;Salita al Bastione ‚Äì Bastione loop from San Giacomo;medium;station_789;03:16;456
