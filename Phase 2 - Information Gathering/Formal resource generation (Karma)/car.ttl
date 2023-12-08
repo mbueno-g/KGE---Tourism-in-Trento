@@ -1,8 +1,0 @@
-_:Car1_5983871b10851aeac6c9ae440381f15637b9d400_N12_af04b653b6a17918d2cdd16fb359f4a6e6637d1e_N13 <http://knowdive.disi.unitn.it/etype#has_brand> "Toyota" .
-_:Car1_5983871b10851aeac6c9ae440381f15637b9d400_N12_af04b653b6a17918d2cdd16fb359f4a6e6637d1e_N13 <http://knowdive.disi.unitn.it/etype#has_model> "Camri" .
-_:Car1_5983871b10851aeac6c9ae440381f15637b9d400_N12_af04b653b6a17918d2cdd16fb359f4a6e6637d1e_N13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car> .
-
-_:Car1_db61627fd377a85d0dd574b16a9d72269ab9fc3e_N15_60a6e5ba53a3c011f0fa0ae682d4f6e5ac4ff74a_N16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car> .
-_:Car1_db61627fd377a85d0dd574b16a9d72269ab9fc3e_N15_60a6e5ba53a3c011f0fa0ae682d4f6e5ac4ff74a_N16 <http://knowdive.disi.unitn.it/etype#has_brand> "Honda" .
-_:Car1_db61627fd377a85d0dd574b16a9d72269ab9fc3e_N15_60a6e5ba53a3c011f0fa0ae682d4f6e5ac4ff74a_N16 <http://knowdive.disi.unitn.it/etype#has_model> "Civic" .
-
