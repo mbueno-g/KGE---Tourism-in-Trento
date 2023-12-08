@@ -1,0 +1,357 @@
+<http://localhost:8080/source/gas_1> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4228045" .
+<http://localhost:8080/source/gas_1> <http://knowdive.disi.unitn.it/etype#has_city> "Roncegno Terme" .
+<http://localhost:8080/source/gas_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_1> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0448287" .
+<http://localhost:8080/source/gas_1> <http://knowdive.disi.unitn.it/etype#has_address> "Agip Eni, Strada Statale 47 della Valsugana, Larganza, Marter, Roncegno Terme, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38051, Italia" .
+<http://localhost:8080/source/gas_1> <http://knowdive.disi.unitn.it/etype#has_name> "Eni Station" .
+
+<http://localhost:8080/source/gas_2> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0487614" .
+<http://localhost:8080/source/gas_2> <http://knowdive.disi.unitn.it/etype#has_name> "Loro" .
+<http://localhost:8080/source/gas_2> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4757382" .
+<http://localhost:8080/source/gas_2> <http://knowdive.disi.unitn.it/etype#has_city> "Castelnuovo" .
+<http://localhost:8080/source/gas_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_2> <http://knowdive.disi.unitn.it/etype#has_address> "Loro, SS47, Perozzi, Spagolle, Castelnuovo, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38051, Italia" .
+
+<http://localhost:8080/source/gas_3> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4699664" .
+<http://localhost:8080/source/gas_3> <http://knowdive.disi.unitn.it/etype#has_address> "Agip, 62, Corso Vicenza, Borgo Valsugana, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38051, Italia" .
+<http://localhost:8080/source/gas_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_3> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0552954" .
+<http://localhost:8080/source/gas_3> <http://knowdive.disi.unitn.it/etype#has_city> "Borgo Valsugana" .
+<http://localhost:8080/source/gas_3> <http://knowdive.disi.unitn.it/etype#has_name> "Agip" .
+
+<http://localhost:8080/source/gas_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_4> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2311168" .
+<http://localhost:8080/source/gas_4> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+<http://localhost:8080/source/gas_4> <http://knowdive.disi.unitn.it/etype#has_city> "Pergine Valsugana" .
+<http://localhost:8080/source/gas_4> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, Statale Valsugana, Fornaci, SusÃ , Pergine Valsugana, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38057, Italia" .
+<http://localhost:8080/source/gas_4> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0581489" .
+
+<http://localhost:8080/source/gas_5> <http://knowdive.disi.unitn.it/etype#has_address> "Stazione di servizio GNP - Calceranica, 44, Corso degli Alpini, Calceranica al Lago, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38050, Italia" .
+<http://localhost:8080/source/gas_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_5> <http://knowdive.disi.unitn.it/etype#has_name> "Stazione di servizio GNP - Calceranica" .
+<http://localhost:8080/source/gas_5> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2459132" .
+<http://localhost:8080/source/gas_5> <http://knowdive.disi.unitn.it/etype#has_city> "Calceranica al Lago" .
+<http://localhost:8080/source/gas_5> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0010443" .
+
+<http://localhost:8080/source/gas_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_6> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0037325" .
+<http://localhost:8080/source/gas_6> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2439009" .
+<http://localhost:8080/source/gas_6> <http://knowdive.disi.unitn.it/etype#has_address> "Delta Energy, Corso degli Alpini, Calceranica al Lago, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38052, Italia" .
+<http://localhost:8080/source/gas_6> <http://knowdive.disi.unitn.it/etype#has_name> "Delta Energy" .
+<http://localhost:8080/source/gas_6> <http://knowdive.disi.unitn.it/etype#has_city> "Calceranica al Lago" .
+
+<http://localhost:8080/source/gas_7> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, Via Bertoldi, Villaggio MÃ³ar, Azzolini, Gionghi, Lavarone, Magnifica ComunitÃ  degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38046, Italia" .
+<http://localhost:8080/source/gas_7> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2677353" .
+<http://localhost:8080/source/gas_7> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9409686" .
+<http://localhost:8080/source/gas_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_7> <http://knowdive.disi.unitn.it/etype#has_city> "Lavarone" .
+<http://localhost:8080/source/gas_7> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+
+<http://localhost:8080/source/gas_8> <http://knowdive.disi.unitn.it/etype#has_city> "Canal San Bovo" .
+<http://localhost:8080/source/gas_8> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.1498412" .
+<http://localhost:8080/source/gas_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_8> <http://knowdive.disi.unitn.it/etype#has_address> "Tamoil, Strada Provinciale 79 del Brocon, Revedea, Canal San Bovo, ComunitÃ  di Primiero, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, Italia" .
+<http://localhost:8080/source/gas_8> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.7351753" .
+<http://localhost:8080/source/gas_8> <http://knowdive.disi.unitn.it/etype#has_name> "Tamoil" .
+
+<http://localhost:8080/source/gas_9> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2071347" .
+<http://localhost:8080/source/gas_9> <http://knowdive.disi.unitn.it/etype#has_name> "Agip" .
+<http://localhost:8080/source/gas_9> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0759963" .
+<http://localhost:8080/source/gas_9> <http://knowdive.disi.unitn.it/etype#has_city> "Pergine Valsugana" .
+<http://localhost:8080/source/gas_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_9> <http://knowdive.disi.unitn.it/etype#has_address> "Agip, Via per Trento, Madrano, Pergine Valsugana, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38034, Italia" .
+
+<http://localhost:8080/source/gas_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_10> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0450899" .
+<http://localhost:8080/source/gas_10> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2350485" .
+<http://localhost:8080/source/gas_10> <http://knowdive.disi.unitn.it/etype#has_address> "IP, Strada Statale 47 della Valsugana, Maso Valderban, San Cristoforo al Lago, Pergine Valsugana, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38057, Italia" .
+<http://localhost:8080/source/gas_10> <http://knowdive.disi.unitn.it/etype#has_name> "IP" .
+<http://localhost:8080/source/gas_10> <http://knowdive.disi.unitn.it/etype#has_city> "Pergine Valsugana" .
+
+<http://localhost:8080/source/gas_11> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2353864" .
+<http://localhost:8080/source/gas_11> <http://knowdive.disi.unitn.it/etype#has_address> "GNP, 27, Via al Lago, Canale, Pergine Valsugana, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38057, Italia" .
+<http://localhost:8080/source/gas_11> <http://knowdive.disi.unitn.it/etype#has_city> "Pergine Valsugana" .
+<http://localhost:8080/source/gas_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_11> <http://knowdive.disi.unitn.it/etype#has_name> "GNP" .
+<http://localhost:8080/source/gas_11> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0488907" .
+
+<http://localhost:8080/source/gas_12> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4232665" .
+<http://localhost:8080/source/gas_12> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0444502" .
+<http://localhost:8080/source/gas_12> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+<http://localhost:8080/source/gas_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_12> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, SS47, Larganza, Marter, Roncegno Terme, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38051, Italia" .
+<http://localhost:8080/source/gas_12> <http://knowdive.disi.unitn.it/etype#has_city> "Roncegno Terme" .
+
+<http://localhost:8080/source/gas_13> <http://knowdive.disi.unitn.it/etype#has_address> "Agip, Viale Dante, Fornaci, Pergine Valsugana, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38057, Italia" .
+<http://localhost:8080/source/gas_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_13> <http://knowdive.disi.unitn.it/etype#has_name> "Agip" .
+<http://localhost:8080/source/gas_13> <http://knowdive.disi.unitn.it/etype#has_city> "Pergine Valsugana" .
+<http://localhost:8080/source/gas_13> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2251508" .
+<http://localhost:8080/source/gas_13> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.068552" .
+
+<http://localhost:8080/source/gas_14> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.666166" .
+<http://localhost:8080/source/gas_14> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.996838" .
+<http://localhost:8080/source/gas_14> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+<http://localhost:8080/source/gas_14> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, Strada Statale 47 della Valsugana, Belvederi di Tezze, Masi Orne, Tezze Valsugana, Grigno, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38055, Italia" .
+<http://localhost:8080/source/gas_14> <http://knowdive.disi.unitn.it/etype#has_city> "Grigno" .
+<http://localhost:8080/source/gas_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+
+<http://localhost:8080/source/gas_15> <http://knowdive.disi.unitn.it/etype#has_city> "Castelnuovo" .
+<http://localhost:8080/source/gas_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_15> <http://knowdive.disi.unitn.it/etype#has_name> "IP" .
+<http://localhost:8080/source/gas_15> <http://knowdive.disi.unitn.it/etype#has_address> "IP, SS47, Ceggio, Prai da Brenta, Castelnuovo, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38051, Italia" .
+<http://localhost:8080/source/gas_15> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0508176" .
+<http://localhost:8080/source/gas_15> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.485182" .
+
+<http://localhost:8080/source/gas_16> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0513415" .
+<http://localhost:8080/source/gas_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_16> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+<http://localhost:8080/source/gas_16> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, 2, LocalitÃ  Prai da Brenta, Castelnuovo, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38050, Italia" .
+<http://localhost:8080/source/gas_16> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4844751" .
+<http://localhost:8080/source/gas_16> <http://knowdive.disi.unitn.it/etype#has_city> "Castelnuovo" .
+
+<http://localhost:8080/source/gas_17> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.3951273" .
+<http://localhost:8080/source/gas_17> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0342872" .
+<http://localhost:8080/source/gas_17> <http://knowdive.disi.unitn.it/etype#has_name> "Stazione di servizio GNP - Marter" .
+<http://localhost:8080/source/gas_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_17> <http://knowdive.disi.unitn.it/etype#has_address> "Stazione di servizio GNP - Marter, Strada Statale 47 della Valsugana, Marter, Roncegno Terme, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38050, Italia" .
+<http://localhost:8080/source/gas_17> <http://knowdive.disi.unitn.it/etype#has_city> "Roncegno Terme" .
+
+<http://localhost:8080/source/gas_18> <http://knowdive.disi.unitn.it/etype#has_city> "Levico Terme" .
+<http://localhost:8080/source/gas_18> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2955451" .
+<http://localhost:8080/source/gas_18> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0028164" .
+<http://localhost:8080/source/gas_18> <http://knowdive.disi.unitn.it/etype#has_name> "Eni" .
+<http://localhost:8080/source/gas_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_18> <http://knowdive.disi.unitn.it/etype#has_address> "Eni, Strada Statale 47 della Valsugana, Santa Giuliana, Levico Terme, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38056, Italia" .
+
+<http://localhost:8080/source/gas_19> <http://knowdive.disi.unitn.it/etype#has_name> "Q8" .
+<http://localhost:8080/source/gas_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_19> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.23017" .
+<http://localhost:8080/source/gas_19> <http://knowdive.disi.unitn.it/etype#has_address> "Q8, Statale Valsugana, Fornaci, SusÃ , Pergine Valsugana, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38057, Italia" .
+<http://localhost:8080/source/gas_19> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.058533" .
+<http://localhost:8080/source/gas_19> <http://knowdive.disi.unitn.it/etype#has_city> "Pergine Valsugana" .
+
+<http://localhost:8080/source/gas_20> <http://knowdive.disi.unitn.it/etype#has_city> "Mezzano" .
+<http://localhost:8080/source/gas_20> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.156708" .
+<http://localhost:8080/source/gas_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_20> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.815474" .
+<http://localhost:8080/source/gas_20> <http://knowdive.disi.unitn.it/etype#has_address> "Carburanti Dolomiti, Via Roma, Sorive, Mezzano, ComunitÃ  di Primiero, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38054, Italia" .
+<http://localhost:8080/source/gas_20> <http://knowdive.disi.unitn.it/etype#has_name> "Carburanti Dolomiti" .
+
+<http://localhost:8080/source/gas_21> <http://knowdive.disi.unitn.it/etype#has_name> "Tamoil" .
+<http://localhost:8080/source/gas_21> <http://knowdive.disi.unitn.it/etype#has_city> "Castello di Fiemme" .
+<http://localhost:8080/source/gas_21> <http://knowdive.disi.unitn.it/etype#has_address> "Tamoil, Strada Statale delle Dolomiti, Castello di Fiemme, Castello-Molina di Fiemme, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38099, Italia" .
+<http://localhost:8080/source/gas_21> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.285038" .
+<http://localhost:8080/source/gas_21> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.436596" .
+<http://localhost:8080/source/gas_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+
+<http://localhost:8080/source/gas_22> <http://knowdive.disi.unitn.it/etype#has_city> "Castello di Fiemme" .
+<http://localhost:8080/source/gas_22> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.2725849" .
+<http://localhost:8080/source/gas_22> <http://knowdive.disi.unitn.it/etype#has_address> "IP, Via Segherie, Predaia, Molina di Fiemme, Castello-Molina di Fiemme, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38099, Italia" .
+<http://localhost:8080/source/gas_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_22> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4194858" .
+<http://localhost:8080/source/gas_22> <http://knowdive.disi.unitn.it/etype#has_name> "IP" .
+
+<http://localhost:8080/source/gas_23> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2224209" .
+<http://localhost:8080/source/gas_23> <http://knowdive.disi.unitn.it/etype#has_city> "Lona-Lases" .
+<http://localhost:8080/source/gas_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_23> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.150321" .
+<http://localhost:8080/source/gas_23> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+<http://localhost:8080/source/gas_23> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, Via Nazionale, Lases, Lona-Lases, ComunitÃ  della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38040, Italia" .
+
+<http://localhost:8080/source/gas_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_24> <http://knowdive.disi.unitn.it/etype#has_address> "IP, Strada Provinciale 71 Fersina - Avisio, Scancio, Segonzano, ComunitÃ  della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38047, Italia" .
+<http://localhost:8080/source/gas_24> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.1879342" .
+<http://localhost:8080/source/gas_24> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2590113" .
+<http://localhost:8080/source/gas_24> <http://knowdive.disi.unitn.it/etype#has_name> "IP" .
+<http://localhost:8080/source/gas_24> <http://knowdive.disi.unitn.it/etype#has_city> "Segonzano" .
+
+<http://localhost:8080/source/gas_25> <http://knowdive.disi.unitn.it/etype#has_address> "Agip Eni, Corso Dolomiti, La BÃ¬ra, Al Fol, Predazzo, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38037, Italia" .
+<http://localhost:8080/source/gas_25> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.597161" .
+<http://localhost:8080/source/gas_25> <http://knowdive.disi.unitn.it/etype#has_city> "Predazzo" .
+<http://localhost:8080/source/gas_25> <http://knowdive.disi.unitn.it/etype#has_name> "Eni" .
+<http://localhost:8080/source/gas_25> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.3171607" .
+<http://localhost:8080/source/gas_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+
+<http://localhost:8080/source/gas_26> <http://knowdive.disi.unitn.it/etype#has_address> "Q8, SS48, Vigo di Fassa - Vich, SÃ¨n Jan, San Giovanni di Fassa - SÃ¨n Jan, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38036, Italia" .
+<http://localhost:8080/source/gas_26> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.4197614" .
+<http://localhost:8080/source/gas_26> <http://knowdive.disi.unitn.it/etype#has_city> "San Giovanni di Fassa-Sen Jan" .
+<http://localhost:8080/source/gas_26> <http://knowdive.disi.unitn.it/etype#has_name> "Q8" .
+<http://localhost:8080/source/gas_26> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6806829" .
+<http://localhost:8080/source/gas_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+
+<http://localhost:8080/source/gas_27> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+<http://localhost:8080/source/gas_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_27> <http://knowdive.disi.unitn.it/etype#has_city> "Moena" .
+<http://localhost:8080/source/gas_27> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, Strada de la ComunitÃ  de Fiem, Sorte, Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38035, Italia" .
+<http://localhost:8080/source/gas_27> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.3686743" .
+<http://localhost:8080/source/gas_27> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6517974" .
+
+<http://localhost:8080/source/gas_28> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.14532" .
+<http://localhost:8080/source/gas_28> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.7856361" .
+<http://localhost:8080/source/gas_28> <http://knowdive.disi.unitn.it/etype#has_address> "Q8, SS50, Masi di Imer, Imer, ComunitÃ  di Primiero, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, Italia" .
+<http://localhost:8080/source/gas_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_28> <http://knowdive.disi.unitn.it/etype#has_city> "Imer" .
+<http://localhost:8080/source/gas_28> <http://knowdive.disi.unitn.it/etype#has_name> "Q8" .
+
+<http://localhost:8080/source/gas_29> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+<http://localhost:8080/source/gas_29> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, Viale Piave, Pieve, Transacqua, Primiero San Martino di Castrozza, ComunitÃ  di Primiero, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38054, Italia" .
+<http://localhost:8080/source/gas_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_29> <http://knowdive.disi.unitn.it/etype#has_city> "San Martino di Castrozza" .
+<http://localhost:8080/source/gas_29> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.1725942" .
+<http://localhost:8080/source/gas_29> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.8262312" .
+
+<http://localhost:8080/source/gas_30> <http://knowdive.disi.unitn.it/etype#has_name> "Costantin" .
+<http://localhost:8080/source/gas_30> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0649368" .
+<http://localhost:8080/source/gas_30> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2465507" .
+<http://localhost:8080/source/gas_30> <http://knowdive.disi.unitn.it/etype#has_address> "Costantin, Via Spolverine, Zivignago, Pergine Valsugana, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38057, Italia" .
+<http://localhost:8080/source/gas_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_30> <http://knowdive.disi.unitn.it/etype#has_city> "Pergine Valsugana" .
+
+<http://localhost:8080/source/gas_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_31> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0057698" .
+<http://localhost:8080/source/gas_31> <http://knowdive.disi.unitn.it/etype#has_name> "IP" .
+<http://localhost:8080/source/gas_31> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2413397" .
+<http://localhost:8080/source/gas_31> <http://knowdive.disi.unitn.it/etype#has_city> "Calceranica al Lago" .
+<http://localhost:8080/source/gas_31> <http://knowdive.disi.unitn.it/etype#has_address> "IP, Via Guido Donegani - Strada Provinciale del Lago di Caldonazzo, Calceranica al Lago, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38052, Italia" .
+
+<http://localhost:8080/source/gas_32> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.1766307" .
+<http://localhost:8080/source/gas_32> <http://knowdive.disi.unitn.it/etype#has_address> "Viale 4 Novembre, Fadana, Cembra, Cembra Lisignago, ComunitÃ  della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38041, Italia" .
+<http://localhost:8080/source/gas_32> <http://knowdive.disi.unitn.it/etype#has_name> "Stazione di servizio petrol villa" .
+<http://localhost:8080/source/gas_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_32> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2236794" .
+<http://localhost:8080/source/gas_32> <http://knowdive.disi.unitn.it/etype#has_city> "Cembra Lisignago" .
+
+<http://localhost:8080/source/gas_33> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9965856" .
+<http://localhost:8080/source/gas_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_33> <http://knowdive.disi.unitn.it/etype#has_name> "Total" .
+<http://localhost:8080/source/gas_33> <http://knowdive.disi.unitn.it/etype#has_address> "Total, Viale Trento, Caldonazzo, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38052, Italia" .
+<http://localhost:8080/source/gas_33> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2591767" .
+<http://localhost:8080/source/gas_33> <http://knowdive.disi.unitn.it/etype#has_city> "Caldonazzo" .
+
+<http://localhost:8080/source/gas_34> <http://knowdive.disi.unitn.it/etype#has_address> "Agip Eni, Via Roma, Tressane, Tonadico, Primiero San Martino di Castrozza, ComunitÃ  di Primiero, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38054, Italia" .
+<http://localhost:8080/source/gas_34> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.8315714" .
+<http://localhost:8080/source/gas_34> <http://knowdive.disi.unitn.it/etype#has_city> "San Martino di Castrozza" .
+<http://localhost:8080/source/gas_34> <http://knowdive.disi.unitn.it/etype#has_name> "Eni Station" .
+<http://localhost:8080/source/gas_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_34> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.1819951" .
+
+<http://localhost:8080/source/gas_35> <http://knowdive.disi.unitn.it/etype#has_name> "Tamoil Carburante" .
+<http://localhost:8080/source/gas_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_35> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6691938" .
+<http://localhost:8080/source/gas_35> <http://knowdive.disi.unitn.it/etype#has_city> "Soraga di Fassa" .
+<http://localhost:8080/source/gas_35> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.3985829" .
+<http://localhost:8080/source/gas_35> <http://knowdive.disi.unitn.it/etype#has_address> "Tamoil, Stradon de Fascia, Soraga, Soraga di Fassa, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38030, Italia" .
+
+<http://localhost:8080/source/gas_36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_36> <http://knowdive.disi.unitn.it/etype#has_city> "Levico Terme" .
+<http://localhost:8080/source/gas_36> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2895201" .
+<http://localhost:8080/source/gas_36> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0041565" .
+<http://localhost:8080/source/gas_36> <http://knowdive.disi.unitn.it/etype#has_address> "Loro, Via Claudia Augusta, Levico Terme, ComunitÃ  Alta Valsugana e Bersntol, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38056, Italia" .
+<http://localhost:8080/source/gas_36> <http://knowdive.disi.unitn.it/etype#has_name> "Loro" .
+
+<http://localhost:8080/source/gas_37> <http://knowdive.disi.unitn.it/etype#has_city> "Cavalese" .
+<http://localhost:8080/source/gas_37> <http://knowdive.disi.unitn.it/etype#has_address> "Agip Eni, Via Trento, Cavalese, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38033, Italia" .
+<http://localhost:8080/source/gas_37> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.2907639" .
+<http://localhost:8080/source/gas_37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_37> <http://knowdive.disi.unitn.it/etype#has_name> "Camello Service di dellasega riccardo" .
+<http://localhost:8080/source/gas_37> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4545815" .
+
+<http://localhost:8080/source/gas_38> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.5951134" .
+<http://localhost:8080/source/gas_38> <http://knowdive.disi.unitn.it/etype#has_address> "Eni, Via Fiamme Gialle, PÃ¨ de PardÃ c, Coste, Predazzo, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38037, Italia" .
+<http://localhost:8080/source/gas_38> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.304635" .
+<http://localhost:8080/source/gas_38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_38> <http://knowdive.disi.unitn.it/etype#has_city> "Predazzo" .
+<http://localhost:8080/source/gas_38> <http://knowdive.disi.unitn.it/etype#has_name> "Eni" .
+
+<http://localhost:8080/source/gas_39> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6495876" .
+<http://localhost:8080/source/gas_39> <http://knowdive.disi.unitn.it/etype#has_address> "Agip, Strada de la ComunitÃ  de Fiem, Sorte, Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38035, Italia" .
+<http://localhost:8080/source/gas_39> <http://knowdive.disi.unitn.it/etype#has_city> "Moena" .
+<http://localhost:8080/source/gas_39> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.3666461" .
+<http://localhost:8080/source/gas_39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_39> <http://knowdive.disi.unitn.it/etype#has_name> "Agip" .
+
+<http://localhost:8080/source/gas_40> <http://knowdive.disi.unitn.it/etype#has_name> "Stazione di servizio GNP - Daiano" .
+<http://localhost:8080/source/gas_40> <http://knowdive.disi.unitn.it/etype#has_address> "Stazione di servizio GNP - Daiano, 61, Via San Tommaso, Daiano, Ville di Fiemme, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38030, Italia" .
+<http://localhost:8080/source/gas_40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_40> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.2999783" .
+<http://localhost:8080/source/gas_40> <http://knowdive.disi.unitn.it/etype#has_city> "Ville di Fiemme" .
+<http://localhost:8080/source/gas_40> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4516847" .
+
+<http://localhost:8080/source/gas_41> <http://knowdive.disi.unitn.it/etype#has_address> "Repsol, Via della Palanca, Castellare, Pagela, Scurelle, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38059, Italia" .
+<http://localhost:8080/source/gas_41> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.5009876" .
+<http://localhost:8080/source/gas_41> <http://knowdive.disi.unitn.it/etype#has_city> "Scurelle" .
+<http://localhost:8080/source/gas_41> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0623539" .
+<http://localhost:8080/source/gas_41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_41> <http://knowdive.disi.unitn.it/etype#has_name> "Tamoil" .
+
+<http://localhost:8080/source/gas_42> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0692949" .
+<http://localhost:8080/source/gas_42> <http://knowdive.disi.unitn.it/etype#has_address> "LocalitÃ  Nale, Nale, Longhini, Telve, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38051, Italia" .
+<http://localhost:8080/source/gas_42> <http://knowdive.disi.unitn.it/etype#has_city> "Telve" .
+<http://localhost:8080/source/gas_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_42> <http://knowdive.disi.unitn.it/etype#has_name> "San Marco Petroli" .
+<http://localhost:8080/source/gas_42> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.482645" .
+
+<http://localhost:8080/source/gas_43> <http://knowdive.disi.unitn.it/etype#has_name> "Distributore carburanti Pasqualin" .
+<http://localhost:8080/source/gas_43> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6255111" .
+<http://localhost:8080/source/gas_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_43> <http://knowdive.disi.unitn.it/etype#has_city> "Castello Tesino" .
+<http://localhost:8080/source/gas_43> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0686516" .
+<http://localhost:8080/source/gas_43> <http://knowdive.disi.unitn.it/etype#has_address> "SP78, Molini, Castello Tesino, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38053, Italia" .
+
+<http://localhost:8080/source/gas_44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_44> <http://knowdive.disi.unitn.it/etype#has_city> "Castel Ivano" .
+<http://localhost:8080/source/gas_44> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0594408" .
+<http://localhost:8080/source/gas_44> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.5217891" .
+<http://localhost:8080/source/gas_44> <http://knowdive.disi.unitn.it/etype#has_address> "Stazione di servizio GNP - Castel Ivano, 10, Strada del Tesino, SiÃ¨ga, Villa, Castel Ivano, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38059, Italia" .
+<http://localhost:8080/source/gas_44> <http://knowdive.disi.unitn.it/etype#has_name> "Stazione di servizio GNP - Castel Ivano" .
+
+<http://localhost:8080/source/gas_45> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4453172" .
+<http://localhost:8080/source/gas_45> <http://knowdive.disi.unitn.it/etype#has_name> "Esso" .
+<http://localhost:8080/source/gas_45> <http://knowdive.disi.unitn.it/etype#has_city> "Borgo Valsugana" .
+<http://localhost:8080/source/gas_45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_45> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, Via Roma, Maso Rigo, Olle, Borgo Valsugana, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38051, Italia" .
+<http://localhost:8080/source/gas_45> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0512163" .
+
+<http://localhost:8080/source/gas_46> <http://knowdive.disi.unitn.it/etype#has_city> "San Giovanni di Fassa-Sen Jan" .
+<http://localhost:8080/source/gas_46> <http://knowdive.disi.unitn.it/etype#has_name> "IP" .
+<http://localhost:8080/source/gas_46> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6715412" .
+<http://localhost:8080/source/gas_46> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.4199221" .
+<http://localhost:8080/source/gas_46> <http://knowdive.disi.unitn.it/etype#has_address> "IP, Strada Rezia, Vigo di Fassa - Vich, Costa, San Giovanni di Fassa - SÃ¨n Jan, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38036, Italia" .
+<http://localhost:8080/source/gas_46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+
+<http://localhost:8080/source/gas_47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_47> <http://knowdive.disi.unitn.it/etype#has_name> "Distributore carburanti con GPL" .
+<http://localhost:8080/source/gas_47> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.338358" .
+<http://localhost:8080/source/gas_47> <http://knowdive.disi.unitn.it/etype#has_city> "Predazzo" .
+<http://localhost:8080/source/gas_47> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6103631" .
+<http://localhost:8080/source/gas_47> <http://knowdive.disi.unitn.it/etype#has_address> "Cristoforetti, SS48, La BÃ¬ra, Mezzavalle, Predazzo, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38037, Italia" .
+
+<http://localhost:8080/source/gas_48> <http://knowdive.disi.unitn.it/etype#has_city> "Pieve Tesino" .
+<http://localhost:8080/source/gas_48> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6124172" .
+<http://localhost:8080/source/gas_48> <http://knowdive.disi.unitn.it/etype#has_name> "Tamoil" .
+<http://localhost:8080/source/gas_48> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0678896" .
+<http://localhost:8080/source/gas_48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_48> <http://knowdive.disi.unitn.it/etype#has_address> "Tamoil, Viale Brigata Abruzzi, Bosco Santa Maria, Pieve Tesino, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38053, Italia" .
+
+<http://localhost:8080/source/gas_49> <http://knowdive.disi.unitn.it/etype#has_name> "Esso Lavarone Chiesa" .
+<http://localhost:8080/source/gas_49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_49> <http://knowdive.disi.unitn.it/etype#has_city> "Lavarone" .
+<http://localhost:8080/source/gas_49> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9393606" .
+<http://localhost:8080/source/gas_49> <http://knowdive.disi.unitn.it/etype#has_address> "Esso, Via Trieste, Chiesa, Gionghi, Lavarone, Magnifica ComunitÃ  degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38046, Italia" .
+<http://localhost:8080/source/gas_49> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2542889" .
+
+<http://localhost:8080/source/gas_50> <http://knowdive.disi.unitn.it/etype#has_name> "N" .
+<http://localhost:8080/source/gas_50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_50> <http://knowdive.disi.unitn.it/etype#has_city> "Predazzo" .
+<http://localhost:8080/source/gas_50> <http://knowdive.disi.unitn.it/etype#has_address> "Via Fiamme Gialle, PÃ¨ de PardÃ c, Coste, Predazzo, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38037, Italia" .
+<http://localhost:8080/source/gas_50> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.3057264" .
+<http://localhost:8080/source/gas_50> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.5971248" .
+
+<http://localhost:8080/source/gas_51> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0490555" .
+<http://localhost:8080/source/gas_51> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.4752656" .
+<http://localhost:8080/source/gas_51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#GasStation> .
+<http://localhost:8080/source/gas_51> <http://knowdive.disi.unitn.it/etype#has_address> "Stazione di servizio GNP - Castelnuovo, Strada Statale 47 della Valsugana, Perozzi, Spagolle, Castelnuovo, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38050, Italia" .
+<http://localhost:8080/source/gas_51> <http://knowdive.disi.unitn.it/etype#has_city> "Castelnuovo" .
+<http://localhost:8080/source/gas_51> <http://knowdive.disi.unitn.it/etype#has_name> "Stazione di servizio GNP - Castelnuovo" .
+

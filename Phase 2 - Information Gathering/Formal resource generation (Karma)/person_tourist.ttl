@@ -1,42 +1,42 @@
-_:Person_tourist1_25ebe55bad7cf664489c4ece918a1e248c553733_N18_3f3a489c72dea800ea7b6338c89938766d41a6e5_N20_621740c2565c41eb0f45ffbd6f39bfe20074f7af_N17_b1a5954a483f8f8b0207385095f74aeb409b3f80_N21_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N19 <http://knowdive.disi.unitn.it/etype#has_birthdate> "1968-04-09" .
-_:Person_tourist1_25ebe55bad7cf664489c4ece918a1e248c553733_N18_3f3a489c72dea800ea7b6338c89938766d41a6e5_N20_621740c2565c41eb0f45ffbd6f39bfe20074f7af_N17_b1a5954a483f8f8b0207385095f74aeb409b3f80_N21_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N19 <http://knowdive.disi.unitn.it/etype#has_description> "High" .
-_:Person_tourist1_25ebe55bad7cf664489c4ece918a1e248c553733_N18_3f3a489c72dea800ea7b6338c89938766d41a6e5_N20_621740c2565c41eb0f45ffbd6f39bfe20074f7af_N17_b1a5954a483f8f8b0207385095f74aeb409b3f80_N21_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N19 <http://knowdive.disi.unitn.it/etype#has_nationality> "Italy" .
-_:Person_tourist1_25ebe55bad7cf664489c4ece918a1e248c553733_N18_3f3a489c72dea800ea7b6338c89938766d41a6e5_N20_621740c2565c41eb0f45ffbd6f39bfe20074f7af_N17_b1a5954a483f8f8b0207385095f74aeb409b3f80_N21_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N19 <http://knowdive.disi.unitn.it/etype#has_name> "Antonio " .
-_:Person_tourist1_25ebe55bad7cf664489c4ece918a1e248c553733_N18_3f3a489c72dea800ea7b6338c89938766d41a6e5_N20_621740c2565c41eb0f45ffbd6f39bfe20074f7af_N17_b1a5954a483f8f8b0207385095f74aeb409b3f80_N21_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
-_:Person_tourist1_25ebe55bad7cf664489c4ece918a1e248c553733_N18_3f3a489c72dea800ea7b6338c89938766d41a6e5_N20_621740c2565c41eb0f45ffbd6f39bfe20074f7af_N17_b1a5954a483f8f8b0207385095f74aeb409b3f80_N21_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N19 <http://knowdive.disi.unitn.it/etype#has_gender> "Male" .
+<http://localhost:8080/source/Antonio%20> <http://knowdive.disi.unitn.it/etype#has_accomodation> "acom_203" .
+<http://localhost:8080/source/Antonio%20> <http://knowdive.disi.unitn.it/etype#has_description> "High" .
+<http://localhost:8080/source/Antonio%20> <http://knowdive.disi.unitn.it/etype#has_nationality> "Italy" .
+<http://localhost:8080/source/Antonio%20> <http://knowdive.disi.unitn.it/etype#has_gender> "Male" .
+<http://localhost:8080/source/Antonio%20> <http://knowdive.disi.unitn.it/etype#has_birthdate> "1968-04-09" .
+<http://localhost:8080/source/Antonio%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
 
-_:Person_tourist1_dc942fe8fab74e62a9e05ce00d01c99f0514535e_N24_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N26_2897f5f75dd39fff61644e8c4eef44933e76bb54_N23_d404968ea90b07f16774ce75c7978d6ff60962f2_N27_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N25 <http://knowdive.disi.unitn.it/etype#has_gender> "Female" .
-_:Person_tourist1_dc942fe8fab74e62a9e05ce00d01c99f0514535e_N24_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N26_2897f5f75dd39fff61644e8c4eef44933e76bb54_N23_d404968ea90b07f16774ce75c7978d6ff60962f2_N27_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
-_:Person_tourist1_dc942fe8fab74e62a9e05ce00d01c99f0514535e_N24_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N26_2897f5f75dd39fff61644e8c4eef44933e76bb54_N23_d404968ea90b07f16774ce75c7978d6ff60962f2_N27_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N25 <http://knowdive.disi.unitn.it/etype#has_name> "Giulia" .
-_:Person_tourist1_dc942fe8fab74e62a9e05ce00d01c99f0514535e_N24_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N26_2897f5f75dd39fff61644e8c4eef44933e76bb54_N23_d404968ea90b07f16774ce75c7978d6ff60962f2_N27_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N25 <http://knowdive.disi.unitn.it/etype#has_nationality> "Italy" .
-_:Person_tourist1_dc942fe8fab74e62a9e05ce00d01c99f0514535e_N24_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N26_2897f5f75dd39fff61644e8c4eef44933e76bb54_N23_d404968ea90b07f16774ce75c7978d6ff60962f2_N27_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N25 <http://knowdive.disi.unitn.it/etype#has_birthdate> "1995-01-27" .
-_:Person_tourist1_dc942fe8fab74e62a9e05ce00d01c99f0514535e_N24_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N26_2897f5f75dd39fff61644e8c4eef44933e76bb54_N23_d404968ea90b07f16774ce75c7978d6ff60962f2_N27_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N25 <http://knowdive.disi.unitn.it/etype#has_description> "Medium" .
+<http://localhost:8080/source/Giulia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
+<http://localhost:8080/source/Giulia> <http://knowdive.disi.unitn.it/etype#has_gender> "Female" .
+<http://localhost:8080/source/Giulia> <http://knowdive.disi.unitn.it/etype#has_accomodation> "acom_276" .
+<http://localhost:8080/source/Giulia> <http://knowdive.disi.unitn.it/etype#has_birthdate> "1995-01-27" .
+<http://localhost:8080/source/Giulia> <http://knowdive.disi.unitn.it/etype#has_description> "Medium" .
+<http://localhost:8080/source/Giulia> <http://knowdive.disi.unitn.it/etype#has_nationality> "Italy" .
 
-_:Person_tourist1_8e7d820ad9d3323edb541a72da4912148cb9c0c2_N30_3f3a489c72dea800ea7b6338c89938766d41a6e5_N32_5472ba47c1bc9eb14250ba415489da62eb95acfd_N29_a124947cbd2d1d92b47e027274c3269ff0c7a84b_N33_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N31 <http://knowdive.disi.unitn.it/etype#has_gender> "Male" .
-_:Person_tourist1_8e7d820ad9d3323edb541a72da4912148cb9c0c2_N30_3f3a489c72dea800ea7b6338c89938766d41a6e5_N32_5472ba47c1bc9eb14250ba415489da62eb95acfd_N29_a124947cbd2d1d92b47e027274c3269ff0c7a84b_N33_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N31 <http://knowdive.disi.unitn.it/etype#has_birthdate> "1996-02-03" .
-_:Person_tourist1_8e7d820ad9d3323edb541a72da4912148cb9c0c2_N30_3f3a489c72dea800ea7b6338c89938766d41a6e5_N32_5472ba47c1bc9eb14250ba415489da62eb95acfd_N29_a124947cbd2d1d92b47e027274c3269ff0c7a84b_N33_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N31 <http://knowdive.disi.unitn.it/etype#has_description> "Low" .
-_:Person_tourist1_8e7d820ad9d3323edb541a72da4912148cb9c0c2_N30_3f3a489c72dea800ea7b6338c89938766d41a6e5_N32_5472ba47c1bc9eb14250ba415489da62eb95acfd_N29_a124947cbd2d1d92b47e027274c3269ff0c7a84b_N33_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N31 <http://knowdive.disi.unitn.it/etype#has_nationality> "Italy" .
-_:Person_tourist1_8e7d820ad9d3323edb541a72da4912148cb9c0c2_N30_3f3a489c72dea800ea7b6338c89938766d41a6e5_N32_5472ba47c1bc9eb14250ba415489da62eb95acfd_N29_a124947cbd2d1d92b47e027274c3269ff0c7a84b_N33_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N31 <http://knowdive.disi.unitn.it/etype#has_name> "Mario" .
-_:Person_tourist1_8e7d820ad9d3323edb541a72da4912148cb9c0c2_N30_3f3a489c72dea800ea7b6338c89938766d41a6e5_N32_5472ba47c1bc9eb14250ba415489da62eb95acfd_N29_a124947cbd2d1d92b47e027274c3269ff0c7a84b_N33_ad79ef0f076d3a686ab9738925f4dd2c7e69d7d1_N31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
+<http://localhost:8080/source/Mario> <http://knowdive.disi.unitn.it/etype#has_accomodation> "acom_90" .
+<http://localhost:8080/source/Mario> <http://knowdive.disi.unitn.it/etype#has_nationality> "Italy" .
+<http://localhost:8080/source/Mario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
+<http://localhost:8080/source/Mario> <http://knowdive.disi.unitn.it/etype#has_gender> "Male" .
+<http://localhost:8080/source/Mario> <http://knowdive.disi.unitn.it/etype#has_birthdate> "1996-02-03" .
+<http://localhost:8080/source/Mario> <http://knowdive.disi.unitn.it/etype#has_description> "Low" .
 
-_:Person_tourist1_99de5b28b1201e270bcf3f552853f167095a66f0_N36_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N38_27451b95cda2f162d4918e4edcfc841358e77e21_N35_b1a5954a483f8f8b0207385095f74aeb409b3f80_N39_1fef42909247a6c230eeef66277f2b5e0e8f274e_N37 <http://knowdive.disi.unitn.it/etype#has_nationality> "Czech Republic" .
-_:Person_tourist1_99de5b28b1201e270bcf3f552853f167095a66f0_N36_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N38_27451b95cda2f162d4918e4edcfc841358e77e21_N35_b1a5954a483f8f8b0207385095f74aeb409b3f80_N39_1fef42909247a6c230eeef66277f2b5e0e8f274e_N37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
-_:Person_tourist1_99de5b28b1201e270bcf3f552853f167095a66f0_N36_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N38_27451b95cda2f162d4918e4edcfc841358e77e21_N35_b1a5954a483f8f8b0207385095f74aeb409b3f80_N39_1fef42909247a6c230eeef66277f2b5e0e8f274e_N37 <http://knowdive.disi.unitn.it/etype#has_description> "High" .
-_:Person_tourist1_99de5b28b1201e270bcf3f552853f167095a66f0_N36_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N38_27451b95cda2f162d4918e4edcfc841358e77e21_N35_b1a5954a483f8f8b0207385095f74aeb409b3f80_N39_1fef42909247a6c230eeef66277f2b5e0e8f274e_N37 <http://knowdive.disi.unitn.it/etype#has_birthdate> "2000-09-15" .
-_:Person_tourist1_99de5b28b1201e270bcf3f552853f167095a66f0_N36_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N38_27451b95cda2f162d4918e4edcfc841358e77e21_N35_b1a5954a483f8f8b0207385095f74aeb409b3f80_N39_1fef42909247a6c230eeef66277f2b5e0e8f274e_N37 <http://knowdive.disi.unitn.it/etype#has_gender> "Female" .
-_:Person_tourist1_99de5b28b1201e270bcf3f552853f167095a66f0_N36_b7c17e97d3d625694b836d85ace6edc18bbef0e6_N38_27451b95cda2f162d4918e4edcfc841358e77e21_N35_b1a5954a483f8f8b0207385095f74aeb409b3f80_N39_1fef42909247a6c230eeef66277f2b5e0e8f274e_N37 <http://knowdive.disi.unitn.it/etype#has_name> "Veronica" .
+<http://localhost:8080/source/Veronica> <http://knowdive.disi.unitn.it/etype#has_description> "High" .
+<http://localhost:8080/source/Veronica> <http://knowdive.disi.unitn.it/etype#has_nationality> "Czech Republic" .
+<http://localhost:8080/source/Veronica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
+<http://localhost:8080/source/Veronica> <http://knowdive.disi.unitn.it/etype#has_gender> "Female" .
+<http://localhost:8080/source/Veronica> <http://knowdive.disi.unitn.it/etype#has_birthdate> "2000-09-15" .
+<http://localhost:8080/source/Veronica> <http://knowdive.disi.unitn.it/etype#has_accomodation> "acom_236" .
 
-_:Person_tourist1_8218bce0188bf4b4d04123e9537a77358167caa1_N42_3f3a489c72dea800ea7b6338c89938766d41a6e5_N44_192bdd81d6b7c245492b20c2139657fe68c95a3e_N41_d704bc97a219baf77696c4a4a426da8903bb5cad_N45_17d53e0e6a68acdf80b78d4f9d868c8736db2cec_N43 <http://knowdive.disi.unitn.it/etype#has_nationality> "Germany" .
-_:Person_tourist1_8218bce0188bf4b4d04123e9537a77358167caa1_N42_3f3a489c72dea800ea7b6338c89938766d41a6e5_N44_192bdd81d6b7c245492b20c2139657fe68c95a3e_N41_d704bc97a219baf77696c4a4a426da8903bb5cad_N45_17d53e0e6a68acdf80b78d4f9d868c8736db2cec_N43 <http://knowdive.disi.unitn.it/etype#has_gender> "Male" .
-_:Person_tourist1_8218bce0188bf4b4d04123e9537a77358167caa1_N42_3f3a489c72dea800ea7b6338c89938766d41a6e5_N44_192bdd81d6b7c245492b20c2139657fe68c95a3e_N41_d704bc97a219baf77696c4a4a426da8903bb5cad_N45_17d53e0e6a68acdf80b78d4f9d868c8736db2cec_N43 <http://knowdive.disi.unitn.it/etype#has_description> "Low " .
-_:Person_tourist1_8218bce0188bf4b4d04123e9537a77358167caa1_N42_3f3a489c72dea800ea7b6338c89938766d41a6e5_N44_192bdd81d6b7c245492b20c2139657fe68c95a3e_N41_d704bc97a219baf77696c4a4a426da8903bb5cad_N45_17d53e0e6a68acdf80b78d4f9d868c8736db2cec_N43 <http://knowdive.disi.unitn.it/etype#has_name> "Dalim" .
-_:Person_tourist1_8218bce0188bf4b4d04123e9537a77358167caa1_N42_3f3a489c72dea800ea7b6338c89938766d41a6e5_N44_192bdd81d6b7c245492b20c2139657fe68c95a3e_N41_d704bc97a219baf77696c4a4a426da8903bb5cad_N45_17d53e0e6a68acdf80b78d4f9d868c8736db2cec_N43 <http://knowdive.disi.unitn.it/etype#has_birthdate> "1991-05-18" .
-_:Person_tourist1_8218bce0188bf4b4d04123e9537a77358167caa1_N42_3f3a489c72dea800ea7b6338c89938766d41a6e5_N44_192bdd81d6b7c245492b20c2139657fe68c95a3e_N41_d704bc97a219baf77696c4a4a426da8903bb5cad_N45_17d53e0e6a68acdf80b78d4f9d868c8736db2cec_N43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
+<http://localhost:8080/source/Dalim> <http://knowdive.disi.unitn.it/etype#has_gender> "Male" .
+<http://localhost:8080/source/Dalim> <http://knowdive.disi.unitn.it/etype#has_description> "Low " .
+<http://localhost:8080/source/Dalim> <http://knowdive.disi.unitn.it/etype#has_birthdate> "1991-05-18" .
+<http://localhost:8080/source/Dalim> <http://knowdive.disi.unitn.it/etype#has_nationality> "Germany" .
+<http://localhost:8080/source/Dalim> <http://knowdive.disi.unitn.it/etype#has_accomodation> "acom_18" .
+<http://localhost:8080/source/Dalim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
 
-_:Person_tourist1_339c4167332ccf2dd216f3f109b7cb216fdfb007_N48_3f3a489c72dea800ea7b6338c89938766d41a6e5_N50_0963143105bb49aa12c7157a239b4a4e28bbc5c7_N47_d404968ea90b07f16774ce75c7978d6ff60962f2_N51_5ff03b7273b1808e5ba852e230991bbf07da703c_N49 <http://knowdive.disi.unitn.it/etype#has_nationality> "Poland" .
-_:Person_tourist1_339c4167332ccf2dd216f3f109b7cb216fdfb007_N48_3f3a489c72dea800ea7b6338c89938766d41a6e5_N50_0963143105bb49aa12c7157a239b4a4e28bbc5c7_N47_d404968ea90b07f16774ce75c7978d6ff60962f2_N51_5ff03b7273b1808e5ba852e230991bbf07da703c_N49 <http://knowdive.disi.unitn.it/etype#has_gender> "Male" .
-_:Person_tourist1_339c4167332ccf2dd216f3f109b7cb216fdfb007_N48_3f3a489c72dea800ea7b6338c89938766d41a6e5_N50_0963143105bb49aa12c7157a239b4a4e28bbc5c7_N47_d404968ea90b07f16774ce75c7978d6ff60962f2_N51_5ff03b7273b1808e5ba852e230991bbf07da703c_N49 <http://knowdive.disi.unitn.it/etype#has_description> "Medium" .
-_:Person_tourist1_339c4167332ccf2dd216f3f109b7cb216fdfb007_N48_3f3a489c72dea800ea7b6338c89938766d41a6e5_N50_0963143105bb49aa12c7157a239b4a4e28bbc5c7_N47_d404968ea90b07f16774ce75c7978d6ff60962f2_N51_5ff03b7273b1808e5ba852e230991bbf07da703c_N49 <http://knowdive.disi.unitn.it/etype#has_birthdate> "1997-08-26" .
-_:Person_tourist1_339c4167332ccf2dd216f3f109b7cb216fdfb007_N48_3f3a489c72dea800ea7b6338c89938766d41a6e5_N50_0963143105bb49aa12c7157a239b4a4e28bbc5c7_N47_d404968ea90b07f16774ce75c7978d6ff60962f2_N51_5ff03b7273b1808e5ba852e230991bbf07da703c_N49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
-_:Person_tourist1_339c4167332ccf2dd216f3f109b7cb216fdfb007_N48_3f3a489c72dea800ea7b6338c89938766d41a6e5_N50_0963143105bb49aa12c7157a239b4a4e28bbc5c7_N47_d404968ea90b07f16774ce75c7978d6ff60962f2_N51_5ff03b7273b1808e5ba852e230991bbf07da703c_N49 <http://knowdive.disi.unitn.it/etype#has_name> "Tymoteusz" .
+<http://localhost:8080/source/Tymoteusz> <http://knowdive.disi.unitn.it/etype#has_gender> "Male" .
+<http://localhost:8080/source/Tymoteusz> <http://knowdive.disi.unitn.it/etype#has_accomodation> "acom_60" .
+<http://localhost:8080/source/Tymoteusz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Person_tourist> .
+<http://localhost:8080/source/Tymoteusz> <http://knowdive.disi.unitn.it/etype#has_nationality> "Poland" .
+<http://localhost:8080/source/Tymoteusz> <http://knowdive.disi.unitn.it/etype#has_birthdate> "1997-08-26" .
+<http://localhost:8080/source/Tymoteusz> <http://knowdive.disi.unitn.it/etype#has_description> "Medium" .
 

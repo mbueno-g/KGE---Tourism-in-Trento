@@ -1,0 +1,112 @@
+<http://localhost:8080/source/ski_1> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.26442326" .
+<http://localhost:8080/source/ski_1> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.80505414" .
+<http://localhost:8080/source/ski_1> <http://knowdive.disi.unitn.it/etype#has_name> "San Martino di Castrozza" .
+<http://localhost:8080/source/ski_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_1> <http://knowdive.disi.unitn.it/etype#has_city> "San Martino di Castrozza" .
+<http://localhost:8080/source/ski_1> <http://knowdive.disi.unitn.it/etype#has_length> "60" .
+<http://localhost:8080/source/ski_1> <http://knowdive.disi.unitn.it/etype#has_address> "SS50, San Martino di Castrozza, Primiero San Martino di Castrozza, ComunitÃ  di Primiero, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, Italia" .
+
+<http://localhost:8080/source/ski_2> <http://knowdive.disi.unitn.it/etype#has_city> "Pinzolo" .
+<http://localhost:8080/source/ski_2> <http://knowdive.disi.unitn.it/etype#has_address> "Funivia Spinale, Via Monte Spinale, Madonna di Campiglio, Pinzolo, ComunitÃ  delle Giudicarie, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38084, Italia" .
+<http://localhost:8080/source/ski_2> <http://knowdive.disi.unitn.it/etype#has_length> "150" .
+<http://localhost:8080/source/ski_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_2> <http://knowdive.disi.unitn.it/etype#has_name> "Madonna di Campiglio" .
+<http://localhost:8080/source/ski_2> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.83001901" .
+<http://localhost:8080/source/ski_2> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.22823291" .
+
+<http://localhost:8080/source/ski_3> <http://knowdive.disi.unitn.it/etype#has_city> "Moena" .
+<http://localhost:8080/source/ski_3> <http://knowdive.disi.unitn.it/etype#has_name> "Passo San Pellegrino" .
+<http://localhost:8080/source/ski_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_3> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.38407194" .
+<http://localhost:8080/source/ski_3> <http://knowdive.disi.unitn.it/etype#has_address> "Campigol, Sentiero # 604, Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38035, Italia" .
+<http://localhost:8080/source/ski_3> <http://knowdive.disi.unitn.it/etype#has_length> "68" .
+<http://localhost:8080/source/ski_3> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.78324761" .
+
+<http://localhost:8080/source/ski_4> <http://knowdive.disi.unitn.it/etype#has_city> "Canazei" .
+<http://localhost:8080/source/ski_4> <http://knowdive.disi.unitn.it/etype#has_address> "Strada Statale 48 delle Dolomiti, Canazei, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38032, Italia" .
+<http://localhost:8080/source/ski_4> <http://knowdive.disi.unitn.it/etype#has_name> "Belvedere/Col Rodella" .
+<http://localhost:8080/source/ski_4> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.47462599" .
+<http://localhost:8080/source/ski_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_4> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.80237104" .
+<http://localhost:8080/source/ski_4> <http://knowdive.disi.unitn.it/etype#has_length> "55" .
+
+<http://localhost:8080/source/ski_5> <http://knowdive.disi.unitn.it/etype#has_city> "Andalo" .
+<http://localhost:8080/source/ski_5> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.14400126" .
+<http://localhost:8080/source/ski_5> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.03671221" .
+<http://localhost:8080/source/ski_5> <http://knowdive.disi.unitn.it/etype#has_address> "Paganella, 602, Fai della Paganella, ComunitÃ  della Paganella, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38018, Italia" .
+<http://localhost:8080/source/ski_5> <http://knowdive.disi.unitn.it/etype#has_name> "Paganella/Andalo" .
+<http://localhost:8080/source/ski_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_5> <http://knowdive.disi.unitn.it/etype#has_length> "40" .
+
+<http://localhost:8080/source/ski_6> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.68737043" .
+<http://localhost:8080/source/ski_6> <http://knowdive.disi.unitn.it/etype#has_name> "Alpe Lusia-Moena/Bellamonte" .
+<http://localhost:8080/source/ski_6> <http://knowdive.disi.unitn.it/etype#has_length> "28" .
+<http://localhost:8080/source/ski_6> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.36845201" .
+<http://localhost:8080/source/ski_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_6> <http://knowdive.disi.unitn.it/etype#has_address> "SS346, Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38035, Italia" .
+<http://localhost:8080/source/ski_6> <http://knowdive.disi.unitn.it/etype#has_city> "Moena" .
+
+<http://localhost:8080/source/ski_7> <http://knowdive.disi.unitn.it/etype#has_city> "Folgaria" .
+<http://localhost:8080/source/ski_7> <http://knowdive.disi.unitn.it/etype#has_address> "Strada Provinciale dei Francolini, Erspameri, Folgaria, Magnifica ComunitÃ  degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38064, Italia" .
+<http://localhost:8080/source/ski_7> <http://knowdive.disi.unitn.it/etype#has_name> "Folgaria/Fiorentini" .
+<http://localhost:8080/source/ski_7> <http://knowdive.disi.unitn.it/etype#has_length> "70" .
+<http://localhost:8080/source/ski_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_7> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.89405692" .
+<http://localhost:8080/source/ski_7> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.18961635" .
+
+<http://localhost:8080/source/ski_8> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.47136195" .
+<http://localhost:8080/source/ski_8> <http://knowdive.disi.unitn.it/etype#has_length> "24" .
+<http://localhost:8080/source/ski_8> <http://knowdive.disi.unitn.it/etype#has_name> "Alpe Cermis-Cavalese" .
+<http://localhost:8080/source/ski_8> <http://knowdive.disi.unitn.it/etype#has_city> "Cavalese" .
+<http://localhost:8080/source/ski_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_8> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.28421737" .
+<http://localhost:8080/source/ski_8> <http://knowdive.disi.unitn.it/etype#has_address> "Strada Provinciale 232 di Fiemme, Cavazzal, Cavalese, ComunitÃ  territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38033, Italia" .
+
+<http://localhost:8080/source/ski_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_9> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.98921855" .
+<http://localhost:8080/source/ski_9> <http://knowdive.disi.unitn.it/etype#has_length> "19" .
+<http://localhost:8080/source/ski_9> <http://knowdive.disi.unitn.it/etype#has_name> "Monte Bondone" .
+<http://localhost:8080/source/ski_9> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.03054066" .
+<http://localhost:8080/source/ski_9> <http://knowdive.disi.unitn.it/etype#has_address> "Cargadorveder, Cavedine, ComunitÃ  della Valle dei Laghi, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38073, Italia" .
+<http://localhost:8080/source/ski_9> <http://knowdive.disi.unitn.it/etype#has_city> "Trento" .
+
+<http://localhost:8080/source/ski_10> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.42148418" .
+<http://localhost:8080/source/ski_10> <http://knowdive.disi.unitn.it/etype#has_length> "14" .
+<http://localhost:8080/source/ski_10> <http://knowdive.disi.unitn.it/etype#has_name> "Catinaccio-Vigo di Fassa" .
+<http://localhost:8080/source/ski_10> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.67129597" .
+<http://localhost:8080/source/ski_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_10> <http://knowdive.disi.unitn.it/etype#has_address> "Strada Daniel Zen, Vigo di Fassa - Vich, Costa, San Giovanni di Fassa - SÃ¨n Jan, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38036, Italia" .
+<http://localhost:8080/source/ski_10> <http://knowdive.disi.unitn.it/etype#has_city> "San Giovanni di Fassa-Sen Jan" .
+
+<http://localhost:8080/source/ski_11> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.65978295" .
+<http://localhost:8080/source/ski_11> <http://knowdive.disi.unitn.it/etype#has_city> "Peio" .
+<http://localhost:8080/source/ski_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_11> <http://knowdive.disi.unitn.it/etype#has_name> "Pejo 3000" .
+<http://localhost:8080/source/ski_11> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.37044658" .
+<http://localhost:8080/source/ski_11> <http://knowdive.disi.unitn.it/etype#has_address> "Val della Mite, Peio, ComunitÃ  della Valle di Sole, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38024, Italia" .
+<http://localhost:8080/source/ski_11> <http://knowdive.disi.unitn.it/etype#has_length> "20" .
+
+<http://localhost:8080/source/ski_12> <http://knowdive.disi.unitn.it/etype#has_length> "30" .
+<http://localhost:8080/source/ski_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_12> <http://knowdive.disi.unitn.it/etype#has_name> "Lavarone" .
+<http://localhost:8080/source/ski_12> <http://knowdive.disi.unitn.it/etype#has_city> "Lavarone" .
+<http://localhost:8080/source/ski_12> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.94969527" .
+<http://localhost:8080/source/ski_12> <http://knowdive.disi.unitn.it/etype#has_address> "Test-One, 55, Bertoldi, Gionghi, Lavarone, Magnifica ComunitÃ  degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38060, Italia" .
+<http://localhost:8080/source/ski_12> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.26431147" .
+
+<http://localhost:8080/source/ski_13> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.78307594" .
+<http://localhost:8080/source/ski_13> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.30076944" .
+<http://localhost:8080/source/ski_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_13> <http://knowdive.disi.unitn.it/etype#has_length> "15" .
+<http://localhost:8080/source/ski_13> <http://knowdive.disi.unitn.it/etype#has_city> "San Martino di Castrozza" .
+<http://localhost:8080/source/ski_13> <http://knowdive.disi.unitn.it/etype#has_name> "Passo Rolle" .
+<http://localhost:8080/source/ski_13> <http://knowdive.disi.unitn.it/etype#has_address> "Strada forestale Malga Costoncella, San Martino di Castrozza, Primiero San Martino di Castrozza, ComunitÃ  di Primiero, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, Italia" .
+
+<http://localhost:8080/source/ski_14> <http://knowdive.disi.unitn.it/etype#has_length> "10" .
+<http://localhost:8080/source/ski_14> <http://knowdive.disi.unitn.it/etype#has_address> "Chalet Heidi, SP79, Castello Tesino, ComunitÃ  Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/SÃ¼dtirol, 38053, Italia" .
+<http://localhost:8080/source/ski_14> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.66048875" .
+<http://localhost:8080/source/ski_14> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.11587055" .
+<http://localhost:8080/source/ski_14> <http://knowdive.disi.unitn.it/etype#has_name> "Lagorai/Passo Brocon-Castello Tesino" .
+<http://localhost:8080/source/ski_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#skiresort> .
+<http://localhost:8080/source/ski_14> <http://knowdive.disi.unitn.it/etype#has_city> "Castello Tesino" .
+
