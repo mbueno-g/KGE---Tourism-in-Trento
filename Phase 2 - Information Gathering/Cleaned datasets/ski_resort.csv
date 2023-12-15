@@ -1,15 +1,15 @@
-﻿id,address,Name,City,latitude,longitude,Length
-ski_1,"SS50, San Martino di Castrozza, Primiero San Martino di Castrozza, Comunità di Primiero, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",San Martino di Castrozza,San Martino di Castrozza,46.26442326,11.80505414,60
-ski_2,"Funivia Spinale, Via Monte Spinale, Madonna di Campiglio, Pinzolo, Comunità delle Giudicarie, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38084, Italia",Madonna di Campiglio,Pinzolo,46.22823291,10.83001901,150
-ski_3,"Campigol, Sentiero # 604, Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38035, Italia",Passo San Pellegrino,Moena,46.38407194,11.78324761,68
-ski_4,"Strada Statale 48 delle Dolomiti, Canazei, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38032, Italia",Belvedere/Col Rodella,Canazei,46.47462599,11.80237104,55
-ski_5,"Paganella, 602, Fai della Paganella, Comunità della Paganella, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38018, Italia",Paganella/Andalo,Andalo,46.14400126,11.03671221,40
-ski_6,"SS346, Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38035, Italia",Alpe Lusia-Moena/Bellamonte,Moena,46.36845201,11.68737043,28
-ski_7,"Strada Provinciale dei Francolini, Erspameri, Folgaria, Magnifica Comunità degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38064, Italia",Folgaria/Fiorentini,Folgaria,45.89405692,11.18961635,70
-ski_8,"Strada Provinciale 232 di Fiemme, Cavazzal, Cavalese, Comunità territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38033, Italia",Alpe Cermis-Cavalese,Cavalese,46.28421737,11.47136195,24
-ski_9,"Cargadorveder, Cavedine, Comunità della Valle dei Laghi, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38073, Italia",Monte Bondone,Trento,45.98921855,11.03054066,19
-ski_10,"Strada Daniel Zen, Vigo di Fassa - Vich, Costa, San Giovanni di Fassa - Sèn Jan, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38036, Italia",Catinaccio-Vigo di Fassa,San Giovanni di Fassa-Sen Jan,46.42148418,11.67129597,14
-ski_11,"Val della Mite, Peio, Comunità della Valle di Sole, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38024, Italia",Pejo 3000,Peio,46.37044658,10.65978295,20
-ski_12,"Test-One, 55, Bertoldi, Gionghi, Lavarone, Magnifica Comunità degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38060, Italia",Lavarone,Lavarone,45.94969527,11.26431147,30
-ski_13,"Strada forestale Malga Costoncella, San Martino di Castrozza, Primiero San Martino di Castrozza, Comunità di Primiero, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Passo Rolle,San Martino di Castrozza,46.30076944,11.78307594,15
-ski_14,"Chalet Heidi, SP79, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Lagorai/Passo Brocon-Castello Tesino,Castello Tesino,46.11587055,11.66048875,10
+id,address,Name,latitude,longitude,Length,city
+ski_1,"SS50, San Martino di Castrozza, Primiero San Martino di Castrozza, Comunità di Primiero, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",San Martino di Castrozza,46.26442326,11.80505414,60,region_150
+ski_2,"Funivia Spinale, Via Monte Spinale, Madonna di Campiglio, Pinzolo, Comunità delle Giudicarie, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38084, Italia",Madonna di Campiglio,46.22823291,10.83001901,150,region_25
+ski_3,"Campigol, Sentiero # 604, Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38035, Italia",Passo San Pellegrino,46.38407194,11.78324761,68,region_66
+ski_4,"Strada Statale 48 delle Dolomiti, Canazei, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38032, Italia",Belvedere/Col Rodella,46.47462599,11.80237104,55,region_11
+ski_5,"Paganella, 602, Fai della Paganella, Comunità della Paganella, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38018, Italia",Paganella/Andalo,46.14400126,11.03671221,40,region_88
+ski_6,"SS346, Moena, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38035, Italia",Alpe Lusia-Moena/Bellamonte,46.36845201,11.68737043,28,region_66
+ski_7,"Strada Provinciale dei Francolini, Erspameri, Folgaria, Magnifica Comunità degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38064, Italia",Folgaria/Fiorentini,45.89405692,11.18961635,70,region_20
+ski_8,"Strada Provinciale 232 di Fiemme, Cavazzal, Cavalese, Comunità territoriale della Val di Fiemme, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38033, Italia",Alpe Cermis-Cavalese,46.28421737,11.47136195,24,region_49
+ski_9,"Cargadorveder, Cavedine, Comunità della Valle dei Laghi, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38073, Italia",Monte Bondone,45.98921855,11.03054066,19,region_125
+ski_10,"Strada Daniel Zen, Vigo di Fassa - Vich, Costa, San Giovanni di Fassa - Sèn Jan, Comun General de Fascia, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38036, Italia",Catinaccio-Vigo di Fassa,46.42148418,11.67129597,14,region_74
+ski_11,"Val della Mite, Peio, Comunità della Valle di Sole, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38024, Italia",Pejo 3000,46.37044658,10.65978295,20,region_31
+ski_12,"Test-One, 55, Bertoldi, Gionghi, Lavarone, Magnifica Comunità degli Altipiani Cimbri, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38060, Italia",Lavarone,45.94969527,11.26431147,30,region_146
+ski_13,"Strada forestale Malga Costoncella, San Martino di Castrozza, Primiero San Martino di Castrozza, Comunità di Primiero, Provincia di Trento, Trentino-Alto Adige/Südtirol, Italia",Passo Rolle,46.30076944,11.78307594,15,region_150
+ski_14,"Chalet Heidi, SP79, Castello Tesino, Comunità Valsugana e Tesino, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38053, Italia",Lagorai/Passo Brocon-Castello Tesino,46.11587055,11.66048875,10,region_46
