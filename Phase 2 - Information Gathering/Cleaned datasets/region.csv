@@ -1,166 +1,166 @@
-id;name
-region_1;Aldeno
-region_2;Albiano
-region_3;Altopiano della Vigolana
-region_4;Arco
-region_5;Carisolo
-region_6;Canal San Bovo
-region_7;Caldonazzo
-region_8;Campitello di Fassa
-region_9;Calliano
-region_10;Capriana
-region_11;Canazei
-region_12;Campodenno
-region_13;Caldes
-region_14;Fiave
-region_15;Giustino
-region_16;Frassilongo
-region_17;Fierozzo
-region_18;Garniga Terme
-region_19;Grigno
-region_20;Folgaria
-region_21;Giovo
-region_22;Fornace
-region_23;Pieve di Bono-Prezzo
-region_24;Pelugo
-region_25;Pinzolo
-region_26;Palu del Fersina Palai en Bersntol
-region_27;Pergine Valsugana
-region_28;Pieve Tesino
-region_29;Panchia
-region_30;Pellizzano
-region_31;Peio
-region_32;Stenico
-region_33;Spormaggiore
-region_34;Storo
-region_35;Spiazzo
-region_36;Strembo
-region_37;Sover
-region_38;Soraga di Fassa
-region_39;Sporminore
-region_40;Sfruz
-region_41;Bleggio Superiore
-region_42;Castel Condino
-region_43;Cavedago
-region_44;Castello di Fiemme
-region_45;Castel Ivano
-region_46;Castello Tesino
-region_47;Castelnuovo
-region_48;Carzano
-region_49;Cavalese
-region_50;Cavareno
-region_51;Drena
-region_52;Dro
-region_53;Fai della Paganella
-region_54;Dimaro Folgarida
-region_55;Commezzadura
-region_56;Conta
-region_57;Dambel
-region_58;Denno
-region_59;Croviana
-region_60;Madruzzo
-region_61;Massimeno
-region_62;Mezzolombardo
-region_63;Mezzocorona
-region_64;Mezzano
-region_65;Mazzin - Mazin
-region_66;Moena
-region_67;Mezzana
-region_68;Male
-region_69;Sella Giudicarie
-region_70;San Michele allAdige
-region_71;San Lorenzo Dorsino
-region_72;SantOrsola Terme
-region_73;Scurelle
-region_74;San Giovanni di Fassa-Sen Jan
-region_75;Segonzano
-region_76;Sarnonico
-region_77;Sanzeno
-region_78;Vignola
-region_79;Villa Lagarina
-region_80;Ville di Fiemme
-region_81;Ziano di Fiemme
-region_82;Ville dAnaunia
-region_83;Vermiglio
-region_84;Borgo Lares
-region_85;Caderzone Terme
-region_86;Borgo Chiese
-region_87;Bondone
-region_88;Andalo
-region_89;Calceranica al Lago
-region_90;Borgo Valsugana
-region_91;Brentonico
-region_92;Borgo dAnaunia
-region_93;Bresimo
-region_94;Comano Terme
-region_95;Cavedine
-region_96;Cimone
-region_97;Cinte Tesino
-region_98;Civezzano
-region_99;Cembra Lisignago
-region_100;Cavizzana
-region_101;Cles
-region_102;Cis
-region_103;Nago
-region_104;Molveno
-region_105;Ospedaletto
-region_106;Novaledo
-region_107;Nogaredo
-region_108;Nomi
-region_109;Mori
-region_110;Novella
-region_111;Ossana
-region_112;Rovere della Luna
-region_113;Sagron Mis
-region_114;Ronchi Valsugana
-region_115;Ronzo-Chienis
-region_116;Samone
-region_117;Ruffre
-region_118;Rovereto
-region_119;Ronzone
-region_120;Rumo
-region_121;Vallelaghi
-region_122;Tre Ville
-region_123;Valdaone
-region_124;Torcegno
-region_125;Trento
-region_126;Valfloriana
-region_127;Trambileno
-region_128;Vallarsa
-region_129;Ton
-region_130;Bocenago
-region_131;Baselga di Piné
-region_132;Bedollo
-region_133;Bieno
-region_134;Besenello
-region_135;Avio
-region_136;Ala
-region_137;Altavalle
-region_138;Amblar
-region_139;Ledro
-region_140;Lavis
-region_141;Levico Terme
-region_142;Imer
-region_143;Luserna
-region_144;Lona-Lases
-region_145;Isera
-region_146;Lavarone
-region_147;Livo
-region_148;Riva del Garda
-region_149;Porte di Rendena
-region_150;San Martino di Castrozza
-region_151;Roncegno Terme
-region_152;Pomarolo
-region_153;Predazzo
-region_154;Predaia
-region_155;Romeno
-region_156;Rabbi
-region_157;Tenno
-region_158;Tione di Trento
-region_159;Terre dAdige
-region_160;Telve di Sopra
-region_161;Telve
-region_162;Tenna
-region_163;Terragnolo
-region_164;Tesero
-region_165;Terzolas
+Id;Name;;;;;
+region_1;Aldeno;;;;;
+region_2;Albiano;;;;;
+region_3;Altopiano della Vigolana;;;;;
+region_4;Andalo;;;;;
+region_5;Baselga di Pine;;;;;
+region_6;Bedollo;;;;;
+region_7;Bieno;;;;;
+region_8;Besenello;;;;;
+region_9;Avio;;;;;
+region_10;Ala;;;;;
+region_11;Altavalle;;;;;
+region_12;Amblar;;;;;
+region_13;Castel Condino;;;;;
+region_14;Carisolo;;;;;
+region_15;Castello di Fiemme;;;;;
+region_16;Castel Ivano;;;;;
+region_17;Castello Tesino;;;;;
+region_18;Castelnuovo;;;;;
+region_19;Carzano;;;;;
+region_20;Capriana;;;;;
+region_21;Cavalese;;;;;
+region_22;Comano Terme;;;;;
+region_23;Drena;;;;;
+region_24;Dimaro Folgarida;;;;;
+region_25;Commezzadura;;;;;
+region_26;Conta;;;;;
+region_27;Dambel;;;;;
+region_28;Denno;;;;;
+region_29;Croviana;;;;;
+region_30;Cles;;;;;
+region_31;Ledro;;;;;
+region_32;Giustino;;;;;
+region_33;Lavis;;;;;
+region_34;Levico Terme;;;;;
+region_35;Imer;;;;;
+region_36;Grigno;;;;;
+region_37;Isera;;;;;
+region_38;Lavarone;;;;;
+region_39;Livo;;;;;
+region_40;Nago;;;;;
+region_41;Mezzolombardo;;;;;
+region_42;Molveno;;;;;
+region_43;Novaledo;;;;;
+region_44;Nogaredo;;;;;
+region_45;Nomi;;;;;
+region_46;Mori;;;;;
+region_47;Moena;;;;;
+region_48;Novella;;;;;
+region_49;Riva del Garda;;;;;
+region_50;Porte di Rendena;;;;;
+region_51;Pinzolo;;;;;
+region_52;San Martino di Castrozza;;;;;
+region_53;Pieve Tesino;;;;;
+region_54;Pomarolo;;;;;
+region_55;Predazzo;;;;;
+region_56;Predaia;;;;;
+region_57;Rabbi;;;;;
+region_58;San Michele allAdige;;;;;
+region_59;San Lorenzo Dorsino;;;;;
+region_60;SantOrsola Terme;;;;;
+region_61;Sagron Mis;;;;;
+region_62;Scurelle;;;;;
+region_63;Samone;;;;;
+region_64;San Giovanni di Fassa-Sen Jan;;;;;
+region_65;Sarnonico;;;;;
+region_66;Sanzeno;;;;;
+region_67;Tenno;;;;;
+region_68;Storo;;;;;
+region_69;Strembo;;;;;
+region_70;Terre dAdige;;;;;
+region_71;Telve di Sopra;;;;;
+region_72;Telve;;;;;
+region_73;Tenna;;;;;
+region_74;Terragnolo;;;;;
+region_75;Terzolas;;;;;
+region_76;Bleggio Superiore;;;;;
+region_77;Arco;;;;;
+region_78;Borgo Lares;;;;;
+region_79;Borgo Chiese;;;;;
+region_80;Bondone;;;;;
+region_81;Bocenago;;;;;
+region_82;Borgo Valsugana;;;;;
+region_83;Brentonico;;;;;
+region_84;Borgo dAnaunia;;;;;
+region_85;Bresimo;;;;;
+region_86;Caderzone Terme;;;;;
+region_87;Calceranica al Lago;;;;;
+region_88;Canal San Bovo;;;;;
+region_89;Caldonazzo;;;;;
+region_90;Campitello di Fassa;;;;;
+region_91;Calliano;;;;;
+region_92;Canazei;;;;;
+region_93;Campodenno;;;;;
+region_94;Caldes;;;;;
+region_95;Cavedine;;;;;
+region_96;Cavedago;;;;;
+region_97;Cimone;;;;;
+region_98;Cinte Tesino;;;;;
+region_99;Civezzano;;;;;
+region_100;Cembra Lisignago;;;;;
+region_101;Cavareno;;;;;
+region_102;Cavizzana;;;;;
+region_103;Cis;;;;;
+region_104;Fiave;;;;;
+region_105;Dro;;;;;
+region_106;Fai della Paganella;;;;;
+region_107;Frassilongo;;;;;
+region_108;Fierozzo;;;;;
+region_109;Garniga Terme;;;;;
+region_110;Folgaria;;;;;
+region_111;Giovo;;;;;
+region_112;Fornace;;;;;
+region_113;Madruzzo;;;;;
+region_114;Massimeno;;;;;
+region_115;Mezzocorona;;;;;
+region_116;Mezzano;;;;;
+region_117;Luserna;;;;;
+region_118;Lona-Lases;;;;;
+region_119;Mazzin - Mazin;;;;;
+region_120;Mezzana;;;;;
+region_121;Male;;;;;
+region_122;Pieve di Bono-Prezzo;;;;;
+region_123;Pelugo;;;;;
+region_124;Palu del Fersina Palai en Bersntol;;;;;
+region_125;Pergine Valsugana;;;;;
+region_126;Ospedaletto;;;;;
+region_127;Panchia;;;;;
+region_128;Pellizzano;;;;;
+region_129;Ossana;;;;;
+region_130;Peio;;;;;
+region_131;Rovere della Luna;;;;;
+region_132;Roncegno Terme;;;;;
+region_133;Ronchi Valsugana;;;;;
+region_134;Ronzo-Chienis;;;;;
+region_135;Ruffre;;;;;
+region_136;Rovereto;;;;;
+region_137;Ronzone;;;;;
+region_138;Romeno;;;;;
+region_139;Rumo;;;;;
+region_140;Stenico;;;;;
+region_141;Sella Giudicarie;;;;;
+region_142;Spormaggiore;;;;;
+region_143;Spiazzo;;;;;
+region_144;Segonzano;;;;;
+region_145;Sover;;;;;
+region_146;Soraga di Fassa;;;;;
+region_147;Sporminore;;;;;
+region_148;Sfruz;;;;;
+region_149;Tione di Trento;;;;;
+region_150;Tre Ville;;;;;
+region_151;Valdaone;;;;;
+region_152;Torcegno;;;;;
+region_153;Trento;;;;;
+region_154;Valfloriana;;;;;
+region_155;Trambileno;;;;;
+region_156;Tesero;;;;;
+region_157;Ton;;;;;
+region_158;Vallarsa;;;;;
+region_159;Vallelaghi;;;;;
+region_160;Vermiglio;;;;;
+region_161;Vignola;;;;;
+region_162;Villa Lagarina;;;;;
+region_163;Ville dAnaunia;;;;;
+region_164;Ville di Fiemme;;;;;
+region_165;Ziano di Fiemme;;;;;
