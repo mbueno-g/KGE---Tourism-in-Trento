@@ -35,30 +35,6 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#buys_at -->
-
-    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#buys_at">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#store_GID-23209"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist_GID-57726"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#is_closest_to -->
-
-    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#is_closest_to">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#accommodation_GID-14254"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#formation_GID-49530"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hike_GID-1458"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#ski_resort_GID-46553"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#store_GID-23209"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#transportation_GID-24838"/>
-    </owl:ObjectProperty>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#part_of -->
 
     <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#part_of">
@@ -75,34 +51,11 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#refils_at -->
-
-    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#refils_at">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station_GID-18641"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist_GID-57726"/>
-    </owl:ObjectProperty>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#stays_at -->
 
     <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#stays_at">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#accommodation_GID-14254"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist_GID-57726"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#visits -->
-
-    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#visits">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#formation_GID-49530"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hike_GID-1458"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#ski_resort_GID-46553"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#store_GID-23209"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist_GID-57726"/>
     </owl:ObjectProperty>
     
