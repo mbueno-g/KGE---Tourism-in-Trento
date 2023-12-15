@@ -1,21 +1,21 @@
 id,name,tourist_type,trip_origin,arrival_time,height,city
-tourist_trip_1,"Val di Ledro, Wasserfall Via del ponale loop from Riva del Garda",high,station_3484,03:25,470,region_148
-tourist_trip_2,Bastione Santa Barbara loop from Sant'Alessandro,high,station_790,04:50,780,region_148
-tourist_trip_3,Lago di Tenno – Türkisfarbener Tenno See loop from Gavazzo,high,station_2063,05:03,840,region_157
-tourist_trip_4,Punta Larici - Bocca Larici – Sentiero Ponale loop from Bastione,high,station_3484,07:23,1130,region_148
-tourist_trip_5,Becco di Filadonna via Rifugio Casarota,high,0,05:16,1000,region_3
-tourist_trip_6,Salita al Rifugio Vajolet e al Rifugio Re Alberto,high,0,03:12,650,region_74
-tourist_trip_7,Salita al Rifugio Sette Selle  Giro ad anello,high,0,05:17,830,region_162
-tourist_trip_8,Camminata nei dintorni di Riva del Garda,low,0,01:27,212,region_148
-tourist_trip_9,Camminando lungo il Lago di Ledro,low,0,01:47,50,region_139
-tourist_trip_10,Qualche scorcio del Lago di Molveno,low,0,01:14,50,region_104
-tourist_trip_11,Lago di Tenno  Trkisfarbener Tenno See loop from Ville Del Monte,low,0,01:10,90,region_157
-tourist_trip_12,Valle del Sarca Arco Castle loop from Caneve,low,station_911,01:26,160,region_4
-tourist_trip_13,Chiesa di Santa Maria Maggiore – Porta di Santa Margherita loop from Centro storico Trento,low,station_3465,00:55,0,region_125
-tourist_trip_14,Forte Alto – Belvedere / Al Castello loop from Nago,low,station_1520,01:06,150,region_103
-tourist_trip_15,Lungo il sentiero panoramico Bussate Tempesta,medium,0,02:49,350,region_103
-tourist_trip_16,Giro del Lago di Ledro,medium,0,02:38,160,region_139
-tourist_trip_17,Giro del lago di Levico  Giro ad anello,medium,0,02:02,90,region_141
-tourist_trip_18,Via del ponale  Ponale Alto loop from Biacesa di Ledro,medium,station_2690,03:32,500,region_139
-tourist_trip_19,Panorama Lago di Molveno Spiaggia del lago di Molveno loop from Molveno,medium,station_1389,02:52,160,region_104
-tourist_trip_20,Salita al Bastione – Bastione loop from San Giacomo,medium,station_789,03:16,456,region_13
+tourist_trip_1,"Val di Ledro, Wasserfall Via del ponale loop from Riva del Garda",high,station_3484,03:25,470,region_49
+tourist_trip_2,Bastione Santa Barbara loop from Sant'Alessandro,high,station_790,04:50,780,region_49
+tourist_trip_3,Lago di Tenno – Türkisfarbener Tenno See loop from Gavazzo,high,station_2063,05:03,840,region_67
+tourist_trip_4,Punta Larici - Bocca Larici – Sentiero Ponale loop from Bastione,high,station_3484,07:23,1130,region_49
+tourist_trip_5,Becco di Filadonna via Rifugio Casarota,high,0,05:16,1000,region_38
+tourist_trip_6,Salita al Rifugio Vajolet e al Rifugio Re Alberto,high,0,03:12,650,region_64
+tourist_trip_7,Salita al Rifugio Sette Selle  Giro ad anello,high,0,05:17,830,region_116
+tourist_trip_8,Camminata nei dintorni di Riva del Garda,low,0,01:27,212,region_49
+tourist_trip_9,Camminando lungo il Lago di Ledro,low,0,01:47,50,region_31
+tourist_trip_10,Qualche scorcio del Lago di Molveno,low,0,01:14,50,region_42
+tourist_trip_11,Lago di Tenno  Trkisfarbener Tenno See loop from Ville Del Monte,low,0,01:10,90,region_67
+tourist_trip_12,Valle del Sarca Arco Castle loop from Caneve,low,station_911,01:26,160,region_77
+tourist_trip_13,Chiesa di Santa Maria Maggiore – Porta di Santa Margherita loop from Centro storico Trento,low,station_3465,00:55,0,region_153
+tourist_trip_14,Forte Alto – Belvedere / Al Castello loop from Nago,low,station_1520,01:06,150,region_40
+tourist_trip_15,Lungo il sentiero panoramico Bussate Tempesta,medium,0,02:49,350,region_40
+tourist_trip_16,Giro del Lago di Ledro,medium,0,02:38,160,region_31
+tourist_trip_17,Giro del lago di Levico  Giro ad anello,medium,0,02:02,90,region_34
+tourist_trip_18,Via del ponale  Ponale Alto loop from Biacesa di Ledro,medium,station_2690,03:32,500,region_31
+tourist_trip_19,Panorama Lago di Molveno Spiaggia del lago di Molveno loop from Molveno,medium,station_1389,02:52,160,region_42
+tourist_trip_20,Salita al Bastione – Bastione loop from San Giacomo,medium,station_789,03:16,456,region_49
