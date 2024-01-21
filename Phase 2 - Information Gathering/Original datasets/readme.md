@@ -1,3 +1,5 @@
+<!-- Paste this code into your README.md file -->
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,4 +54,3 @@
 
 </body>
 </html>
-
