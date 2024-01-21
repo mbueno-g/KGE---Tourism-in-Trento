@@ -1,660 +1,495 @@
-_:region_GID-464521_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N13022_1faccbd539878ba04562bbabf0f5036429937693_N13021_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N13022 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Aldeno" .
-_:region_GID-464521_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N13022_1faccbd539878ba04562bbabf0f5036429937693_N13021_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N13022 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_1" .
-_:region_GID-464521_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N13022_1faccbd539878ba04562bbabf0f5036429937693_N13021_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N13022 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_f35933b93c2cd2abb5feeda048971cfede1c3436_N13025_acc47440ff8f593f47fd6111cead8f23f87ec197_N13024_f35933b93c2cd2abb5feeda048971cfede1c3436_N13025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_f35933b93c2cd2abb5feeda048971cfede1c3436_N13025_acc47440ff8f593f47fd6111cead8f23f87ec197_N13024_f35933b93c2cd2abb5feeda048971cfede1c3436_N13025 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_2" .
-_:region_GID-464521_f35933b93c2cd2abb5feeda048971cfede1c3436_N13025_acc47440ff8f593f47fd6111cead8f23f87ec197_N13024_f35933b93c2cd2abb5feeda048971cfede1c3436_N13025 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Albiano" .
-
-_:region_GID-464521_5775f81d1ff4ccf0eb1bc208627ba9b15dac295a_N13028_34ab112aa1b2b8f052e61ba8463ca7613029f8d0_N13027_5775f81d1ff4ccf0eb1bc208627ba9b15dac295a_N13028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_5775f81d1ff4ccf0eb1bc208627ba9b15dac295a_N13028_34ab112aa1b2b8f052e61ba8463ca7613029f8d0_N13027_5775f81d1ff4ccf0eb1bc208627ba9b15dac295a_N13028 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Altopiano della Vigolana" .
-_:region_GID-464521_5775f81d1ff4ccf0eb1bc208627ba9b15dac295a_N13028_34ab112aa1b2b8f052e61ba8463ca7613029f8d0_N13027_5775f81d1ff4ccf0eb1bc208627ba9b15dac295a_N13028 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_3" .
-
-_:region_GID-464521_9878bd2f25766552cbff4188e2a9ce513013918e_N13031_64cc2ee1b2d834f10115cd13b1a9d5c2ebc98196_N13030_9878bd2f25766552cbff4188e2a9ce513013918e_N13031 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_4" .
-_:region_GID-464521_9878bd2f25766552cbff4188e2a9ce513013918e_N13031_64cc2ee1b2d834f10115cd13b1a9d5c2ebc98196_N13030_9878bd2f25766552cbff4188e2a9ce513013918e_N13031 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Andalo" .
-_:region_GID-464521_9878bd2f25766552cbff4188e2a9ce513013918e_N13031_64cc2ee1b2d834f10115cd13b1a9d5c2ebc98196_N13030_9878bd2f25766552cbff4188e2a9ce513013918e_N13031 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_59073924382df6c564b899c9774748990ffc4d5e_N13034_29c6710070bbccf7aa840e2b94c0bdaf06f86028_N13033_59073924382df6c564b899c9774748990ffc4d5e_N13034 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Baselga di Pine" .
-_:region_GID-464521_59073924382df6c564b899c9774748990ffc4d5e_N13034_29c6710070bbccf7aa840e2b94c0bdaf06f86028_N13033_59073924382df6c564b899c9774748990ffc4d5e_N13034 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_59073924382df6c564b899c9774748990ffc4d5e_N13034_29c6710070bbccf7aa840e2b94c0bdaf06f86028_N13033_59073924382df6c564b899c9774748990ffc4d5e_N13034 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_5" .
-
-_:region_GID-464521_0816a1f9ad742fa7d5781ebf08edced50cf04daa_N13037_066d54de71a223dfe320d075ddcf78e56467eca5_N13036_0816a1f9ad742fa7d5781ebf08edced50cf04daa_N13037 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_6" .
-_:region_GID-464521_0816a1f9ad742fa7d5781ebf08edced50cf04daa_N13037_066d54de71a223dfe320d075ddcf78e56467eca5_N13036_0816a1f9ad742fa7d5781ebf08edced50cf04daa_N13037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_0816a1f9ad742fa7d5781ebf08edced50cf04daa_N13037_066d54de71a223dfe320d075ddcf78e56467eca5_N13036_0816a1f9ad742fa7d5781ebf08edced50cf04daa_N13037 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bedollo" .
-
-_:region_GID-464521_e05a6debc33b0b2193db4af6c6889417d4eb8c94_N13040_f907d72af1202e7a44d993d81d5db741182febf7_N13039_e05a6debc33b0b2193db4af6c6889417d4eb8c94_N13040 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bieno" .
-_:region_GID-464521_e05a6debc33b0b2193db4af6c6889417d4eb8c94_N13040_f907d72af1202e7a44d993d81d5db741182febf7_N13039_e05a6debc33b0b2193db4af6c6889417d4eb8c94_N13040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_e05a6debc33b0b2193db4af6c6889417d4eb8c94_N13040_f907d72af1202e7a44d993d81d5db741182febf7_N13039_e05a6debc33b0b2193db4af6c6889417d4eb8c94_N13040 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_7" .
-
-_:region_GID-464521_8f45355593c4df83fcad6e0b5d2f99257821ac4a_N13043_e938c93c4da5bb232ab3610fbcfa1d54753c3660_N13042_8f45355593c4df83fcad6e0b5d2f99257821ac4a_N13043 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_8" .
-_:region_GID-464521_8f45355593c4df83fcad6e0b5d2f99257821ac4a_N13043_e938c93c4da5bb232ab3610fbcfa1d54753c3660_N13042_8f45355593c4df83fcad6e0b5d2f99257821ac4a_N13043 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_8f45355593c4df83fcad6e0b5d2f99257821ac4a_N13043_e938c93c4da5bb232ab3610fbcfa1d54753c3660_N13042_8f45355593c4df83fcad6e0b5d2f99257821ac4a_N13043 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Besenello" .
-
-_:region_GID-464521_d5aa1ce66d6ff96ae392aeaa67a6af95acbbfbc1_N13046_66076de94b6f7e3c117f94eec83a6ff8844c6c3d_N13045_d5aa1ce66d6ff96ae392aeaa67a6af95acbbfbc1_N13046 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_9" .
-_:region_GID-464521_d5aa1ce66d6ff96ae392aeaa67a6af95acbbfbc1_N13046_66076de94b6f7e3c117f94eec83a6ff8844c6c3d_N13045_d5aa1ce66d6ff96ae392aeaa67a6af95acbbfbc1_N13046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_d5aa1ce66d6ff96ae392aeaa67a6af95acbbfbc1_N13046_66076de94b6f7e3c117f94eec83a6ff8844c6c3d_N13045_d5aa1ce66d6ff96ae392aeaa67a6af95acbbfbc1_N13046 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Avio" .
-
-_:region_GID-464521_fbdec0f743e692f7f0b23ca5755adb323b2f1722_N13049_f4a957d5cbdb4a811b417967302a0cb8768a0be7_N13048_fbdec0f743e692f7f0b23ca5755adb323b2f1722_N13049 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_10" .
-_:region_GID-464521_fbdec0f743e692f7f0b23ca5755adb323b2f1722_N13049_f4a957d5cbdb4a811b417967302a0cb8768a0be7_N13048_fbdec0f743e692f7f0b23ca5755adb323b2f1722_N13049 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_fbdec0f743e692f7f0b23ca5755adb323b2f1722_N13049_f4a957d5cbdb4a811b417967302a0cb8768a0be7_N13048_fbdec0f743e692f7f0b23ca5755adb323b2f1722_N13049 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ala" .
-
-_:region_GID-464521_4b58e6b37fd5876bf260db769112eed97eeefb77_N13052_7a1b3881e741b6214f2021c1aceac4654ac0e43e_N13051_4b58e6b37fd5876bf260db769112eed97eeefb77_N13052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_4b58e6b37fd5876bf260db769112eed97eeefb77_N13052_7a1b3881e741b6214f2021c1aceac4654ac0e43e_N13051_4b58e6b37fd5876bf260db769112eed97eeefb77_N13052 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Altavalle" .
-_:region_GID-464521_4b58e6b37fd5876bf260db769112eed97eeefb77_N13052_7a1b3881e741b6214f2021c1aceac4654ac0e43e_N13051_4b58e6b37fd5876bf260db769112eed97eeefb77_N13052 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_11" .
-
-_:region_GID-464521_2cf1bdc3c4a8cdff801fed4f149be2d75bf7dc8a_N13055_54923b9a957fc6a194a917d8073643d8b4124a8e_N13054_2cf1bdc3c4a8cdff801fed4f149be2d75bf7dc8a_N13055 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_12" .
-_:region_GID-464521_2cf1bdc3c4a8cdff801fed4f149be2d75bf7dc8a_N13055_54923b9a957fc6a194a917d8073643d8b4124a8e_N13054_2cf1bdc3c4a8cdff801fed4f149be2d75bf7dc8a_N13055 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Amblar" .
-_:region_GID-464521_2cf1bdc3c4a8cdff801fed4f149be2d75bf7dc8a_N13055_54923b9a957fc6a194a917d8073643d8b4124a8e_N13054_2cf1bdc3c4a8cdff801fed4f149be2d75bf7dc8a_N13055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_27d3d876b78e66eb2a46bbe997b6be0377c37adb_N13058_e17b9031289129e27c04d48c0eafb3d6a58f2579_N13057_27d3d876b78e66eb2a46bbe997b6be0377c37adb_N13058 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castel Condino" .
-_:region_GID-464521_27d3d876b78e66eb2a46bbe997b6be0377c37adb_N13058_e17b9031289129e27c04d48c0eafb3d6a58f2579_N13057_27d3d876b78e66eb2a46bbe997b6be0377c37adb_N13058 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_13" .
-_:region_GID-464521_27d3d876b78e66eb2a46bbe997b6be0377c37adb_N13058_e17b9031289129e27c04d48c0eafb3d6a58f2579_N13057_27d3d876b78e66eb2a46bbe997b6be0377c37adb_N13058 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_1383222b8b7ae6573954ed5c7ee2b94b07484592_N13061_c8629a1cc0b193bb3bc08802a3a78f4f8bdcbd05_N13060_1383222b8b7ae6573954ed5c7ee2b94b07484592_N13061 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_14" .
-_:region_GID-464521_1383222b8b7ae6573954ed5c7ee2b94b07484592_N13061_c8629a1cc0b193bb3bc08802a3a78f4f8bdcbd05_N13060_1383222b8b7ae6573954ed5c7ee2b94b07484592_N13061 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Carisolo" .
-_:region_GID-464521_1383222b8b7ae6573954ed5c7ee2b94b07484592_N13061_c8629a1cc0b193bb3bc08802a3a78f4f8bdcbd05_N13060_1383222b8b7ae6573954ed5c7ee2b94b07484592_N13061 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_e64c2d7929f23b68d96922c90f1771ebc318d8c1_N13064_a1af77bc3433fa80b67e8b4e6620265e0ccd7141_N13063_e64c2d7929f23b68d96922c90f1771ebc318d8c1_N13064 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_15" .
-_:region_GID-464521_e64c2d7929f23b68d96922c90f1771ebc318d8c1_N13064_a1af77bc3433fa80b67e8b4e6620265e0ccd7141_N13063_e64c2d7929f23b68d96922c90f1771ebc318d8c1_N13064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_e64c2d7929f23b68d96922c90f1771ebc318d8c1_N13064_a1af77bc3433fa80b67e8b4e6620265e0ccd7141_N13063_e64c2d7929f23b68d96922c90f1771ebc318d8c1_N13064 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castello di Fiemme" .
-
-_:region_GID-464521_4161e31d4fd602303cb087f97ee76bf04e9a711c_N13067_5e9ada6f1078a3558a7dabc74b0b6f2b0e1499a2_N13066_4161e31d4fd602303cb087f97ee76bf04e9a711c_N13067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_4161e31d4fd602303cb087f97ee76bf04e9a711c_N13067_5e9ada6f1078a3558a7dabc74b0b6f2b0e1499a2_N13066_4161e31d4fd602303cb087f97ee76bf04e9a711c_N13067 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_16" .
-_:region_GID-464521_4161e31d4fd602303cb087f97ee76bf04e9a711c_N13067_5e9ada6f1078a3558a7dabc74b0b6f2b0e1499a2_N13066_4161e31d4fd602303cb087f97ee76bf04e9a711c_N13067 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castel Ivano" .
-
-_:region_GID-464521_1037c6ac74e6b6943c46cfb0a492448261030ad4_N13070_d7dde50c6b091b10fc1ab8403440400db4ffc1b7_N13069_1037c6ac74e6b6943c46cfb0a492448261030ad4_N13070 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_1037c6ac74e6b6943c46cfb0a492448261030ad4_N13070_d7dde50c6b091b10fc1ab8403440400db4ffc1b7_N13069_1037c6ac74e6b6943c46cfb0a492448261030ad4_N13070 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_17" .
-_:region_GID-464521_1037c6ac74e6b6943c46cfb0a492448261030ad4_N13070_d7dde50c6b091b10fc1ab8403440400db4ffc1b7_N13069_1037c6ac74e6b6943c46cfb0a492448261030ad4_N13070 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castello Tesino" .
-
-_:region_GID-464521_37bbdd6ae3946f47427a117010f44a32c5466010_N13073_4a042668a346179f80f4da5e8f8f576bd7d930fa_N13072_37bbdd6ae3946f47427a117010f44a32c5466010_N13073 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_37bbdd6ae3946f47427a117010f44a32c5466010_N13073_4a042668a346179f80f4da5e8f8f576bd7d930fa_N13072_37bbdd6ae3946f47427a117010f44a32c5466010_N13073 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castelnuovo" .
-_:region_GID-464521_37bbdd6ae3946f47427a117010f44a32c5466010_N13073_4a042668a346179f80f4da5e8f8f576bd7d930fa_N13072_37bbdd6ae3946f47427a117010f44a32c5466010_N13073 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_18" .
-
-_:region_GID-464521_e677e36e6e0c152e773c47dbc30ba1830236772d_N13076_d7ab5a1e5de2251998bd8d7d67e252fa8443210e_N13075_e677e36e6e0c152e773c47dbc30ba1830236772d_N13076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_e677e36e6e0c152e773c47dbc30ba1830236772d_N13076_d7ab5a1e5de2251998bd8d7d67e252fa8443210e_N13075_e677e36e6e0c152e773c47dbc30ba1830236772d_N13076 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Carzano" .
-_:region_GID-464521_e677e36e6e0c152e773c47dbc30ba1830236772d_N13076_d7ab5a1e5de2251998bd8d7d67e252fa8443210e_N13075_e677e36e6e0c152e773c47dbc30ba1830236772d_N13076 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_19" .
-
-_:region_GID-464521_2673be139dd2524102ae7697e6491f7304a6cac4_N13079_246c76dc29cdc42961efa79569c063ecc552ba06_N13078_2673be139dd2524102ae7697e6491f7304a6cac4_N13079 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_2673be139dd2524102ae7697e6491f7304a6cac4_N13079_246c76dc29cdc42961efa79569c063ecc552ba06_N13078_2673be139dd2524102ae7697e6491f7304a6cac4_N13079 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_20" .
-_:region_GID-464521_2673be139dd2524102ae7697e6491f7304a6cac4_N13079_246c76dc29cdc42961efa79569c063ecc552ba06_N13078_2673be139dd2524102ae7697e6491f7304a6cac4_N13079 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Capriana" .
-
-_:region_GID-464521_d5d06a00a2fdcdbbaeb9894a19aa409d597d3166_N13082_b47b1477c7b60779a1fd3d79861aa8a13b046e10_N13081_d5d06a00a2fdcdbbaeb9894a19aa409d597d3166_N13082 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_21" .
-_:region_GID-464521_d5d06a00a2fdcdbbaeb9894a19aa409d597d3166_N13082_b47b1477c7b60779a1fd3d79861aa8a13b046e10_N13081_d5d06a00a2fdcdbbaeb9894a19aa409d597d3166_N13082 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavalese" .
-_:region_GID-464521_d5d06a00a2fdcdbbaeb9894a19aa409d597d3166_N13082_b47b1477c7b60779a1fd3d79861aa8a13b046e10_N13081_d5d06a00a2fdcdbbaeb9894a19aa409d597d3166_N13082 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_dc9465ed393f406e2736cb2cfe967eab3e325190_N13085_aaa5b334e72f055224f7a6d3483932a59de66670_N13084_dc9465ed393f406e2736cb2cfe967eab3e325190_N13085 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_22" .
-_:region_GID-464521_dc9465ed393f406e2736cb2cfe967eab3e325190_N13085_aaa5b334e72f055224f7a6d3483932a59de66670_N13084_dc9465ed393f406e2736cb2cfe967eab3e325190_N13085 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_dc9465ed393f406e2736cb2cfe967eab3e325190_N13085_aaa5b334e72f055224f7a6d3483932a59de66670_N13084_dc9465ed393f406e2736cb2cfe967eab3e325190_N13085 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Comano Terme" .
-
-_:region_GID-464521_63b50300c4e2101b2dfcb32bfc12e113060db3c1_N13088_3ccbd7fbf84c322ad8a39571dc443b570ca9a658_N13087_63b50300c4e2101b2dfcb32bfc12e113060db3c1_N13088 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_63b50300c4e2101b2dfcb32bfc12e113060db3c1_N13088_3ccbd7fbf84c322ad8a39571dc443b570ca9a658_N13087_63b50300c4e2101b2dfcb32bfc12e113060db3c1_N13088 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_23" .
-_:region_GID-464521_63b50300c4e2101b2dfcb32bfc12e113060db3c1_N13088_3ccbd7fbf84c322ad8a39571dc443b570ca9a658_N13087_63b50300c4e2101b2dfcb32bfc12e113060db3c1_N13088 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Drena" .
-
-_:region_GID-464521_dd3d0e5b6961709cf6f3c4d62ff21f709979e5b9_N13091_8f74b03ecab5eaa8cbf5ffe4c7931eb34f5977ee_N13090_dd3d0e5b6961709cf6f3c4d62ff21f709979e5b9_N13091 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_24" .
-_:region_GID-464521_dd3d0e5b6961709cf6f3c4d62ff21f709979e5b9_N13091_8f74b03ecab5eaa8cbf5ffe4c7931eb34f5977ee_N13090_dd3d0e5b6961709cf6f3c4d62ff21f709979e5b9_N13091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_dd3d0e5b6961709cf6f3c4d62ff21f709979e5b9_N13091_8f74b03ecab5eaa8cbf5ffe4c7931eb34f5977ee_N13090_dd3d0e5b6961709cf6f3c4d62ff21f709979e5b9_N13091 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Dimaro Folgarida" .
-
-_:region_GID-464521_21ba12502efce601b099113ee2846d3a61d69de8_N13094_f67fbcb42d26ca8b2c7c7f029e44922017a1837d_N13093_21ba12502efce601b099113ee2846d3a61d69de8_N13094 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_25" .
-_:region_GID-464521_21ba12502efce601b099113ee2846d3a61d69de8_N13094_f67fbcb42d26ca8b2c7c7f029e44922017a1837d_N13093_21ba12502efce601b099113ee2846d3a61d69de8_N13094 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Commezzadura" .
-_:region_GID-464521_21ba12502efce601b099113ee2846d3a61d69de8_N13094_f67fbcb42d26ca8b2c7c7f029e44922017a1837d_N13093_21ba12502efce601b099113ee2846d3a61d69de8_N13094 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_da3ffc564c838448ba0ab879e9524d7606bc295a_N13097_4d07517575be58d93af0d5c37c1f802364920d33_N13096_da3ffc564c838448ba0ab879e9524d7606bc295a_N13097 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Conta" .
-_:region_GID-464521_da3ffc564c838448ba0ab879e9524d7606bc295a_N13097_4d07517575be58d93af0d5c37c1f802364920d33_N13096_da3ffc564c838448ba0ab879e9524d7606bc295a_N13097 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_da3ffc564c838448ba0ab879e9524d7606bc295a_N13097_4d07517575be58d93af0d5c37c1f802364920d33_N13096_da3ffc564c838448ba0ab879e9524d7606bc295a_N13097 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_26" .
-
-_:region_GID-464521_346c47aa6057560309d9627e19843357bd8fdcf0_N13100_3c1fd751e5c4f03e655d344679dd0a589fac9a96_N13099_346c47aa6057560309d9627e19843357bd8fdcf0_N13100 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Dambel" .
-_:region_GID-464521_346c47aa6057560309d9627e19843357bd8fdcf0_N13100_3c1fd751e5c4f03e655d344679dd0a589fac9a96_N13099_346c47aa6057560309d9627e19843357bd8fdcf0_N13100 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_27" .
-_:region_GID-464521_346c47aa6057560309d9627e19843357bd8fdcf0_N13100_3c1fd751e5c4f03e655d344679dd0a589fac9a96_N13099_346c47aa6057560309d9627e19843357bd8fdcf0_N13100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_9cc365d0530db0b6c4dbd178f864a87445201f74_N13103_5b52cf26dd2226f5c7b1894a1125bc3d681835b7_N13102_9cc365d0530db0b6c4dbd178f864a87445201f74_N13103 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Denno" .
-_:region_GID-464521_9cc365d0530db0b6c4dbd178f864a87445201f74_N13103_5b52cf26dd2226f5c7b1894a1125bc3d681835b7_N13102_9cc365d0530db0b6c4dbd178f864a87445201f74_N13103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_9cc365d0530db0b6c4dbd178f864a87445201f74_N13103_5b52cf26dd2226f5c7b1894a1125bc3d681835b7_N13102_9cc365d0530db0b6c4dbd178f864a87445201f74_N13103 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_28" .
-
-_:region_GID-464521_b64ffee2ac8f2c9e79015cd0c0a8f71d1961b378_N13106_e8019bb4d7b5f68010c01394aa1a2d0cedcebd59_N13105_b64ffee2ac8f2c9e79015cd0c0a8f71d1961b378_N13106 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Croviana" .
-_:region_GID-464521_b64ffee2ac8f2c9e79015cd0c0a8f71d1961b378_N13106_e8019bb4d7b5f68010c01394aa1a2d0cedcebd59_N13105_b64ffee2ac8f2c9e79015cd0c0a8f71d1961b378_N13106 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_29" .
-_:region_GID-464521_b64ffee2ac8f2c9e79015cd0c0a8f71d1961b378_N13106_e8019bb4d7b5f68010c01394aa1a2d0cedcebd59_N13105_b64ffee2ac8f2c9e79015cd0c0a8f71d1961b378_N13106 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_490fb0e3cfb9c0d38dc3bb211917469fcd02fafa_N13109_902d6f79d63936a7421bfd7bdd22c70df6f807c6_N13108_490fb0e3cfb9c0d38dc3bb211917469fcd02fafa_N13109 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_30" .
-_:region_GID-464521_490fb0e3cfb9c0d38dc3bb211917469fcd02fafa_N13109_902d6f79d63936a7421bfd7bdd22c70df6f807c6_N13108_490fb0e3cfb9c0d38dc3bb211917469fcd02fafa_N13109 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_490fb0e3cfb9c0d38dc3bb211917469fcd02fafa_N13109_902d6f79d63936a7421bfd7bdd22c70df6f807c6_N13108_490fb0e3cfb9c0d38dc3bb211917469fcd02fafa_N13109 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cles" .
-
-_:region_GID-464521_0e76668a42ac204f51d4b39ef2698d0a8914995c_N13112_15c0b05da98639485eda882dcf1c50b06a0caba0_N13111_0e76668a42ac204f51d4b39ef2698d0a8914995c_N13112 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_0e76668a42ac204f51d4b39ef2698d0a8914995c_N13112_15c0b05da98639485eda882dcf1c50b06a0caba0_N13111_0e76668a42ac204f51d4b39ef2698d0a8914995c_N13112 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_31" .
-_:region_GID-464521_0e76668a42ac204f51d4b39ef2698d0a8914995c_N13112_15c0b05da98639485eda882dcf1c50b06a0caba0_N13111_0e76668a42ac204f51d4b39ef2698d0a8914995c_N13112 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ledro" .
-
-_:region_GID-464521_3654282e3d83321eca862e2107ea1ab84fe85e31_N13115_f25d592b7f91634843b24a21c6320764dab2ca06_N13114_3654282e3d83321eca862e2107ea1ab84fe85e31_N13115 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_32" .
-_:region_GID-464521_3654282e3d83321eca862e2107ea1ab84fe85e31_N13115_f25d592b7f91634843b24a21c6320764dab2ca06_N13114_3654282e3d83321eca862e2107ea1ab84fe85e31_N13115 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Giustino" .
-_:region_GID-464521_3654282e3d83321eca862e2107ea1ab84fe85e31_N13115_f25d592b7f91634843b24a21c6320764dab2ca06_N13114_3654282e3d83321eca862e2107ea1ab84fe85e31_N13115 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_7a0d6d74e731b63c3e1d79bc2a2227e82d44e116_N13118_3074ee6aff3186f84f9e193dcbf7765670bc7f40_N13117_7a0d6d74e731b63c3e1d79bc2a2227e82d44e116_N13118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_7a0d6d74e731b63c3e1d79bc2a2227e82d44e116_N13118_3074ee6aff3186f84f9e193dcbf7765670bc7f40_N13117_7a0d6d74e731b63c3e1d79bc2a2227e82d44e116_N13118 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_33" .
-_:region_GID-464521_7a0d6d74e731b63c3e1d79bc2a2227e82d44e116_N13118_3074ee6aff3186f84f9e193dcbf7765670bc7f40_N13117_7a0d6d74e731b63c3e1d79bc2a2227e82d44e116_N13118 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Lavis" .
-
-_:region_GID-464521_fbfc25a8ba29bd274128f9130ace1c8433ed666e_N13121_d577e8d20f8b98686a76ed653c186249b0cd59f7_N13120_fbfc25a8ba29bd274128f9130ace1c8433ed666e_N13121 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_fbfc25a8ba29bd274128f9130ace1c8433ed666e_N13121_d577e8d20f8b98686a76ed653c186249b0cd59f7_N13120_fbfc25a8ba29bd274128f9130ace1c8433ed666e_N13121 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Levico Terme" .
-_:region_GID-464521_fbfc25a8ba29bd274128f9130ace1c8433ed666e_N13121_d577e8d20f8b98686a76ed653c186249b0cd59f7_N13120_fbfc25a8ba29bd274128f9130ace1c8433ed666e_N13121 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_34" .
-
-_:region_GID-464521_ddef5f34cf747a6eb78d08f95eec087ba3593eba_N13124_dd542a32c60cc49fd8db92e11be96ae1e528fe78_N13123_ddef5f34cf747a6eb78d08f95eec087ba3593eba_N13124 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_ddef5f34cf747a6eb78d08f95eec087ba3593eba_N13124_dd542a32c60cc49fd8db92e11be96ae1e528fe78_N13123_ddef5f34cf747a6eb78d08f95eec087ba3593eba_N13124 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Imer" .
-_:region_GID-464521_ddef5f34cf747a6eb78d08f95eec087ba3593eba_N13124_dd542a32c60cc49fd8db92e11be96ae1e528fe78_N13123_ddef5f34cf747a6eb78d08f95eec087ba3593eba_N13124 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_35" .
-
-_:region_GID-464521_94cb01e354b24f9a4601cbaf6bd9f986bca8fdc5_N13127_046420599c08822aee7631fd9b3b6a831cac957e_N13126_94cb01e354b24f9a4601cbaf6bd9f986bca8fdc5_N13127 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Grigno" .
-_:region_GID-464521_94cb01e354b24f9a4601cbaf6bd9f986bca8fdc5_N13127_046420599c08822aee7631fd9b3b6a831cac957e_N13126_94cb01e354b24f9a4601cbaf6bd9f986bca8fdc5_N13127 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_94cb01e354b24f9a4601cbaf6bd9f986bca8fdc5_N13127_046420599c08822aee7631fd9b3b6a831cac957e_N13126_94cb01e354b24f9a4601cbaf6bd9f986bca8fdc5_N13127 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_36" .
-
-_:region_GID-464521_b5cb27ea3094267b95c65b6d81a36abf5ae22d92_N13130_865969ad93710f1fa895f114776cfc7c2d10527a_N13129_b5cb27ea3094267b95c65b6d81a36abf5ae22d92_N13130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_b5cb27ea3094267b95c65b6d81a36abf5ae22d92_N13130_865969ad93710f1fa895f114776cfc7c2d10527a_N13129_b5cb27ea3094267b95c65b6d81a36abf5ae22d92_N13130 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Isera" .
-_:region_GID-464521_b5cb27ea3094267b95c65b6d81a36abf5ae22d92_N13130_865969ad93710f1fa895f114776cfc7c2d10527a_N13129_b5cb27ea3094267b95c65b6d81a36abf5ae22d92_N13130 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_37" .
-
-_:region_GID-464521_89d0c34b9df52532d7bb42b6cfacb939d18a82f2_N13133_10e19089a3cb185c724e3ee29e50ed8c21828178_N13132_89d0c34b9df52532d7bb42b6cfacb939d18a82f2_N13133 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Lavarone" .
-_:region_GID-464521_89d0c34b9df52532d7bb42b6cfacb939d18a82f2_N13133_10e19089a3cb185c724e3ee29e50ed8c21828178_N13132_89d0c34b9df52532d7bb42b6cfacb939d18a82f2_N13133 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_38" .
-_:region_GID-464521_89d0c34b9df52532d7bb42b6cfacb939d18a82f2_N13133_10e19089a3cb185c724e3ee29e50ed8c21828178_N13132_89d0c34b9df52532d7bb42b6cfacb939d18a82f2_N13133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_85b0da7522d3f234a9f806b3e32cfa4ecd942ead_N13136_95b9a1d211b4229cf638b8f69fe317309b3ffc22_N13135_85b0da7522d3f234a9f806b3e32cfa4ecd942ead_N13136 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_85b0da7522d3f234a9f806b3e32cfa4ecd942ead_N13136_95b9a1d211b4229cf638b8f69fe317309b3ffc22_N13135_85b0da7522d3f234a9f806b3e32cfa4ecd942ead_N13136 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Livo" .
-_:region_GID-464521_85b0da7522d3f234a9f806b3e32cfa4ecd942ead_N13136_95b9a1d211b4229cf638b8f69fe317309b3ffc22_N13135_85b0da7522d3f234a9f806b3e32cfa4ecd942ead_N13136 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_39" .
-
-_:region_GID-464521_9356682b1818249cb37b6198242fa59365ab8ac5_N13139_45228e39a649fc3ba4e3c3c219070f8c5df95dfa_N13138_9356682b1818249cb37b6198242fa59365ab8ac5_N13139 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_40" .
-_:region_GID-464521_9356682b1818249cb37b6198242fa59365ab8ac5_N13139_45228e39a649fc3ba4e3c3c219070f8c5df95dfa_N13138_9356682b1818249cb37b6198242fa59365ab8ac5_N13139 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_9356682b1818249cb37b6198242fa59365ab8ac5_N13139_45228e39a649fc3ba4e3c3c219070f8c5df95dfa_N13138_9356682b1818249cb37b6198242fa59365ab8ac5_N13139 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Nago" .
-
-_:region_GID-464521_c398a4044b73d1b905c0badc31af4e74649fd212_N13142_3082f546edeca74ed3fe091ce89850c927642b62_N13141_c398a4044b73d1b905c0badc31af4e74649fd212_N13142 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mezzolombardo" .
-_:region_GID-464521_c398a4044b73d1b905c0badc31af4e74649fd212_N13142_3082f546edeca74ed3fe091ce89850c927642b62_N13141_c398a4044b73d1b905c0badc31af4e74649fd212_N13142 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_41" .
-_:region_GID-464521_c398a4044b73d1b905c0badc31af4e74649fd212_N13142_3082f546edeca74ed3fe091ce89850c927642b62_N13141_c398a4044b73d1b905c0badc31af4e74649fd212_N13142 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_ea6c2c672f1024497b31ff1ac77d2edbe418171c_N13145_8ee3ffff57137f3cdc7e413616f3d0e01074864c_N13144_ea6c2c672f1024497b31ff1ac77d2edbe418171c_N13145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_ea6c2c672f1024497b31ff1ac77d2edbe418171c_N13145_8ee3ffff57137f3cdc7e413616f3d0e01074864c_N13144_ea6c2c672f1024497b31ff1ac77d2edbe418171c_N13145 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Molveno" .
-_:region_GID-464521_ea6c2c672f1024497b31ff1ac77d2edbe418171c_N13145_8ee3ffff57137f3cdc7e413616f3d0e01074864c_N13144_ea6c2c672f1024497b31ff1ac77d2edbe418171c_N13145 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_42" .
-
-_:region_GID-464521_ad78a8781d4d17806f537eb1f944b70ce26091c3_N13148_6e7c36fd1989ccccc51f0cedc5086ee877482af5_N13147_ad78a8781d4d17806f537eb1f944b70ce26091c3_N13148 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Novaledo" .
-_:region_GID-464521_ad78a8781d4d17806f537eb1f944b70ce26091c3_N13148_6e7c36fd1989ccccc51f0cedc5086ee877482af5_N13147_ad78a8781d4d17806f537eb1f944b70ce26091c3_N13148 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_ad78a8781d4d17806f537eb1f944b70ce26091c3_N13148_6e7c36fd1989ccccc51f0cedc5086ee877482af5_N13147_ad78a8781d4d17806f537eb1f944b70ce26091c3_N13148 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_43" .
-
-_:region_GID-464521_ec5775c1c512ec532e2a3ee466c6488c2fda267e_N13151_bdbd49429cc10a7b5d7d16cd16707e70d71dcc8b_N13150_ec5775c1c512ec532e2a3ee466c6488c2fda267e_N13151 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Nogaredo" .
-_:region_GID-464521_ec5775c1c512ec532e2a3ee466c6488c2fda267e_N13151_bdbd49429cc10a7b5d7d16cd16707e70d71dcc8b_N13150_ec5775c1c512ec532e2a3ee466c6488c2fda267e_N13151 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_ec5775c1c512ec532e2a3ee466c6488c2fda267e_N13151_bdbd49429cc10a7b5d7d16cd16707e70d71dcc8b_N13150_ec5775c1c512ec532e2a3ee466c6488c2fda267e_N13151 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_44" .
-
-_:region_GID-464521_fb0ebd48d56a39108beb9fa0c8c466298b630891_N13154_52da797c0be6136f18a8326fcae534d674272bb7_N13153_fb0ebd48d56a39108beb9fa0c8c466298b630891_N13154 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Nomi" .
-_:region_GID-464521_fb0ebd48d56a39108beb9fa0c8c466298b630891_N13154_52da797c0be6136f18a8326fcae534d674272bb7_N13153_fb0ebd48d56a39108beb9fa0c8c466298b630891_N13154 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_fb0ebd48d56a39108beb9fa0c8c466298b630891_N13154_52da797c0be6136f18a8326fcae534d674272bb7_N13153_fb0ebd48d56a39108beb9fa0c8c466298b630891_N13154 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_45" .
-
-_:region_GID-464521_b5e59077e168a1d390f1b349af957aa4fa398f1f_N13157_98f209362125f71c977eadf7b0835fc5ac51cebf_N13156_b5e59077e168a1d390f1b349af957aa4fa398f1f_N13157 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mori" .
-_:region_GID-464521_b5e59077e168a1d390f1b349af957aa4fa398f1f_N13157_98f209362125f71c977eadf7b0835fc5ac51cebf_N13156_b5e59077e168a1d390f1b349af957aa4fa398f1f_N13157 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_46" .
-_:region_GID-464521_b5e59077e168a1d390f1b349af957aa4fa398f1f_N13157_98f209362125f71c977eadf7b0835fc5ac51cebf_N13156_b5e59077e168a1d390f1b349af957aa4fa398f1f_N13157 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_6ee0bb82962a4db3669019d61831fc4a66b08bb8_N13160_681d453591632458752f264e76ae0537d10fc672_N13159_6ee0bb82962a4db3669019d61831fc4a66b08bb8_N13160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_6ee0bb82962a4db3669019d61831fc4a66b08bb8_N13160_681d453591632458752f264e76ae0537d10fc672_N13159_6ee0bb82962a4db3669019d61831fc4a66b08bb8_N13160 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_47" .
-_:region_GID-464521_6ee0bb82962a4db3669019d61831fc4a66b08bb8_N13160_681d453591632458752f264e76ae0537d10fc672_N13159_6ee0bb82962a4db3669019d61831fc4a66b08bb8_N13160 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Moena" .
-
-_:region_GID-464521_f6b55576ff0d2c188bc1f07848ebdc2e4be97325_N13163_19de647b32b0a41dbfb8c9feb870ea55e68f8ee2_N13162_f6b55576ff0d2c188bc1f07848ebdc2e4be97325_N13163 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_48" .
-_:region_GID-464521_f6b55576ff0d2c188bc1f07848ebdc2e4be97325_N13163_19de647b32b0a41dbfb8c9feb870ea55e68f8ee2_N13162_f6b55576ff0d2c188bc1f07848ebdc2e4be97325_N13163 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Novella" .
-_:region_GID-464521_f6b55576ff0d2c188bc1f07848ebdc2e4be97325_N13163_19de647b32b0a41dbfb8c9feb870ea55e68f8ee2_N13162_f6b55576ff0d2c188bc1f07848ebdc2e4be97325_N13163 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_ffe09f4bf9ac9a657d2936a09fc7b503b5e1a2d1_N13166_d7a26ae5f7421a3b7dfef23e4a5e35d8adc0d3c7_N13165_ffe09f4bf9ac9a657d2936a09fc7b503b5e1a2d1_N13166 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Riva del Garda" .
-_:region_GID-464521_ffe09f4bf9ac9a657d2936a09fc7b503b5e1a2d1_N13166_d7a26ae5f7421a3b7dfef23e4a5e35d8adc0d3c7_N13165_ffe09f4bf9ac9a657d2936a09fc7b503b5e1a2d1_N13166 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_49" .
-_:region_GID-464521_ffe09f4bf9ac9a657d2936a09fc7b503b5e1a2d1_N13166_d7a26ae5f7421a3b7dfef23e4a5e35d8adc0d3c7_N13165_ffe09f4bf9ac9a657d2936a09fc7b503b5e1a2d1_N13166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_02553eb1a888622c691a1444012f14ccc6f80ddf_N13169_cfa82ddb2354cf37c926011cbc2531d2710cdc78_N13168_02553eb1a888622c691a1444012f14ccc6f80ddf_N13169 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_50" .
-_:region_GID-464521_02553eb1a888622c691a1444012f14ccc6f80ddf_N13169_cfa82ddb2354cf37c926011cbc2531d2710cdc78_N13168_02553eb1a888622c691a1444012f14ccc6f80ddf_N13169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_02553eb1a888622c691a1444012f14ccc6f80ddf_N13169_cfa82ddb2354cf37c926011cbc2531d2710cdc78_N13168_02553eb1a888622c691a1444012f14ccc6f80ddf_N13169 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Porte di Rendena" .
-
-_:region_GID-464521_e95615066a1f816cd7d0ca19990f43112655ca3f_N13172_456ca08bf9961a08caaa58b2b0ec59e4ee3dd477_N13171_e95615066a1f816cd7d0ca19990f43112655ca3f_N13172 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_e95615066a1f816cd7d0ca19990f43112655ca3f_N13172_456ca08bf9961a08caaa58b2b0ec59e4ee3dd477_N13171_e95615066a1f816cd7d0ca19990f43112655ca3f_N13172 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_51" .
-_:region_GID-464521_e95615066a1f816cd7d0ca19990f43112655ca3f_N13172_456ca08bf9961a08caaa58b2b0ec59e4ee3dd477_N13171_e95615066a1f816cd7d0ca19990f43112655ca3f_N13172 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pinzolo" .
-
-_:region_GID-464521_3ff3ec2db207f7a7ef650daf3ee65ad652693163_N13175_18107ffa2e2204249c2164659061f63d7295aef7_N13174_3ff3ec2db207f7a7ef650daf3ee65ad652693163_N13175 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_52" .
-_:region_GID-464521_3ff3ec2db207f7a7ef650daf3ee65ad652693163_N13175_18107ffa2e2204249c2164659061f63d7295aef7_N13174_3ff3ec2db207f7a7ef650daf3ee65ad652693163_N13175 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "San Martino di Castrozza" .
-_:region_GID-464521_3ff3ec2db207f7a7ef650daf3ee65ad652693163_N13175_18107ffa2e2204249c2164659061f63d7295aef7_N13174_3ff3ec2db207f7a7ef650daf3ee65ad652693163_N13175 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_9ef96876247704a5235ada349b3083f46786006c_N13178_b27e7f4b30e4017d1dc4f67c3ef7c61711f938d9_N13177_9ef96876247704a5235ada349b3083f46786006c_N13178 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pieve Tesino" .
-_:region_GID-464521_9ef96876247704a5235ada349b3083f46786006c_N13178_b27e7f4b30e4017d1dc4f67c3ef7c61711f938d9_N13177_9ef96876247704a5235ada349b3083f46786006c_N13178 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_53" .
-_:region_GID-464521_9ef96876247704a5235ada349b3083f46786006c_N13178_b27e7f4b30e4017d1dc4f67c3ef7c61711f938d9_N13177_9ef96876247704a5235ada349b3083f46786006c_N13178 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_a3d11ec896cbfdf868130dca3153bcbe15169bf5_N13181_512f60f00535cec3ee80bd511fc83572b8108ce7_N13180_a3d11ec896cbfdf868130dca3153bcbe15169bf5_N13181 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_54" .
-_:region_GID-464521_a3d11ec896cbfdf868130dca3153bcbe15169bf5_N13181_512f60f00535cec3ee80bd511fc83572b8108ce7_N13180_a3d11ec896cbfdf868130dca3153bcbe15169bf5_N13181 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_a3d11ec896cbfdf868130dca3153bcbe15169bf5_N13181_512f60f00535cec3ee80bd511fc83572b8108ce7_N13180_a3d11ec896cbfdf868130dca3153bcbe15169bf5_N13181 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pomarolo" .
-
-_:region_GID-464521_29002b308300dd213c6130bffc13a8eba165ab34_N13184_ef6ea9d5b769e12c7a5d0ea101b9185d19926717_N13183_29002b308300dd213c6130bffc13a8eba165ab34_N13184 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Predazzo" .
-_:region_GID-464521_29002b308300dd213c6130bffc13a8eba165ab34_N13184_ef6ea9d5b769e12c7a5d0ea101b9185d19926717_N13183_29002b308300dd213c6130bffc13a8eba165ab34_N13184 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_29002b308300dd213c6130bffc13a8eba165ab34_N13184_ef6ea9d5b769e12c7a5d0ea101b9185d19926717_N13183_29002b308300dd213c6130bffc13a8eba165ab34_N13184 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_55" .
-
-_:region_GID-464521_93553f7a148ff59cc6c5fe50e7114ccf0592606b_N13187_34ee16088f01c3766b3a8aaf666a810ecd46a005_N13186_93553f7a148ff59cc6c5fe50e7114ccf0592606b_N13187 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Predaia" .
-_:region_GID-464521_93553f7a148ff59cc6c5fe50e7114ccf0592606b_N13187_34ee16088f01c3766b3a8aaf666a810ecd46a005_N13186_93553f7a148ff59cc6c5fe50e7114ccf0592606b_N13187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_93553f7a148ff59cc6c5fe50e7114ccf0592606b_N13187_34ee16088f01c3766b3a8aaf666a810ecd46a005_N13186_93553f7a148ff59cc6c5fe50e7114ccf0592606b_N13187 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_56" .
-
-_:region_GID-464521_5525343fe56223aaa3a707579823fa7ee0004fa8_N13190_9f6e1f7a9f7d5a9749abcb956154c4c9f947f711_N13189_5525343fe56223aaa3a707579823fa7ee0004fa8_N13190 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_57" .
-_:region_GID-464521_5525343fe56223aaa3a707579823fa7ee0004fa8_N13190_9f6e1f7a9f7d5a9749abcb956154c4c9f947f711_N13189_5525343fe56223aaa3a707579823fa7ee0004fa8_N13190 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_5525343fe56223aaa3a707579823fa7ee0004fa8_N13190_9f6e1f7a9f7d5a9749abcb956154c4c9f947f711_N13189_5525343fe56223aaa3a707579823fa7ee0004fa8_N13190 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Rabbi" .
-
-_:region_GID-464521_c849d3471fd7479d2be55f9e919ad88db2608f95_N13193_115d6d3d3131849929eba59ec2b26b473429fcb2_N13192_c849d3471fd7479d2be55f9e919ad88db2608f95_N13193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_c849d3471fd7479d2be55f9e919ad88db2608f95_N13193_115d6d3d3131849929eba59ec2b26b473429fcb2_N13192_c849d3471fd7479d2be55f9e919ad88db2608f95_N13193 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_58" .
-_:region_GID-464521_c849d3471fd7479d2be55f9e919ad88db2608f95_N13193_115d6d3d3131849929eba59ec2b26b473429fcb2_N13192_c849d3471fd7479d2be55f9e919ad88db2608f95_N13193 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "San Michele allAdige" .
-
-_:region_GID-464521_1412063ba4248e9925e3077fb9cfafb826fd363e_N13196_adacaf7de328a9d1c95d3727109bc7af1b6b3f13_N13195_1412063ba4248e9925e3077fb9cfafb826fd363e_N13196 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "San Lorenzo Dorsino" .
-_:region_GID-464521_1412063ba4248e9925e3077fb9cfafb826fd363e_N13196_adacaf7de328a9d1c95d3727109bc7af1b6b3f13_N13195_1412063ba4248e9925e3077fb9cfafb826fd363e_N13196 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_59" .
-_:region_GID-464521_1412063ba4248e9925e3077fb9cfafb826fd363e_N13196_adacaf7de328a9d1c95d3727109bc7af1b6b3f13_N13195_1412063ba4248e9925e3077fb9cfafb826fd363e_N13196 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_31953d5c5ad4ae16bd891813a6f12836be8bc8e6_N13199_ad4b44017f0672aad33ec09d2e53b29afb3fb23e_N13198_31953d5c5ad4ae16bd891813a6f12836be8bc8e6_N13199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_31953d5c5ad4ae16bd891813a6f12836be8bc8e6_N13199_ad4b44017f0672aad33ec09d2e53b29afb3fb23e_N13198_31953d5c5ad4ae16bd891813a6f12836be8bc8e6_N13199 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "SantOrsola Terme" .
-_:region_GID-464521_31953d5c5ad4ae16bd891813a6f12836be8bc8e6_N13199_ad4b44017f0672aad33ec09d2e53b29afb3fb23e_N13198_31953d5c5ad4ae16bd891813a6f12836be8bc8e6_N13199 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_60" .
-
-_:region_GID-464521_a77fac1c1b6bafda86c656432833bc4323fa30b3_N13202_8c675654b1c2a57265cde40200a33b8865720ba0_N13201_a77fac1c1b6bafda86c656432833bc4323fa30b3_N13202 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_61" .
-_:region_GID-464521_a77fac1c1b6bafda86c656432833bc4323fa30b3_N13202_8c675654b1c2a57265cde40200a33b8865720ba0_N13201_a77fac1c1b6bafda86c656432833bc4323fa30b3_N13202 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sagron Mis" .
-_:region_GID-464521_a77fac1c1b6bafda86c656432833bc4323fa30b3_N13202_8c675654b1c2a57265cde40200a33b8865720ba0_N13201_a77fac1c1b6bafda86c656432833bc4323fa30b3_N13202 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_7647409c4cb2051f92e3fc165b15c59fca89c77d_N13205_e5e29003bfefde2514c632e45e942fd8ccb427f3_N13204_7647409c4cb2051f92e3fc165b15c59fca89c77d_N13205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_7647409c4cb2051f92e3fc165b15c59fca89c77d_N13205_e5e29003bfefde2514c632e45e942fd8ccb427f3_N13204_7647409c4cb2051f92e3fc165b15c59fca89c77d_N13205 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_62" .
-_:region_GID-464521_7647409c4cb2051f92e3fc165b15c59fca89c77d_N13205_e5e29003bfefde2514c632e45e942fd8ccb427f3_N13204_7647409c4cb2051f92e3fc165b15c59fca89c77d_N13205 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Scurelle" .
-
-_:region_GID-464521_a58f5065a1486044a34eea7c9c5b94c7e8036b9d_N13208_087b12f2a4ac1533c4341b97d3b18de27e64026f_N13207_a58f5065a1486044a34eea7c9c5b94c7e8036b9d_N13208 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_63" .
-_:region_GID-464521_a58f5065a1486044a34eea7c9c5b94c7e8036b9d_N13208_087b12f2a4ac1533c4341b97d3b18de27e64026f_N13207_a58f5065a1486044a34eea7c9c5b94c7e8036b9d_N13208 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_a58f5065a1486044a34eea7c9c5b94c7e8036b9d_N13208_087b12f2a4ac1533c4341b97d3b18de27e64026f_N13207_a58f5065a1486044a34eea7c9c5b94c7e8036b9d_N13208 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Samone" .
-
-_:region_GID-464521_384be4d9092549378d7a304cb11a2d1415c6d2d8_N13211_edd38d76e20447bed2c3d2a97becbf090f66ab4c_N13210_384be4d9092549378d7a304cb11a2d1415c6d2d8_N13211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_384be4d9092549378d7a304cb11a2d1415c6d2d8_N13211_edd38d76e20447bed2c3d2a97becbf090f66ab4c_N13210_384be4d9092549378d7a304cb11a2d1415c6d2d8_N13211 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "San Giovanni di Fassa-Sen Jan" .
-_:region_GID-464521_384be4d9092549378d7a304cb11a2d1415c6d2d8_N13211_edd38d76e20447bed2c3d2a97becbf090f66ab4c_N13210_384be4d9092549378d7a304cb11a2d1415c6d2d8_N13211 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_64" .
-
-_:region_GID-464521_58d36d61ed93a92cd852939c2e29ef2a74166504_N13214_32a19d4df8e7237ccb9692d1f21e025522232c4f_N13213_58d36d61ed93a92cd852939c2e29ef2a74166504_N13214 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sarnonico" .
-_:region_GID-464521_58d36d61ed93a92cd852939c2e29ef2a74166504_N13214_32a19d4df8e7237ccb9692d1f21e025522232c4f_N13213_58d36d61ed93a92cd852939c2e29ef2a74166504_N13214 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_65" .
-_:region_GID-464521_58d36d61ed93a92cd852939c2e29ef2a74166504_N13214_32a19d4df8e7237ccb9692d1f21e025522232c4f_N13213_58d36d61ed93a92cd852939c2e29ef2a74166504_N13214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_92e5dedb9b03adea624fec15989d8b467f7ed9ff_N13217_c5122ec09399c0c58b6f12e948898adaa61a4786_N13216_92e5dedb9b03adea624fec15989d8b467f7ed9ff_N13217 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_66" .
-_:region_GID-464521_92e5dedb9b03adea624fec15989d8b467f7ed9ff_N13217_c5122ec09399c0c58b6f12e948898adaa61a4786_N13216_92e5dedb9b03adea624fec15989d8b467f7ed9ff_N13217 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sanzeno" .
-_:region_GID-464521_92e5dedb9b03adea624fec15989d8b467f7ed9ff_N13217_c5122ec09399c0c58b6f12e948898adaa61a4786_N13216_92e5dedb9b03adea624fec15989d8b467f7ed9ff_N13217 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_750f5d7b2aa22c68a8dc99c1b0a3ab132b42c3bc_N13220_33dc016cf6065874a4f0842c557e91b5fc542b68_N13219_750f5d7b2aa22c68a8dc99c1b0a3ab132b42c3bc_N13220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_750f5d7b2aa22c68a8dc99c1b0a3ab132b42c3bc_N13220_33dc016cf6065874a4f0842c557e91b5fc542b68_N13219_750f5d7b2aa22c68a8dc99c1b0a3ab132b42c3bc_N13220 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tenno" .
-_:region_GID-464521_750f5d7b2aa22c68a8dc99c1b0a3ab132b42c3bc_N13220_33dc016cf6065874a4f0842c557e91b5fc542b68_N13219_750f5d7b2aa22c68a8dc99c1b0a3ab132b42c3bc_N13220 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_67" .
-
-_:region_GID-464521_66e32624e8db03bd6de23120e8711bf8a5fd[O551b_N13223_cbd33bfa77d522704aae5881c5913d9eb388ded3_N13222_66e32624e8db03bd6de23120e8711bf8a5fd551b_N13223 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_68" .
-_:region_GID-464521_66e32624e8db03bd6de23120e8711bf8a5fd551b_N13223_cbd33bfa77d522704aae5881c5913d9eb388ded3_N13222_66e32624e8db03bd6de23120e8711bf8a5fd551b_N13223 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Storo" .
-_:region_GID-464521_66e32624e8db03bd6de23120e8711bf8a5fd551b_N13223_cbd33bfa77d522704aae5881c5913d9eb388ded3_N13222_66e32624e8db03bd6de23120e8711bf8a5fd551b_N13223 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_c5f99697ed869a5a41b0b57fdc86961d42132512_N13226_8e0f680ada97e16657ee4545a9496d5a34b4a555_N13225_c5f99697ed869a5a41b0b57fdc86961d42132512_N13226 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Strembo" .
-_:region_GID-464521_c5f99697ed869a5a41b0b57fdc86961d42132512_N13226_8e0f680ada97e16657ee4545a9496d5a34b4a555_N13225_c5f99697ed869a5a41b0b57fdc86961d42132512_N13226 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_69" .
-_:region_GID-464521_c5f99697ed869a5a41b0b57fdc86961d42132512_N13226_8e0f680ada97e16657ee4545a9496d5a34b4a555_N13225_c5f99697ed869a5a41b0b57fdc86961d42132512_N13226 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_bc8b3cfffbdfe834f141b8fb3ffdf25bc55fa8a8_N13229_f87693e6b0f5463f98bc6c5a41364b93e99b1295_N13228_bc8b3cfffbdfe834f141b8fb3ffdf25bc55fa8a8_N13229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_bc8b3cfffbdfe834f141b8fb3ffdf25bc55fa8a8_N13229_f87693e6b0f5463f98bc6c5a41364b93e99b1295_N13228_bc8b3cfffbdfe834f141b8fb3ffdf25bc55fa8a8_N13229 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Terre dAdige" .
-_:region_GID-464521_bc8b3cfffbdfe834f141b8fb3ffdf25bc55fa8a8_N13229_f87693e6b0f5463f98bc6c5a41364b93e99b1295_N13228_bc8b3cfffbdfe834f141b8fb3ffdf25bc55fa8a8_N13229 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_70" .
-
-_:region_GID-464521_fe91adb12c3159b3ff9b900ad39954afe4582e77_N13232_ddbe0610e50f99b21d2e6dea20bdf1ac8e1e46c3_N13231_fe91adb12c3159b3ff9b900ad39954afe4582e77_N13232 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_71" .
-_:region_GID-464521_fe91adb12c3159b3ff9b900ad39954afe4582e77_N13232_ddbe0610e50f99b21d2e6dea20bdf1ac8e1e46c3_N13231_fe91adb12c3159b3ff9b900ad39954afe4582e77_N13232 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Telve di Sopra" .
-_:region_GID-464521_fe91adb12c3159b3ff9b900ad39954afe4582e77_N13232_ddbe0610e50f99b21d2e6dea20bdf1ac8e1e46c3_N13231_fe91adb12c3159b3ff9b900ad39954afe4582e77_N13232 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_89ed2524832d47746023f39312b62fb67517a813_N13235_2c7ed2276967a53ef300b985c0a25809d78f61ac_N13234_89ed2524832d47746023f39312b62fb67517a813_N13235 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_89ed2524832d47746023f39312b62fb67517a813_N13235_2c7ed2276967a53ef300b985c0a25809d78f61ac_N13234_89ed2524832d47746023f39312b62fb67517a813_N13235 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Telve" .
-_:region_GID-464521_89ed2524832d47746023f39312b62fb67517a813_N13235_2c7ed2276967a53ef300b985c0a25809d78f61ac_N13234_89ed2524832d47746023f39312b62fb67517a813_N13235 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_72" .
-
-_:region_GID-464521_1d29a1270aca7c3b402e9370102208f35b8e63cb_N13238_03baa003332ec76c876ea9171ae3fa8b7dfc956c_N13237_1d29a1270aca7c3b402e9370102208f35b8e63cb_N13238 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tenna" .
-_:region_GID-464521_1d29a1270aca7c3b402e9370102208f35b8e63cb_N13238_03baa003332ec76c876ea9171ae3fa8b7dfc956c_N13237_1d29a1270aca7c3b402e9370102208f35b8e63cb_N13238 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_1d29a1270aca7c3b402e9370102208f35b8e63cb_N13238_03baa003332ec76c876ea9171ae3fa8b7dfc956c_N13237_1d29a1270aca7c3b402e9370102208f35b8e63cb_N13238 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_73" .
-
-_:region_GID-464521_f3ba5bf0c04013526cbd8b1e29c73b1641b39af0_N13241_5b8821d3f42253ffde360f1aa27c7d28ebb0055d_N13240_f3ba5bf0c04013526cbd8b1e29c73b1641b39af0_N13241 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_f3ba5bf0c04013526cbd8b1e29c73b1641b39af0_N13241_5b8821d3f42253ffde360f1aa27c7d28ebb0055d_N13240_f3ba5bf0c04013526cbd8b1e29c73b1641b39af0_N13241 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Terragnolo" .
-_:region_GID-464521_f3ba5bf0c04013526cbd8b1e29c73b1641b39af0_N13241_5b8821d3f42253ffde360f1aa27c7d28ebb0055d_N13240_f3ba5bf0c04013526cbd8b1e29c73b1641b39af0_N13241 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_74" .
-
-_:region_GID-464521_957017f11a406da8a5cc1dfe866d9e25cbd55647_N13244_f35120f2c686e6f8047d742e46372255e578022a_N13243_957017f11a406da8a5cc1dfe866d9e25cbd55647_N13244 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_957017f11a406da8a5cc1dfe866d9e25cbd55647_N13244_f35120f2c686e6f8047d742e46372255e578022a_N13243_957017f11a406da8a5cc1dfe866d9e25cbd55647_N13244 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_75" .
-_:region_GID-464521_957017f11a406da8a5cc1dfe866d9e25cbd55647_N13244_f35120f2c686e6f8047d742e46372255e578022a_N13243_957017f11a406da8a5cc1dfe866d9e25cbd55647_N13244 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Terzolas" .
-
-_:region_GID-464521_276a3e9845854d46aef7e6dfa1897c77d276b41d_N13247_f5aad6eaaa8c8ca8893ca879fa50c333a25731ed_N13246_276a3e9845854d46aef7e6dfa1897c77d276b41d_N13247 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_276a3e9845854d46aef7e6dfa1897c77d276b41d_N13247_f5aad6eaaa8c8ca8893ca879fa50c333a25731ed_N13246_276a3e9845854d46aef7e6dfa1897c77d276b41d_N13247 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_76" .
-_:region_GID-464521_276a3e9845854d46aef7e6dfa1897c77d276b41d_N13247_f5aad6eaaa8c8ca8893ca879fa50c333a25731ed_N13246_276a3e9845854d46aef7e6dfa1897c77d276b41d_N13247 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bleggio Superiore" .
-
-_:region_GID-464521_6a474edb98a4ae0ee9eca44001decf4764346961_N13250_55ab83a0ecfecb79d130cd17f8fb99d16d50a13c_N13249_6a474edb98a4ae0ee9eca44001decf4764346961_N13250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_6a474edb98a4ae0ee9eca44001decf4764346961_N13250_55ab83a0ecfecb79d130cd17f8fb99d16d50a13c_N13249_6a474edb98a4ae0ee9eca44001decf4764346961_N13250 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_77" .
-_:region_GID-464521_6a474edb98a4ae0ee9eca44001decf4764346961_N13250_55ab83a0ecfecb79d130cd17f8fb99d16d50a13c_N13249_6a474edb98a4ae0ee9eca44001decf4764346961_N13250 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Arco" .
-
-_:region_GID-464521_973642ec74c02732a6d16aa615b1e95775d859b3_N13253_9b90510498dec0843534c44e9986afb8b804cb74_N13252_973642ec74c02732a6d16aa615b1e95775d859b3_N13253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_973642ec74c02732a6d16aa615b1e95775d859b3_N13253_9b90510498dec0843534c44e9986afb8b804cb74_N13252_973642ec74c02732a6d16aa615b1e95775d859b3_N13253 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Borgo Lares" .
-_:region_GID-464521_973642ec74c02732a6d16aa615b1e95775d859b3_N13253_9b90510498dec0843534c44e9986afb8b804cb74_N13252_973642ec74c02732a6d16aa615b1e95775d859b3_N13253 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_78" .
-
-_:region_GID-464521_83215d7f334fbaf5ceb7007ad3ec178f1427c917_N13256_e0412f23f4a9e6dea9c979aa7335aedd65bd1726_N13255_83215d7f334fbaf5ceb7007ad3ec178f1427c917_N13256 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_83215d7f334fbaf5ceb7007ad3ec178f1427c917_N13256_e0412f23f4a9e6dea9c979aa7335aedd65bd1726_N13255_83215d7f334fbaf5ceb7007ad3ec178f1427c917_N13256 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_79" .
-_:region_GID-464521_83215d7f334fbaf5ceb7007ad3ec178f1427c917_N13256_e0412f23f4a9e6dea9c979aa7335aedd65bd1726_N13255_83215d7f334fbaf5ceb7007ad3ec178f1427c917_N13256 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Borgo Chiese" .
-
-_:region_GID-464521_79c39a0d6097d5fd8a8688da4aee2b87c525d4d1_N13259_cf9abac6825a5b49c6ecd872d71798526666075f_N13258_79c39a0d6097d5fd8a8688da4aee2b87c525d4d1_N13259 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_79c39a0d6097d5fd8a8688da4aee2b87c525d4d1_N13259_cf9abac6825a5b49c6ecd872d71798526666075f_N13258_79c39a0d6097d5fd8a8688da4aee2b87c525d4d1_N13259 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bondone" .
-_:region_GID-464521_79c39a0d6097d5fd8a8688da4aee2b87c525d4d1_N13259_cf9abac6825a5b49c6ecd872d71798526666075f_N13258_79c39a0d6097d5fd8a8688da4aee2b87c525d4d1_N13259 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_80" .
-
-_:region_GID-464521_2bfbb5a075cbab019e3d38be9ffaa8e1c589cb82_N13262_d009f9b0b5e9f5d7dc16b452105650fe2c680561_N13261_2bfbb5a075cbab019e3d38be9ffaa8e1c589cb82_N13262 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bocenago" .
-_:region_GID-464521_2bfbb5a075cbab019e3d38be9ffaa8e1c589cb82_N13262_d009f9b0b5e9f5d7dc16b452105650fe2c680561_N13261_2bfbb5a075cbab019e3d38be9ffaa8e1c589cb82_N13262 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_81" .
-_:region_GID-464521_2bfbb5a075cbab019e3d38be9ffaa8e1c589cb82_N13262_d009f9b0b5e9f5d7dc16b452105650fe2c680561_N13261_2bfbb5a075cbab019e3d38be9ffaa8e1c589cb82_N13262 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_972cd61b370bdd29eebd66ee11d88b070f354b12_N13265_5199b6b3bea2bf139b6353eafa13a3d17d538fd2_N13264_972cd61b370bdd29eebd66ee11d88b070f354b12_N13265 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_972cd61b370bdd29eebd66ee11d88b070f354b12_N13265_5199b6b3bea2bf139b6353eafa13a3d17d538fd2_N13264_972cd61b370bdd29eebd66ee11d88b070f354b12_N13265 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Borgo Valsugana" .
-_:region_GID-464521_972cd61b370bdd29eebd66ee11d88b070f354b12_N13265_5199b6b3bea2bf139b6353eafa13a3d17d538fd2_N13264_972cd61b370bdd29eebd66ee11d88b070f354b12_N13265 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_82" .
-
-_:region_GID-464521_8b814963946469c9573478b82471002c67287747_N13268_182a520e65bb4a35df2b7aee3a7d9a72ea6e642f_N13267_8b814963946469c9573478b82471002c67287747_N13268 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Brentonico" .
-_:region_GID-464521_8b814963946469c9573478b82471002c67287747_N13268_182a520e65bb4a35df2b7aee3a7d9a72ea6e642f_N13267_8b814963946469c9573478b82471002c67287747_N13268 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_83" .
-_:region_GID-464521_8b814963946469c9573478b82471002c67287747_N13268_182a520e65bb4a35df2b7aee3a7d9a72ea6e642f_N13267_8b814963946469c9573478b82471002c67287747_N13268 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_4cf7731bfa60459cc270b177acec8f8af959842f_N13271_0f22d7a1ecba1dd86ba17416dedd474bd39dc03d_N13270_4cf7731bfa60459cc270b177acec8f8af959842f_N13271 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Borgo dAnaunia" .
-_:region_GID-464521_4cf7731bfa60459cc270b177acec8f8af959842f_N13271_0f22d7a1ecba1dd86ba17416dedd474bd39dc03d_N13270_4cf7731bfa60459cc270b177acec8f8af959842f_N13271 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_4cf7731bfa60459cc270b177acec8f8af959842f_N13271_0f22d7a1ecba1dd86ba17416dedd474bd39dc03d_N13270_4cf7731bfa60459cc270b177acec8f8af959842f_N13271 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_84" .
-
-_:region_GID-464521_5a9ed7349e4378304089848daf0af1071cc05ce2_N13274_4588ee5321534c865c80cb7bf32e2f3624f6c06b_N13273_5a9ed7349e4378304089848daf0af1071cc05ce2_N13274 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bresimo" .
-_:region_GID-464521_5a9ed7349e4378304089848daf0af1071cc05ce2_N13274_4588ee5321534c865c80cb7bf32e2f3624f6c06b_N13273_5a9ed7349e4378304089848daf0af1071cc05ce2_N13274 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_85" .
-_:region_GID-464521_5a9ed7349e4378304089848daf0af1071cc05ce2_N13274_4588ee5321534c865c80cb7bf32e2f3624f6c06b_N13273_5a9ed7349e4378304089848daf0af1071cc05ce2_N13274 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_ed792578bb3da0208e8efa8242c0fa4a349cbf4a_N13277_f94be732cfe9ab122b8127d827fd88c1b492c306_N13276_ed792578bb3da0208e8efa8242c0fa4a349cbf4a_N13277 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Caderzone Terme" .
-_:region_GID-464521_ed792578bb3da0208e8efa8242c0fa4a349cbf4a_N13277_f94be732cfe9ab122b8127d827fd88c1b492c306_N13276_ed792578bb3da0208e8efa8242c0fa4a349cbf4a_N13277 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_86" .
-_:region_GID-464521_ed792578bb3da0208e8efa8242c0fa4a349cbf4a_N13277_f94be732cfe9ab122b8127d827fd88c1b492c306_N13276_ed792578bb3da0208e8efa8242c0fa4a349cbf4a_N13277 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_afcd955e1e9368a99489b73520934088430d54bf_N13280_c79886cf15fa2ba93da6b6af5af31cab24436d7a_N13279_afcd955e1e9368a99489b73520934088430d54bf_N13280 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_87" .
-_:region_GID-464521_afcd955e1e9368a99489b73520934088430d54bf_N13280_c79886cf15fa2ba93da6b6af5af31cab24436d7a_N13279_afcd955e1e9368a99489b73520934088430d54bf_N13280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_afcd955e1e9368a99489b73520934088430d54bf_N13280_c79886cf15fa2ba93da6b6af5af31cab24436d7a_N13279_afcd955e1e9368a99489b73520934088430d54bf_N13280 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Calceranica al Lago" .
-
-_:region_GID-464521_173daca4619c7854df9cae154031c93c8c673263_N13283_7be4a9fd5bb531e90c107451fc8502719b7e9157_N13282_173daca4619c7854df9cae154031c93c8c673263_N13283 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_88" .
-_:region_GID-464521_173daca4619c7854df9cae154031c93c8c673263_N13283_7be4a9fd5bb531e90c107451fc8502719b7e9157_N13282_173daca4619c7854df9cae154031c93c8c673263_N13283 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_173daca4619c7854df9cae154031c93c8c673263_N13283_7be4a9fd5bb531e90c107451fc8502719b7e9157_N13282_173daca4619c7854df9cae154031c93c8c673263_N13283 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Canal San Bovo" .
-
-_:region_GID-464521_8b4cc5dcc6b216cd0e14ce47458ea00d465eb297_N13286_51d55007e7e428d2f65ba803fefec09385181648_N13285_8b4cc5dcc6b216cd0e14ce47458ea00d465eb297_N13286 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_89" .
-_:region_GID-464521_8b4cc5dcc6b216cd0e14ce47458ea00d465eb297_N13286_51d55007e7e428d2f65ba803fefec09385181648_N13285_8b4cc5dcc6b216cd0e14ce47458ea00d465eb297_N13286 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_8b4cc5dcc6b216cd0e14ce47458ea00d465eb297_N13286_51d55007e7e428d2f65ba803fefec09385181648_N13285_8b4cc5dcc6b216cd0e14ce47458ea00d465eb297_N13286 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Caldonazzo" .
-
-_:region_GID-464521_2a445ac05dd68a6a16f4d43ba17ccfbb932cb72b_N13289_002166acb26f627f8369e290281d01d718e99f94_N13288_2a445ac05dd68a6a16f4d43ba17ccfbb932cb72b_N13289 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_90" .
-_:region_GID-464521_2a445ac05dd68a6a16f4d43ba17ccfbb932cb72b_N13289_002166acb26f627f8369e290281d01d718e99f94_N13288_2a445ac05dd68a6a16f4d43ba17ccfbb932cb72b_N13289 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_2a445ac05dd68a6a16f4d43ba17ccfbb932cb72b_N13289_002166acb26f627f8369e290281d01d718e99f94_N13288_2a445ac05dd68a6a16f4d43ba17ccfbb932cb72b_N13289 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Campitello di Fassa" .
-
-_:region_GID-464521_b16447d308eb292439b393e882a70fba422f6107_N13292_caeca3db6b9f6e8db9c8c103e35448fca1238f57_N13291_b16447d308eb292439b393e882a70fba422f6107_N13292 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Calliano" .
-_:region_GID-464521_b16447d308eb292439b393e882a70fba422f6107_N13292_caeca3db6b9f6e8db9c8c103e35448fca1238f57_N13291_b16447d308eb292439b393e882a70fba422f6107_N13292 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_b16447d308eb292439b393e882a70fba422f6107_N13292_caeca3db6b9f6e8db9c8c103e35448fca1238f57_N13291_b16447d308eb292439b393e882a70fba422f6107_N13292 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_91" .
-
-_:region_GID-464521_b0ca27e027a3a9397237c5dbfd7efc5a1e08260d_N13295_d96b690371537038983b93f9df4d5f481175d058_N13294_b0ca27e027a3a9397237c5dbfd7efc5a1e08260d_N13295 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_92" .
-_:region_GID-464521_b0ca27e027a3a9397237c5dbfd7efc5a1e08260d_N13295_d96b690371537038983b93f9df4d5f481175d058_N13294_b0ca27e027a3a9397237c5dbfd7efc5a1e08260d_N13295 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Canazei" .
-_:region_GID-464521_b0ca27e027a3a9397237c5dbfd7efc5a1e08260d_N13295_d96b690371537038983b93f9df4d5f481175d058_N13294_b0ca27e027a3a9397237c5dbfd7efc5a1e08260d_N13295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_979bf19cf40f8aff87b43c444de7e6f510068e76_N13298_57c4a7f34fc99657f0b50d29c81459500e6ca2fd_N13297_979bf19cf40f8aff87b43c444de7e6f510068e76_N13298 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_93" .
-_:region_GID-464521_979bf19cf40f8aff87b43c444de7e6f510068e76_N13298_57c4a7f34fc99657f0b50d29c81459500e6ca2fd_N13297_979bf19cf40f8aff87b43c444de7e6f510068e76_N13298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_979bf19cf40f8aff87b43c444de7e6f510068e76_N13298_57c4a7f34fc99657f0b50d29c81459500e6ca2fd_N13297_979bf19cf40f8aff87b43c444de7e6f510068e76_N13298 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Campodenno" .
-
-_:region_GID-464521_416ba69cd43d2253aa9a4961c7e980c8226dece8_N13301_41b15fdb4a04c18e529471486910b49eef9bf54c_N13300_416ba69cd43d2253aa9a4961c7e980c8226dece8_N13301 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_94" .
-_:region_GID-464521_416ba69cd43d2253aa9a4961c7e980c8226dece8_N13301_41b15fdb4a04c18e529471486910b49eef9bf54c_N13300_416ba69cd43d2253aa9a4961c7e980c8226dece8_N13301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_416ba69cd43d2253aa9a4961c7e980c8226dece8_N13301_41b15fdb4a04c18e529471486910b49eef9bf54c_N13300_416ba69cd43d2253aa9a4961c7e980c8226dece8_N13301 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Caldes" .
-
-_:region_GID-464521_30f98484ef19ef39a4114506fcc229623c3fb181_N13304_79f260d89332757e1353807dfc1661bf27a661f1_N13303_30f98484ef19ef39a4114506fcc229623c3fb181_N13304 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavedine" .
-_:region_GID-464521_30f98484ef19ef39a4114506fcc229623c3fb181_N13304_79f260d89332757e1353807dfc1661bf27a661f1_N13303_30f98484ef19ef39a4114506fcc229623c3fb181_N13304 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_95" .
-_:region_GID-464521_30f98484ef19ef39a4114506fcc229623c3fb181_N13304_79f260d89332757e1353807dfc1661bf27a661f1_N13303_30f98484ef19ef39a4114506fcc229623c3fb181_N13304 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_4fb4b59aeefe68307338cf5c5abe289d8f919f2b_N13307_4c61033264d617fa7a602c9004f6264a99e773e0_N13306_4fb4b59aeefe68307338cf5c5abe289d8f919f2b_N13307 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_96" .
-_:region_GID-464521_4fb4b59aeefe68307338cf5c5abe289d8f919f2b_N13307_4c61033264d617fa7a602c9004f6264a99e773e0_N13306_4fb4b59aeefe68307338cf5c5abe289d8f919f2b_N13307 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_4fb4b59aeefe68307338cf5c5abe289d8f919f2b_N13307_4c61033264d617fa7a602c9004f6264a99e773e0_N13306_4fb4b59aeefe68307338cf5c5abe289d8f919f2b_N13307 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavedago" .
-
-_:region_GID-464521_0712683577a98849f1121975e28bfad7bda6f132_N13310_847c25e2061e04effb80592ea6fa5b09c6591683_N13309_0712683577a98849f1121975e28bfad7bda6f132_N13310 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cimone" .
-_:region_GID-464521_0712683577a98849f1121975e28bfad7bda6f132_N13310_847c25e2061e04effb80592ea6fa5b09c6591683_N13309_0712683577a98849f1121975e28bfad7bda6f132_N13310 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_0712683577a98849f1121975e28bfad7bda6f132_N13310_847c25e2061e04effb80592ea6fa5b09c6591683_N13309_0712683577a98849f1121975e28bfad7bda6f132_N13310 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_97" .
-
-_:region_GID-464521_4294f4ddc2ba13cbfb6432373767c02763d7c316_N13313_6519392d53e42e6c5afdc15efba490131956bc1f_N13312_4294f4ddc2ba13cbfb6432373767c02763d7c316_N13313 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cinte Tesino" .
-_:region_GID-464521_4294f4ddc2ba13cbfb6432373767c02763d7c316_N13313_6519392d53e42e6c5afdc15efba490131956bc1f_N13312_4294f4ddc2ba13cbfb6432373767c02763d7c316_N13313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_4294f4ddc2ba13cbfb6432373767c02763d7c316_N13313_6519392d53e42e6c5afdc15efba490131956bc1f_N13312_4294f4ddc2ba13cbfb6432373767c02763d7c316_N13313 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_98" .
-
-_:region_GID-464521_9c745c33df09451a911520f177d0d88fab8879f5_N13316_98da99981b63f33c3ec933f97d939bb1cf10246f_N13315_9c745c33df09451a911520f177d0d88fab8879f5_N13316 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_9c745c33df09451a911520f177d0d88fab8879f5_N13316_98da99981b63f33c3ec933f97d939bb1cf10246f_N13315_9c745c33df09451a911520f177d0d88fab8879f5_N13316 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_99" .
-_:region_GID-464521_9c745c33df09451a911520f177d0d88fab8879f5_N13316_98da99981b63f33c3ec933f97d939bb1cf10246f_N13315_9c745c33df09451a911520f177d0d88fab8879f5_N13316 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Civezzano" .
-
-_:region_GID-464521_71f4cde7574d34b43a3fbfc8a1678cd9b0845ff1_N13319_88a2700a23a9781046e61485bb685c466d6dc2e7_N13318_71f4cde7574d34b43a3fbfc8a1678cd9b0845ff1_N13319 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_100" .
-_:region_GID-464521_71f4cde7574d34b43a3fbfc8a1678cd9b0845ff1_N13319_88a2700a23a9781046e61485bb685c466d6dc2e7_N13318_71f4cde7574d34b43a3fbfc8a1678cd9b0845ff1_N13319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_71f4cde7574d34b43a3fbfc8a1678cd9b0845ff1_N13319_88a2700a23a9781046e61485bb685c466d6dc2e7_N13318_71f4cde7574d34b43a3fbfc8a1678cd9b0845ff1_N13319 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cembra Lisignago" .
-
-_:region_GID-464521_15c3a26e6bb1bd79c0a2817d557600d5a94671ae_N13322_bbe47d0dbe304a2de9fdd64596cebc80598c8ddc_N13321_15c3a26e6bb1bd79c0a2817d557600d5a94671ae_N13322 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavareno" .
-_:region_GID-464521_15c3a26e6bb1bd79c0a2817d557600d5a94671ae_N13322_bbe47d0dbe304a2de9fdd64596cebc80598c8ddc_N13321_15c3a26e6bb1bd79c0a2817d557600d5a94671ae_N13322 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_101" .
-_:region_GID-464521_15c3a26e6bb1bd79c0a2817d557600d5a94671ae_N13322_bbe47d0dbe304a2de9fdd64596cebc80598c8ddc_N13321_15c3a26e6bb1bd79c0a2817d557600d5a94671ae_N13322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_35170ee499cb566abcb4cd2656024860ca126822_N13325_8cf569bb96a786e711350546ac1a6b9531c11fd9_N13324_35170ee499cb566abcb4cd2656024860ca126822_N13325 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_102" .
-_:region_GID-464521_35170ee499cb566abcb4cd2656024860ca126822_N13325_8cf569bb96a786e711350546ac1a6b9531c11fd9_N13324_35170ee499cb566abcb4cd2656024860ca126822_N13325 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavizzana" .
-_:region_GID-464521_35170ee499cb566abcb4cd2656024860ca126822_N13325_8cf569bb96a786e711350546ac1a6b9531c11fd9_N13324_35170ee499cb566abcb4cd2656024860ca126822_N13325 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_0dcfca97d9c38585e9ef8493f13def73e7968854_N13328_b266cbad5777644a42405060426a3f51c88cc94b_N13327_0dcfca97d9c38585e9ef8493f13def73e7968854_N13328 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_103" .
-_:region_GID-464521_0dcfca97d9c38585e9ef8493f13def73e7968854_N13328_b266cbad5777644a42405060426a3f51c88cc94b_N13327_0dcfca97d9c38585e9ef8493f13def73e7968854_N13328 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_0dcfca97d9c38585e9ef8493f13def73e7968854_N13328_b266cbad5777644a42405060426a3f51c88cc94b_N13327_0dcfca97d9c38585e9ef8493f13def73e7968854_N13328 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cis" .
-
-_:region_GID-464521_f2c948f839d8593f3bd8890b049c1c1da08341b2_N13331_ff3e9120535b5eec17818c5ac4090da4fbd04d5f_N13330_f2c948f839d8593f3bd8890b049c1c1da08341b2_N13331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_f2c948f839d8593f3bd8890b049c1c1da08341b2_N13331_ff3e9120535b5eec17818c5ac4090da4fbd04d5f_N13330_f2c948f839d8593f3bd8890b049c1c1da08341b2_N13331 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Fiave" .
-_:region_GID-464521_f2c948f839d8593f3bd8890b049c1c1da08341b2_N13331_ff3e9120535b5eec17818c5ac4090da4fbd04d5f_N13330_f2c948f839d8593f3bd8890b049c1c1da08341b2_N13331 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_104" .
-
-_:region_GID-464521_e8bcd074753d6aec613b4368dfba0c899017c74b_N13334_b006c455699b7b99adcb9dead0de4fd0e7363bf9_N13333_e8bcd074753d6aec613b4368dfba0c899017c74b_N13334 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_e8bcd074753d6aec613b4368dfba0c899017c74b_N13334_b006c455699b7b99adcb9dead0de4fd0e7363bf9_N13333_e8bcd074753d6aec613b4368dfba0c899017c74b_N13334 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Dro" .
-_:region_GID-464521_e8bcd074753d6aec613b4368dfba0c899017c74b_N13334_b006c455699b7b99adcb9dead0de4fd0e7363bf9_N13333_e8bcd074753d6aec613b4368dfba0c899017c74b_N13334 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_105" .
-
-_:region_GID-464521_53b6a680841bea938ddedae9980332cbddd54fc1_N13337_3de5ee43f57e9f18ac605a3c96a4b17970b86a73_N13336_53b6a680841bea938ddedae9980332cbddd54fc1_N13337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_53b6a680841bea938ddedae9980332cbddd54fc1_N13337_3de5ee43f57e9f18ac605a3c96a4b17970b86a73_N13336_53b6a680841bea938ddedae9980332cbddd54fc1_N13337 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Fai della Paganella" .
-_:region_GID-464521_53b6a680841bea938ddedae9980332cbddd54fc1_N13337_3de5ee43f57e9f18ac605a3c96a4b17970b86a73_N13336_53b6a680841bea938ddedae9980332cbddd54fc1_N13337 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_106" .
-
-_:region_GID-464521_bfc92f9729b38411db208db2888e6ee699bf08af_N13340_d845853734c46a061ff40ffaf933f919aaec09c9_N13339_bfc92f9729b38411db208db2888e6ee699bf08af_N13340 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_107" .
-_:region_GID-464521_bfc92f9729b38411db208db2888e6ee699bf08af_N13340_d845853734c46a061ff40ffaf933f919aaec09c9_N13339_bfc92f9729b38411db208db2888e6ee699bf08af_N13340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_bfc92f9729b38411db208db2888e6ee699bf08af_N13340_d845853734c46a061ff40ffaf933f919aaec09c9_N13339_bfc92f9729b38411db208db2888e6ee699bf08af_N13340 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Frassilongo" .
-
-_:region_GID-464521_bfc590cffb94dbbe04ecd3b147181194fa95035b_N13343_92491016e0f50ac2368c7792aef86302a9b9fd98_N13342_bfc590cffb94dbbe04ecd3b147181194fa95035b_N13343 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_bfc590cffb94dbbe04ecd3b147181194fa95035b_N13343_92491016e0f50ac2368c7792aef86302a9b9fd98_N13342_bfc590cffb94dbbe04ecd3b147181194fa95035b_N13343 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_108" .
-_:region_GID-464521_bfc590cffb94dbbe04ecd3b147181194fa95035b_N13343_92491016e0f50ac2368c7792aef86302a9b9fd98_N13342_bfc590cffb94dbbe04ecd3b147181194fa95035b_N13343 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Fierozzo" .
-
-_:region_GID-464521_c4dcab1e1bade06aceaa4898c253233a8f987c9c_N13346_99dffd5292b6f8103df7af4eabe9a0abf69d6f7f_N13345_c4dcab1e1bade06aceaa4898c253233a8f987c9c_N13346 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Garniga Terme" .
-_:region_GID-464521_c4dcab1e1bade06aceaa4898c253233a8f987c9c_N13346_99dffd5292b6f8103df7af4eabe9a0abf69d6f7f_N13345_c4dcab1e1bade06aceaa4898c253233a8f987c9c_N13346 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_c4dcab1e1bade06aceaa4898c253233a8f987c9c_N13346_99dffd5292b6f8103df7af4eabe9a0abf69d6f7f_N13345_c4dcab1e1bade06aceaa4898c253233a8f987c9c_N13346 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_109" .
-
-_:region_GID-464521_c8878ec0e2d75af985b4f1aefb14d3106bf0cebe_N13349_f9b3a042558cdc1b14126ac9ae52d7d33311e1c0_N13348_c8878ec0e2d75af985b4f1aefb14d3106bf0cebe_N13349 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_c8878ec0e2d75af985b4f1aefb14d3106bf0cebe_N13349_f9b3a042558cdc1b14126ac9ae52d7d33311e1c0_N13348_c8878ec0e2d75af985b4f1aefb14d3106bf0cebe_N13349 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Folgaria" .
-_:region_GID-464521_c8878ec0e2d75af985b4f1aefb14d3106bf0cebe_N13349_f9b3a042558cdc1b14126ac9ae52d7d33311e1c0_N13348_c8878ec0e2d75af985b4f1aefb14d3106bf0cebe_N13349 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_110" .
-
-_:region_GID-464521_749b0aa4c5254e10409d3be9262224c059340eec_N13352_cd025b911329a82e1ca00be69147f3bca0f87b6a_N13351_749b0aa4c5254e10409d3be9262224c059340eec_N13352 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Giovo" .
-_:region_GID-464521_749b0aa4c5254e10409d3be9262224c059340eec_N13352_cd025b911329a82e1ca00be69147f3bca0f87b6a_N13351_749b0aa4c5254e10409d3be9262224c059340eec_N13352 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_749b0aa4c5254e10409d3be9262224c059340eec_N13352_cd025b911329a82e1ca00be69147f3bca0f87b6a_N13351_749b0aa4c5254e10409d3be9262224c059340eec_N13352 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_111" .
-
-_:region_GID-464521_23d43c6d89834849241eb4054dc320a7b9ddd1a6_N13355_ea672eb18c74d13b8fdfc9a629e3bb352ed9d367_N13354_23d43c6d89834849241eb4054dc320a7b9ddd1a6_N13355 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Fornace" .
-_:region_GID-464521_23d43c6d89834849241eb4054dc320a7b9ddd1a6_N13355_ea672eb18c74d13b8fdfc9a629e3bb352ed9d367_N13354_23d43c6d89834849241eb4054dc320a7b9ddd1a6_N13355 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_112" .
-_:region_GID-464521_23d43c6d89834849241eb4054dc320a7b9ddd1a6_N13355_ea672eb18c74d13b8fdfc9a629e3bb352ed9d367_N13354_23d43c6d89834849241eb4054dc320a7b9ddd1a6_N13355 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_7042d64e73a1fabb961f38ce01eef9004a264f0a_N13358_1bba36746bdc1f28bd7ce90b5e00c8afa8109df5_N13357_7042d64e73a1fabb961f38ce01eef9004a264f0a_N13358 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Madruzzo" .
-_:region_GID-464521_7042d64e73a1fabb961f38ce01eef9004a264f0a_N13358_1bba36746bdc1f28bd7ce90b5e00c8afa8109df5_N13357_7042d64e73a1fabb961f38ce01eef9004a264f0a_N13358 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_7042d64e73a1fabb961f38ce01eef9004a264f0a_N13358_1bba36746bdc1f28bd7ce90b5e00c8afa8109df5_N13357_7042d64e73a1fabb961f38ce01eef9004a264f0a_N13358 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_113" .
-
-_:region_GID-464521_0549a7bc73a5eac2060dc84bc8d24dff1440891d_N13361_14ff8106fd8ae03bc434ce7e9669afc4ba98e722_N13360_0549a7bc73a5eac2060dc84bc8d24dff1440891d_N13361 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_114" .
-_:region_GID-464521_0549a7bc73a5eac2060dc84bc8d24dff1440891d_N13361_14ff8106fd8ae03bc434ce7e9669afc4ba98e722_N13360_0549a7bc73a5eac2060dc84bc8d24dff1440891d_N13361 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Massimeno" .
-_:region_GID-464521_0549a7bc73a5eac2060dc84bc8d24dff1440891d_N13361_14ff8106fd8ae03bc434ce7e9669afc4ba98e722_N13360_0549a7bc73a5eac2060dc84bc8d24dff1440891d_N13361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_3e96b2f1eae2b7e92df7919b2922b69ce2ba90c4_N13364_b699af7328f9c2a86d63cfd7ba6e7fd77b1ae67c_N13363_3e96b2f1eae2b7e92df7919b2922b69ce2ba90c4_N13364 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mezzocorona" .
-_:region_GID-464521_3e96b2f1eae2b7e92df7919b2922b69ce2ba90c4_N13364_b699af7328f9c2a86d63cfd7ba6e7fd77b1ae67c_N13363_3e96b2f1eae2b7e92df7919b2922b69ce2ba90c4_N13364 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_115" .
-_:region_GID-464521_3e96b2f1eae2b7e92df7919b2922b69ce2ba90c4_N13364_b699af7328f9c2a86d63cfd7ba6e7fd77b1ae67c_N13363_3e96b2f1eae2b7e92df7919b2922b69ce2ba90c4_N13364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_d2b711a38b01080325f9bb4389bc534d3ccf16d7_N13367_6bb7f516c6633b6427586b86c491dd9cb6f78803_N13366_d2b711a38b01080325f9bb4389bc534d3ccf16d7_N13367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_d2b711a38b01080325f9bb4389bc534d3ccf16d7_N13367_6bb7f516c6633b6427586b86c491dd9cb6f78803_N13366_d2b711a38b01080325f9bb4389bc534d3ccf16d7_N13367 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_116" .
-_:region_GID-464521_d2b711a38b01080325f9bb4389bc534d3ccf16d7_N13367_6bb7f516c6633b6427586b86c491dd9cb6f78803_N13366_d2b711a38b01080325f9bb4389bc534d3ccf16d7_N13367 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mezzano" .
-
-_:region_GID-464521_0a10f8c5f6e493afdd580ea4725955ccdbe867b7_N13370_2de0d8c3e1965ddc8451570aa76a648f11721181_N13369_0a10f8c5f6e493afdd580ea4725955ccdbe867b7_N13370 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_0a10f8c5f6e493afdd580ea4725955ccdbe867b7_N13370_2de0d8c3e1965ddc8451570aa76a648f11721181_N13369_0a10f8c5f6e493afdd580ea4725955ccdbe867b7_N13370 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_117" .
-_:region_GID-464521_0a10f8c5f6e493afdd580ea4725955ccdbe867b7_N13370_2de0d8c3e1965ddc8451570aa76a648f11721181_N13369_0a10f8c5f6e493afdd580ea4725955ccdbe867b7_N13370 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Luserna" .
-
-_:region_GID-464521_77d1fd7bb77ed8b6cb7fc9cc4889890ba42f9668_N13373_af4207787a12e46e7c21252576d92c311395c966_N13372_77d1fd7bb77ed8b6cb7fc9cc4889890ba42f9668_N13373 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_77d1fd7bb77ed8b6cb7fc9cc4889890ba42f9668_N13373_af4207787a12e46e7c21252576d92c311395c966_N13372_77d1fd7bb77ed8b6cb7fc9cc4889890ba42f9668_N13373 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Lona-Lases" .
-_:region_GID-464521_77d1fd7bb77ed8b6cb7fc9cc4889890ba42f9668_N13373_af4207787a12e46e7c21252576d92c311395c966_N13372_77d1fd7bb77ed8b6cb7fc9cc4889890ba42f9668_N13373 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_118" .
-
-_:region_GID-464521_750e1d5ae8d2c07d58c98d082634e0e654cdfda7_N13376_82b6a390badb259deb177b945d804a89a3d8fd97_N13375_750e1d5ae8d2c07d58c98d082634e0e654cdfda7_N13376 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_119" .
-_:region_GID-464521_750e1d5ae8d2c07d58c98d082634e0e654cdfda7_N13376_82b6a390badb259deb177b945d804a89a3d8fd97_N13375_750e1d5ae8d2c07d58c98d082634e0e654cdfda7_N13376 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mazzin - Mazin" .
-_:region_GID-464521_750e1d5ae8d2c07d58c98d082634e0e654cdfda7_N13376_82b6a390badb259deb177b945d804a89a3d8fd97_N13375_750e1d5ae8d2c07d58c98d082634e0e654cdfda7_N13376 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_8b1d5bd7a8d4a8a123cbeb922c2a86189029e6ec_N13379_b4ad264757874e286e9acb4f187481e5c22ac69f_N13378_8b1d5bd7a8d4a8a123cbeb922c2a86189029e6ec_N13379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_8b1d5bd7a8d4a8a123cbeb922c2a86189029e6ec_N13379_b4ad264757874e286e9acb4f187481e5c22ac69f_N13378_8b1d5bd7a8d4a8a123cbeb922c2a86189029e6ec_N13379 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_120" .
-_:region_GID-464521_8b1d5bd7a8d4a8a123cbeb922c2a86189029e6ec_N13379_b4ad264757874e286e9acb4f187481e5c22ac69f_N13378_8b1d5bd7a8d4a8a123cbeb922c2a86189029e6ec_N13379 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mezzana" .
-
-_:region_GID-464521_1147a6c13abe85db7508b1eee8c8e4c9e3aac0bf_N13382_3f3a489c72dea800ea7b6338c89938766d41a6e5_N13381_1147a6c13abe85db7508b1eee8c8e4c9e3aac0bf_N13382 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_121" .
-_:region_GID-464521_1147a6c13abe85db7508b1eee8c8e4c9e3aac0bf_N13382_3f3a489c72dea800ea7b6338c89938766d41a6e5_N13381_1147a6c13abe85db7508b1eee8c8e4c9e3aac0bf_N13382 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Male" .
-_:region_GID-464521_1147a6c13abe85db7508b1eee8c8e4c9e3aac0bf_N13382_3f3a489c72dea800ea7b6338c89938766d41a6e5_N13381_1147a6c13abe85db7508b1eee8c8e4c9e3aac0bf_N13382 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_a0ea551dbb14cb705169f09c118c295520bd4b74_N13385_fa4ecc9655ec3a59496c2f23e8e95b7537ed6cd8_N13384_a0ea551dbb14cb705169f09c118c295520bd4b74_N13385 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_122" .
-_:region_GID-464521_a0ea551dbb14cb705169f09c118c295520bd4b74_N13385_fa4ecc9655ec3a59496c2f23e8e95b7537ed6cd8_N13384_a0ea551dbb14cb705169f09c118c295520bd4b74_N13385 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pieve di Bono-Prezzo" .
-_:region_GID-464521_a0ea551dbb14cb705169f09c118c295520bd4b74_N13385_fa4ecc9655ec3a59496c2f23e8e95b7537ed6cd8_N13384_a0ea551dbb14cb705169f09c118c295520bd4b74_N13385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_3f2c383c2b1ecf006044f20b1855a6558dea774f_N13388_f4ebdac2c4c653b5add3c6c82038e9ffc7b3d024_N13387_3f2c383c2b1ecf006044f20b1855a6558dea774f_N13388 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_3f2c383c2b1ecf006044f20b1855a6558dea774f_N13388_f4ebdac2c4c653b5add3c6c82038e9ffc7b3d024_N13387_3f2c383c2b1ecf006044f20b1855a6558dea774f_N13388 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pelugo" .
-_:region_GID-464521_3f2c383c2b1ecf006044f20b1855a6558dea774f_N13388_f4ebdac2c4c653b5add3c6c82038e9ffc7b3d024_N13387_3f2c383c2b1ecf006044f20b1855a6558dea774f_N13388 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_123" .
-
-_:region_GID-464521_85b6d7895b335732b95aba2b1e32900d4160b200_N13391_64b10440a39cac9db6b644296b7b0845899ea798_N13390_85b6d7895b335732b95aba2b1e32900d4160b200_N13391 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Palu del Fersina Palai en Bersntol" .
-_:region_GID-464521_85b6d7895b335732b95aba2b1e32900d4160b200_N13391_64b10440a39cac9db6b644296b7b0845899ea798_N13390_85b6d7895b335732b95aba2b1e32900d4160b200_N13391 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_124" .
-_:region_GID-464521_85b6d7895b335732b95aba2b1e32900d4160b200_N13391_64b10440a39cac9db6b644296b7b0845899ea798_N13390_85b6d7895b335732b95aba2b1e32900d4160b200_N13391 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_149454909057f8c4e46d9657c828afa044764914_N13394_1c17dede5839bf6ecf4a403f8bf6bc5b8be3f224_N13393_149454909057f8c4e46d9657c828afa044764914_N13394 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pergine Valsugana" .
-_:region_GID-464521_149454909057f8c4e46d9657c828afa044764914_N13394_1c17dede5839bf6ecf4a403f8bf6bc5b8be3f224_N13393_149454909057f8c4e46d9657c828afa044764914_N13394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_149454909057f8c4e46d9657c828afa044764914_N13394_1c17dede5839bf6ecf4a403f8bf6bc5b8be3f224_N13393_149454909057f8c4e46d9657c828afa044764914_N13394 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_125" .
-
-_:region_GID-464521_dbae955e6dc495eeb262aa0fda395607b357c36f_N13397_503d8867b5499ef85f8ea7a2c7328b09a58438bd_N13396_dbae955e6dc495eeb262aa0fda395607b357c36f_N13397 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_dbae955e6dc495eeb262aa0fda395607b357c36f_N13397_503d8867b5499ef85f8ea7a2c7328b09a58438bd_N13396_dbae955e6dc495eeb262aa0fda395607b357c36f_N13397 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ospedaletto" .
-_:region_GID-464521_dbae955e6dc495eeb262aa0fda395607b357c36f_N13397_503d8867b5499ef85f8ea7a2c7328b09a58438bd_N13396_dbae955e6dc495eeb262aa0fda395607b357c36f_N13397 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_126" .
-
-_:region_GID-464521_76aed898d967a6290501f53f699fa27069ae18eb_N13400_756ec575304237f2f0f417f54067347ad302cbd0_N13399_76aed898d967a6290501f53f699fa27069ae18eb_N13400 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_127" .
-_:region_GID-464521_76aed898d967a6290501f53f699fa27069ae18eb_N13400_756ec575304237f2f0f417f54067347ad302cbd0_N13399_76aed898d967a6290501f53f699fa27069ae18eb_N13400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_76aed898d967a6290501f53f699fa27069ae18eb_N13400_756ec575304237f2f0f417f54067347ad302cbd0_N13399_76aed898d967a6290501f53f699fa27069ae18eb_N13400 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Panchia" .
-
-_:region_GID-464521_738224ca8faf2b73d38fe9c925066a098eac076c_N13403_3681823bb054a0596cc9f7afb5f01c46c21aa4a4_N13402_738224ca8faf2b73d38fe9c925066a098eac076c_N13403 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_738224ca8faf2b73d38fe9c925066a098eac076c_N13403_3681823bb054a0596cc9f7afb5f01c46c21aa4a4_N13402_738224ca8faf2b73d38fe9c925066a098eac076c_N13403 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pellizzano" .
-_:region_GID-464521_738224ca8faf2b73d38fe9c925066a098eac076c_N13403_3681823bb054a0596cc9f7afb5f01c46c21aa4a4_N13402_738224ca8faf2b73d38fe9c925066a098eac076c_N13403 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_128" .
-
-_:region_GID-464521_6abe31ed194c1683146110d02a08257cc1afefea_N13406_202dcf51c546fe3012ffa17c1ccb2b4e6cad035c_N13405_6abe31ed194c1683146110d02a08257cc1afefea_N13406 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_129" .
-_:region_GID-464521_6abe31ed194c1683146110d02a08257cc1afefea_N13406_202dcf51c546fe3012ffa17c1ccb2b4e6cad035c_N13405_6abe31ed194c1683146110d02a08257cc1afefea_N13406 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ossana" .
-_:region_GID-464521_6abe31ed194c1683146110d02a08257cc1afefea_N13406_202dcf51c546fe3012ffa17c1ccb2b4e6cad035c_N13405_6abe31ed194c1683146110d02a08257cc1afefea_N13406 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_23a68ea3f1199e7c599ea6f30a64c8c7a45f4633_N13409_726509c179b663b0e053118120e9c70f36561ce8_N13408_23a68ea3f1199e7c599ea6f30a64c8c7a45f4633_N13409 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_130" .
-_:region_GID-464521_23a68ea3f1199e7c599ea6f30a64c8c7a45f4633_N13409_726509c179b663b0e053118120e9c70f36561ce8_N13408_23a68ea3f1199e7c599ea6f30a64c8c7a45f4633_N13409 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_23a68ea3f1199e7c599ea6f30a64c8c7a45f4633_N13409_726509c179b663b0e053118120e9c70f36561ce8_N13408_23a68ea3f1199e7c599ea6f30a64c8c7a45f4633_N13409 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Peio" .
-
-_:region_GID-464521_301694b19312e6129332fa84802b6ec73f7c76e9_N13412_a608de214ab28fced6191190e4993bd166e0309e_N13411_301694b19312e6129332fa84802b6ec73f7c76e9_N13412 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_301694b19312e6129332fa84802b6ec73f7c76e9_N13412_a608de214ab28fced6191190e4993bd166e0309e_N13411_301694b19312e6129332fa84802b6ec73f7c76e9_N13412 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_131" .
-_:region_GID-464521_301694b19312e6129332fa84802b6ec73f7c76e9_N13412_a608de214ab28fced6191190e4993bd166e0309e_N13411_301694b19312e6129332fa84802b6ec73f7c76e9_N13412 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Rovere della Luna" .
-
-_:region_GID-464521_4452d0c4137dd0ef4e40f4e36c37a95d14f1a171_N13415_5f1bf8c62a49c6ddec9a5218cf61c6d4c67420f8_N13414_4452d0c4137dd0ef4e40f4e36c37a95d14f1a171_N13415 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Roncegno Terme" .
-_:region_GID-464521_4452d0c4137dd0ef4e40f4e36c37a95d14f1a171_N13415_5f1bf8c62a49c6ddec9a5218cf61c6d4c67420f8_N13414_4452d0c4137dd0ef4e40f4e36c37a95d14f1a171_N13415 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_132" .
-_:region_GID-464521_4452d0c4137dd0ef4e40f4e36c37a95d14f1a171_N13415_5f1bf8c62a49c6ddec9a5218cf61c6d4c67420f8_N13414_4452d0c4137dd0ef4e40f4e36c37a95d14f1a171_N13415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_231c9fd0110dd4f9eed695ee10676ef8a86e094c_N13418_6b926a525064026601ab5b7fee175598753b72f9_N13417_231c9fd0110dd4f9eed695ee10676ef8a86e094c_N13418 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_231c9fd0110dd4f9eed695ee10676ef8a86e094c_N13418_6b926a525064026601ab5b7fee175598753b72f9_N13417_231c9fd0110dd4f9eed695ee10676ef8a86e094c_N13418 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_133" .
-_:region_GID-464521_231c9fd0110dd4f9eed695ee10676ef8a86e094c_N13418_6b926a525064026601ab5b7fee175598753b72f9_N13417_231c9fd0110dd4f9eed695ee10676ef8a86e094c_N13418 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ronchi Valsugana" .
-
-_:region_GID-464521_48db17c0ebbf4655e895c0e82279959285e69134_N13421_8e7b30d6862d615eb06a0516e62c20849ae0053e_N13420_48db17c0ebbf4655e895c0e82279959285e69134_N13421 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_48db17c0ebbf4655e895c0e82279959285e69134_N13421_8e7b30d6862d615eb06a0516e62c20849ae0053e_N13420_48db17c0ebbf4655e895c0e82279959285e69134_N13421 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_134" .
-_:region_GID-464521_48db17c0ebbf4655e895c0e82279959285e69134_N13421_8e7b30d6862d615eb06a0516e62c20849ae0053e_N13420_48db17c0ebbf4655e895c0e82279959285e69134_N13421 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ronzo-Chienis" .
-
-_:region_GID-464521_a8f5fee13244907ce612cd90a0f953266052f5be_N13424_d2b47628123b9720dcac2f2bbe40474dd2bddd43_N13423_a8f5fee13244907ce612cd90a0f953266052f5be_N13424 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_135" .
-_:region_GID-464521_a8f5fee13244907ce612cd90a0f953266052f5be_N13424_d2b47628123b9720dcac2f2bbe40474dd2bddd43_N13423_a8f5fee13244907ce612cd90a0f953266052f5be_N13424 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ruffre" .
-_:region_GID-464521_a8f5fee13244907ce612cd90a0f953266052f5be_N13424_d2b47628123b9720dcac2f2bbe40474dd2bddd43_N13423_a8f5fee13244907ce612cd90a0f953266052f5be_N13424 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_1d34b3447b6838ec37e136168841e827ad977e3f_N13427_b7af052e3562a41bb409155449f82853c56a876f_N13426_1d34b3447b6838ec37e136168841e827ad977e3f_N13427 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_1d34b3447b6838ec37e136168841e827ad977e3f_N13427_b7af052e3562a41bb409155449f82853c56a876f_N13426_1d34b3447b6838ec37e136168841e827ad977e3f_N13427 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Rovereto" .
-_:region_GID-464521_1d34b3447b6838ec37e136168841e827ad977e3f_N13427_b7af052e3562a41bb409155449f82853c56a876f_N13426_1d34b3447b6838ec37e136168841e827ad977e3f_N13427 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_136" .
-
-_:region_GID-464521_cb5c67ff63060d0899edab35efc99426d3e8a9c3_N13430_7e67cfca789bf64fc4dd2f55fc72702bb75c69a5_N13429_cb5c67ff63060d0899edab35efc99426d3e8a9c3_N13430 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_137" .
-_:region_GID-464521_cb5c67ff63060d0899edab35efc99426d3e8a9c3_N13430_7e67cfca789bf64fc4dd2f55fc72702bb75c69a5_N13429_cb5c67ff63060d0899edab35efc99426d3e8a9c3_N13430 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ronzone" .
-_:region_GID-464521_cb5c67ff63060d0899edab35efc99426d3e8a9c3_N13430_7e67cfca789bf64fc4dd2f55fc72702bb75c69a5_N13429_cb5c67ff63060d0899edab35efc99426d3e8a9c3_N13430 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_da0a9ed4bc5fd789925b61e5f68356eae879914b_N13433_fdb1446f266260b1779da4c398ad9afb3d7a568a_N13432_da0a9ed4bc5fd789925b61e5f68356eae879914b_N13433 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Romeno" .
-_:region_GID-464521_da0a9ed4bc5fd789925b61e5f68356eae879914b_N13433_fdb1446f266260b1779da4c398ad9afb3d7a568a_N13432_da0a9ed4bc5fd789925b61e5f68356eae879914b_N13433 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_da0a9ed4bc5fd789925b61e5f68356eae879914b_N13433_fdb1446f266260b1779da4c398ad9afb3d7a568a_N13432_da0a9ed4bc5fd789925b61e5f68356eae879914b_N13433 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_138" .
-
-_:region_GID-464521_0b67745d9618008c9ce9fea02d2a4fc4870a4c9c_N13436_ec6acade4b2591addc97d509f73341b93394aed8_N13435_0b67745d9618008c9ce9fea02d2a4fc4870a4c9c_N13436 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Rumo" .
-_:region_GID-464521_0b67745d9618008c9ce9fea02d2a4fc4870a4c9c_N13436_ec6acade4b2591addc97d509f73341b93394aed8_N13435_0b67745d9618008c9ce9fea02d2a4fc4870a4c9c_N13436 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_139" .
-_:region_GID-464521_0b67745d9618008c9ce9fea02d2a4fc4870a4c9c_N13436_ec6acade4b2591addc97d509f73341b93394aed8_N13435_0b67745d9618008c9ce9fea02d2a4fc4870a4c9c_N13436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_017b886cc50a38ea29dd7e08f45eb3f54d5c8bc0_N13439_24e3c68c66cdab2a0925df613bc227f9ee08c4a0_N13438_017b886cc50a38ea29dd7e08f45eb3f54d5c8bc0_N13439 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_140" .
-_:region_GID-464521_017b886cc50a38ea29dd7e08f45eb3f54d5c8bc0_N13439_24e3c68c66cdab2a0925df613bc227f9ee08c4a0_N13438_017b886cc50a38ea29dd7e08f45eb3f54d5c8bc0_N13439 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_017b886cc50a38ea29dd7e08f45eb3f54d5c8bc0_N13439_24e3c68c66cdab2a0925df613bc227f9ee08c4a0_N13438_017b886cc50a38ea29dd7e08f45eb3f54d5c8bc0_N13439 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Stenico" .
-
-_:region_GID-464521_e40dce36c57b41b2d41faa03e3b9bc758647948e_N13442_db16d32534432069cdf85a7309199346c2e187d7_N13441_e40dce36c57b41b2d41faa03e3b9bc758647948e_N13442 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_141" .
-_:region_GID-464521_e40dce36c57b41b2d41faa03e3b9bc758647948e_N13442_db16d32534432069cdf85a7309199346c2e187d7_N13441_e40dce36c57b41b2d41faa03e3b9bc758647948e_N13442 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_e40dce36c57b41b2d41faa03e3b9bc758647948e_N13442_db16d32534432069cdf85a7309199346c2e187d7_N13441_e40dce36c57b41b2d41faa03e3b9bc758647948e_N13442 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sella Giudicarie" .
-
-_:region_GID-464521_a8cfa43c853d0b7c030b3f14a4ef52f14b0c6d68_N13445_4e43263e27520cae2bc5d932d018cbaecd115948_N13444_a8cfa43c853d0b7c030b3f14a4ef52f14b0c6d68_N13445 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_142" .
-_:region_GID-464521_a8cfa43c853d0b7c030b3f14a4ef52f14b0c6d68_N13445_4e43263e27520cae2bc5d932d018cbaecd115948_N13444_a8cfa43c853d0b7c030b3f14a4ef52f14b0c6d68_N13445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_a8cfa43c853d0b7c030b3f14a4ef52f14b0c6d68_N13445_4e43263e27520cae2bc5d932d018cbaecd115948_N13444_a8cfa43c853d0b7c030b3f14a4ef52f14b0c6d68_N13445 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Spormaggiore" .
-
-_:region_GID-464521_104d76dc2eba8c11f1ea6f9a3a65aaa2554281db_N13448_252d1181a8305d09090906844902cd46a93c039c_N13447_104d76dc2eba8c11f1ea6f9a3a65aaa2554281db_N13448 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_143" .
-_:region_GID-464521_104d76dc2eba8c11f1ea6f9a3a65aaa2554281db_N13448_252d1181a8305d09090906844902cd46a93c039c_N13447_104d76dc2eba8c11f1ea6f9a3a65aaa2554281db_N13448 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Spiazzo" .
-_:region_GID-464521_104d76dc2eba8c11f1ea6f9a3a65aaa2554281db_N13448_252d1181a8305d09090906844902cd46a93c039c_N13447_104d76dc2eba8c11f1ea6f9a3a65aaa2554281db_N13448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_e6def7b3ad19fdb91a647baa87d52838d582b442_N13451_e6d5d9546a1b4b5c48516cd0c88aa9c16e51356f_N13450_e6def7b3ad19fdb91a647baa87d52838d582b442_N13451 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_144" .
-_:region_GID-464521_e6def7b3ad19fdb91a647baa87d52838d582b442_N13451_e6d5d9546a1b4b5c48516cd0c88aa9c16e51356f_N13450_e6def7b3ad19fdb91a647baa87d52838d582b442_N13451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_e6def7b3ad19fdb91a647baa87d52838d582b442_N13451_e6d5d9546a1b4b5c48516cd0c88aa9c16e51356f_N13450_e6def7b3ad19fdb91a647baa87d52838d582b442_N13451 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Segonzano" .
-
-_:region_GID-464521_73085f813691b41577bdb6793ea1dee134e3e981_N13454_c1e66e64643446239ecb8cff22d5b9bdb5d9e8c6_N13453_73085f813691b41577bdb6793ea1dee134e3e981_N13454 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sover" .
-_:region_GID-464521_73085f813691b41577bdb6793ea1dee134e3e981_N13454_c1e66e64643446239ecb8cff22d5b9bdb5d9e8c6_N13453_73085f813691b41577bdb6793ea1dee134e3e981_N13454 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_145" .
-_:region_GID-464521_73085f813691b41577bdb6793ea1dee134e3e981_N13454_c1e66e64643446239ecb8cff22d5b9bdb5d9e8c6_N13453_73085f813691b41577bdb6793ea1dee134e3e981_N13454 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_5b823ff97ba6fda3691d33df9760e1aa030a45cb_N13457_ceeef50c8615182c95591f00c81fa5acbea4e417_N13456_5b823ff97ba6fda3691d33df9760e1aa030a45cb_N13457 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_5b823ff97ba6fda3691d33df9760e1aa030a45cb_N13457_ceeef50c8615182c95591f00c81fa5acbea4e417_N13456_5b823ff97ba6fda3691d33df9760e1aa030a45cb_N13457 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Soraga di Fassa" .
-_:region_GID-464521_5b823ff97ba6fda3691d33df9760e1aa030a45cb_N13457_ceeef50c8615182c95591f00c81fa5acbea4e417_N13456_5b823ff97ba6fda3691d33df9760e1aa030a45cb_N13457 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_146" .
-
-_:region_GID-464521_362cc45b875d1335eaf098606b7ae24fa7597996_N13460_f1f6f33c04a9d22754c66ce448e6aae9de7d6bfa_N13459_362cc45b875d1335eaf098606b7ae24fa7597996_N13460 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_147" .
-_:region_GID-464521_362cc45b875d1335eaf098606b7ae24fa7597996_N13460_f1f6f33c04a9d22754c66ce448e6aae9de7d6bfa_N13459_362cc45b875d1335eaf098606b7ae24fa7597996_N13460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_362cc45b875d1335eaf098606b7ae24fa7597996_N13460_f1f6f33c04a9d22754c66ce448e6aae9de7d6bfa_N13459_362cc45b875d1335eaf098606b7ae24fa7597996_N13460 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sporminore" .
-
-_:region_GID-464521_20eeea41a2a0851b4c04cc8384fe1f4ff8e34e6c_N13463_bff2e30bd887836ec86c1a155179d185a6235bcc_N13462_20eeea41a2a0851b4c04cc8384fe1f4ff8e34e6c_N13463 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_20eeea41a2a0851b4c04cc8384fe1f4ff8e34e6c_N13463_bff2e30bd887836ec86c1a155179d185a6235bcc_N13462_20eeea41a2a0851b4c04cc8384fe1f4ff8e34e6c_N13463 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sfruz" .
-_:region_GID-464521_20eeea41a2a0851b4c04cc8384fe1f4ff8e34e6c_N13463_bff2e30bd887836ec86c1a155179d185a6235bcc_N13462_20eeea41a2a0851b4c04cc8384fe1f4ff8e34e6c_N13463 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_148" .
-
-_:region_GID-464521_b1a6b22092070170069d658a86073ebef4d92570_N13466_24a1dc11120bfd793da92289bcafbf5420d50048_N13465_b1a6b22092070170069d658a86073ebef4d92570_N13466 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tione di Trento" .
-_:region_GID-464521_b1a6b22092070170069d658a86073ebef4d92570_N13466_24a1dc11120bfd793da92289bcafbf5420d50048_N13465_b1a6b22092070170069d658a86073ebef4d92570_N13466 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_149" .
-_:region_GID-464521_b1a6b22092070170069d658a86073ebef4d92570_N13466_24a1dc11120bfd793da92289bcafbf5420d50048_N13465_b1a6b22092070170069d658a86073ebef4d92570_N13466 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_397caa965eaa143080d1e825e01aa8bfdeb7afd2_N13469_c7af783f38766f4670bff209470dbfbc35170699_N13468_397caa965eaa143080d1e825e01aa8bfdeb7afd2_N13469 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_397caa965eaa143080d1e825e01aa8bfdeb7afd2_N13469_c7af783f38766f4670bff209470dbfbc35170699_N13468_397caa965eaa143080d1e825e01aa8bfdeb7afd2_N13469 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_150" .
-_:region_GID-464521_397caa965eaa143080d1e825e01aa8bfdeb7afd2_N13469_c7af783f38766f4670bff209470dbfbc35170699_N13468_397caa965eaa143080d1e825e01aa8bfdeb7afd2_N13469 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tre Ville" .
-
-_:region_GID-464521_7a21f84e0299ebd97f27147c29271186f4cd643c_N13472_44022582fc329561b1f5cf6a19006692b9525bc5_N13471_7a21f84e0299ebd97f27147c29271186f4cd643c_N13472 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Valdaone" .
-_:region_GID-464521_7a21f84e0299ebd97f27147c29271186f4cd643c_N13472_44022582fc329561b1f5cf6a19006692b9525bc5_N13471_7a21f84e0299ebd97f27147c29271186f4cd643c_N13472 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_151" .
-_:region_GID-464521_7a21f84e0299ebd97f27147c29271186f4cd643c_N13472_44022582fc329561b1f5cf6a19006692b9525bc5_N13471_7a21f84e0299ebd97f27147c29271186f4cd643c_N13472 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_e8a8d79a65ced5e5845ff5d8066e9d4253a4a689_N13475_a3b8d921393964ec74a01827f2d3bb6845ca7a34_N13474_e8a8d79a65ced5e5845ff5d8066e9d4253a4a689_N13475 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_152" .
-_:region_GID-464521_e8a8d79a65ced5e5845ff5d8066e9d4253a4a689_N13475_a3b8d921393964ec74a01827f2d3bb6845ca7a34_N13474_e8a8d79a65ced5e5845ff5d8066e9d4253a4a689_N13475 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Torcegno" .
-_:region_GID-464521_e8a8d79a65ced5e5845ff5d8066e9d4253a4a689_N13475_a3b8d921393964ec74a01827f2d3bb6845ca7a34_N13474_e8a8d79a65ced5e5845ff5d8066e9d4253a4a689_N13475 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_8804b6639faaf4c788c3086462ae869e0295b4c4_N13478_d586b8209661d260b81207b406671bfc6fbe0150_N13477_8804b6639faaf4c788c3086462ae869e0295b4c4_N13478 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_8804b6639faaf4c788c3086462ae869e0295b4c4_N13478_d586b8209661d260b81207b406671bfc6fbe0150_N13477_8804b6639faaf4c788c3086462ae869e0295b4c4_N13478 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Trento" .
-_:region_GID-464521_8804b6639faaf4c788c3086462ae869e0295b4c4_N13478_d586b8209661d260b81207b406671bfc6fbe0150_N13477_8804b6639faaf4c788c3086462ae869e0295b4c4_N13478 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_153" .
-
-_:region_GID-464521_a36f6906933d09272962a9a1962c580eaba46b12_N13481_5248e7fa0a4be6cf5a092d7e991ce6dd357a4b2a_N13480_a36f6906933d09272962a9a1962c580eaba46b12_N13481 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Valfloriana" .
-_:region_GID-464521_a36f6906933d09272962a9a1962c580eaba46b12_N13481_5248e7fa0a4be6cf5a092d7e991ce6dd357a4b2a_N13480_a36f6906933d09272962a9a1962c580eaba46b12_N13481 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_a36f6906933d09272962a9a1962c580eaba46b12_N13481_5248e7fa0a4be6cf5a092d7e991ce6dd357a4b2a_N13480_a36f6906933d09272962a9a1962c580eaba46b12_N13481 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_154" .
-
-_:region_GID-464521_c36c01fb1d7911afe28cea409206c26946ca2e1c_N13484_eacfb84cceed755e342464640aa8e3bf343f811d_N13483_c36c01fb1d7911afe28cea409206c26946ca2e1c_N13484 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_c36c01fb1d7911afe28cea409206c26946ca2e1c_N13484_eacfb84cceed755e342464640aa8e3bf343f811d_N13483_c36c01fb1d7911afe28cea409206c26946ca2e1c_N13484 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Trambileno" .
-_:region_GID-464521_c36c01fb1d7911afe28cea409206c26946ca2e1c_N13484_eacfb84cceed755e342464640aa8e3bf343f811d_N13483_c36c01fb1d7911afe28cea409206c26946ca2e1c_N13484 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_155" .
-
-_:region_GID-464521_fe79d982ee5ce91f2da8d1c6704a784611908713_N13487_0e6510b380ba55bcb71ae03c4528b2238fea2685_N13486_fe79d982ee5ce91f2da8d1c6704a784611908713_N13487 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_fe79d982ee5ce91f2da8d1c6704a784611908713_N13487_0e6510b380ba55bcb71ae03c4528b2238fea2685_N13486_fe79d982ee5ce91f2da8d1c6704a784611908713_N13487 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tesero" .
-_:region_GID-464521_fe79d982ee5ce91f2da8d1c6704a784611908713_N13487_0e6510b380ba55bcb71ae03c4528b2238fea2685_N13486_fe79d982ee5ce91f2da8d1c6704a784611908713_N13487 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_156" .
-
-_:region_GID-464521_16a863347c743e11d8ef978e0095b26134888834_N13490_22a4868df0dc949be77bfc26d7c6edcd89d09933_N13489_16a863347c743e11d8ef978e0095b26134888834_N13490 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_16a863347c743e11d8ef978e0095b26134888834_N13490_22a4868df0dc949be77bfc26d7c6edcd89d09933_N13489_16a863347c743e11d8ef978e0095b26134888834_N13490 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ton" .
-_:region_GID-464521_16a863347c743e11d8ef978e0095b26134888834_N13490_22a4868df0dc949be77bfc26d7c6edcd89d09933_N13489_16a863347c743e11d8ef978e0095b26134888834_N13490 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_157" .
-
-_:region_GID-464521_5715da496eb53577ff8f56636ce872783e119f18_N13493_1c0ee18d5ba3d6e451d7c743b6c5ee27c6f517da_N13492_5715da496eb53577ff8f56636ce872783e119f18_N13493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_5715da496eb53577ff8f56636ce872783e119f18_N13493_1c0ee18d5ba3d6e451d7c743b6c5ee27c6f517da_N13492_5715da496eb53577ff8f56636ce872783e119f18_N13493 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_158" .
-_:region_GID-464521_5715da496eb53577ff8f56636ce872783e119f18_N13493_1c0ee18d5ba3d6e451d7c743b6c5ee27c6f517da_N13492_5715da496eb53577ff8f56636ce872783e119f18_N13493 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Vallarsa" .
-
-_:region_GID-464521_b77a49f10a0ab0098e2d3f9f1addc8030475c089_N13496_10850608acb043db0c935d62df9abb4009388e5c_N13495_b77a49f10a0ab0098e2d3f9f1addc8030475c089_N13496 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_159" .
-_:region_GID-464521_b77a49f10a0ab0098e2d3f9f1addc8030475c089_N13496_10850608acb043db0c935d62df9abb4009388e5c_N13495_b77a49f10a0ab0098e2d3f9f1addc8030475c089_N13496 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_b77a49f10a0ab0098e2d3f9f1addc8030475c089_N13496_10850608acb043db0c935d62df9abb4009388e5c_N13495_b77a49f10a0ab0098e2d3f9f1addc8030475c089_N13496 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Vallelaghi" .
-
-_:region_GID-464521_c5a230b04c51f2d4527554f4d95aec4e42cce80e_N13499_bffa029f0a453ad47a2093e8be04735b49b5c5bc_N13498_c5a230b04c51f2d4527554f4d95aec4e42cce80e_N13499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_c5a230b04c51f2d4527554f4d95aec4e42cce80e_N13499_bffa029f0a453ad47a2093e8be04735b49b5c5bc_N13498_c5a230b04c51f2d4527554f4d95aec4e42cce80e_N13499 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Vermiglio" .
-_:region_GID-464521_c5a230b04c51f2d4527554f4d95aec4e42cce80e_N13499_bffa029f0a453ad47a2093e8be04735b49b5c5bc_N13498_c5a230b04c51f2d4527554f4d95aec4e42cce80e_N13499 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_160" .
-
-_:region_GID-464521_01075fa6eb19613e012f14c5e4957bcf73b550d8_N13502_380cd557ab0da9e8aa9cc82ecc17b6f1e2e61f12_N13501_01075fa6eb19613e012f14c5e4957bcf73b550d8_N13502 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_01075fa6eb19613e012f14c5e4957bcf73b550d8_N13502_380cd557ab0da9e8aa9cc82ecc17b6f1e2e61f12_N13501_01075fa6eb19613e012f14c5e4957bcf73b550d8_N13502 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_161" .
-_:region_GID-464521_01075fa6eb19613e012f14c5e4957bcf73b550d8_N13502_380cd557ab0da9e8aa9cc82ecc17b6f1e2e61f12_N13501_01075fa6eb19613e012f14c5e4957bcf73b550d8_N13502 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Vignola" .
-
-_:region_GID-464521_0e8b7eaf56737d7ae3b59ab1b2853f0e2bd5f8e1_N13505_6d6dc3f6348a0482bf0c164f2b79236dd9f6407a_N13504_0e8b7eaf56737d7ae3b59ab1b2853f0e2bd5f8e1_N13505 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_0e8b7eaf56737d7ae3b59ab1b2853f0e2bd5f8e1_N13505_6d6dc3f6348a0482bf0c164f2b79236dd9f6407a_N13504_0e8b7eaf56737d7ae3b59ab1b2853f0e2bd5f8e1_N13505 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Villa Lagarina" .
-_:region_GID-464521_0e8b7eaf56737d7ae3b59ab1b2853f0e2bd5f8e1_N13505_6d6dc3f6348a0482bf0c164f2b79236dd9f6407a_N13504_0e8b7eaf56737d7ae3b59ab1b2853f0e2bd5f8e1_N13505 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_162" .
-
-_:region_GID-464521_d7beb15b55d73dee045209c45d9b77d60f3ad725_N13508_ca096d1321b013740a35e67b872ef56291ef56fc_N13507_d7beb15b55d73dee045209c45d9b77d60f3ad725_N13508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-_:region_GID-464521_d7beb15b55d73dee045209c45d9b77d60f3ad725_N13508_ca096d1321b013740a35e67b872ef56291ef56fc_N13507_d7beb15b55d73dee045209c45d9b77d60f3ad725_N13508 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_163" .
-_:region_GID-464521_d7beb15b55d73dee045209c45d9b77d60f3ad725_N13508_ca096d1321b013740a35e67b872ef56291ef56fc_N13507_d7beb15b55d73dee045209c45d9b77d60f3ad725_N13508 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ville dAnaunia" .
-
-_:region_GID-464521_f1b52d60876b50201513bbdcbacf183171dcab37_N13511_e67886c415c50a57853a1e726f1272fa0aedb10f_N13510_f1b52d60876b50201513bbdcbacf183171dcab37_N13511 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ville di Fiemme" .
-_:region_GID-464521_f1b52d60876b50201513bbdcbacf183171dcab37_N13511_e67886c415c50a57853a1e726f1272fa0aedb10f_N13510_f1b52d60876b50201513bbdcbacf183171dcab37_N13511 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_164" .
-_:region_GID-464521_f1b52d60876b50201513bbdcbacf183171dcab37_N13511_e67886c415c50a57853a1e726f1272fa0aedb10f_N13510_f1b52d60876b50201513bbdcbacf183171dcab37_N13511 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
-
-_:region_GID-464521_923927b5af6b4b20c4f8a160a115e61073ff7d23_N13514_bafc4f7d6903696138e4744393dfb277f14ae43e_N13513_923927b5af6b4b20c4f8a160a115e61073ff7d23_N13514 <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ziano di Fiemme" .
-_:region_GID-464521_923927b5af6b4b20c4f8a160a115e61073ff7d23_N13514_bafc4f7d6903696138e4744393dfb277f14ae43e_N13513_923927b5af6b4b20c4f8a160a115e61073ff7d23_N13514 <http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085> "region_165" .
-_:region_GID-464521_923927b5af6b4b20c4f8a160a115e61073ff7d23_N13514_bafc4f7d6903696138e4744393dfb277f14ae43e_N13513_923927b5af6b4b20c4f8a160a115e61073ff7d23_N13514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_1> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Aldeno" .
+<http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_2> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Albiano" .
+
+<http://localhost:8080/source/region_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_3> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Altopiano della Vigolana" .
+
+<http://localhost:8080/source/region_4> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Andalo" .
+<http://localhost:8080/source/region_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_5> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Baselga di Pine" .
+<http://localhost:8080/source/region_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_6> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bedollo" .
+<http://localhost:8080/source/region_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_7> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bieno" .
+
+<http://localhost:8080/source/region_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_8> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Besenello" .
+
+<http://localhost:8080/source/region_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_9> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Avio" .
+
+<http://localhost:8080/source/region_10> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ala" .
+<http://localhost:8080/source/region_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_11> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Altavalle" .
+
+<http://localhost:8080/source/region_12> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Amblar" .
+<http://localhost:8080/source/region_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_13> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castel Condino" .
+
+<http://localhost:8080/source/region_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_14> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Carisolo" .
+
+<http://localhost:8080/source/region_15> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castello di Fiemme" .
+<http://localhost:8080/source/region_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_16> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castel Ivano" .
+
+<http://localhost:8080/source/region_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_17> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castello Tesino" .
+
+<http://localhost:8080/source/region_18> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Castelnuovo" .
+<http://localhost:8080/source/region_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_19> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Carzano" .
+<http://localhost:8080/source/region_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_20> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Capriana" .
+<http://localhost:8080/source/region_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_21> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavalese" .
+<http://localhost:8080/source/region_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_22> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Comano Terme" .
+
+<http://localhost:8080/source/region_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_23> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Drena" .
+
+<http://localhost:8080/source/region_24> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Dimaro Folgarida" .
+<http://localhost:8080/source/region_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_25> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Commezzadura" .
+
+<http://localhost:8080/source/region_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_26> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Conta" .
+
+<http://localhost:8080/source/region_27> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Dambel" .
+<http://localhost:8080/source/region_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_28> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Denno" .
+
+<http://localhost:8080/source/region_29> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Croviana" .
+<http://localhost:8080/source/region_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_30> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cles" .
+<http://localhost:8080/source/region_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_31> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ledro" .
+
+<http://localhost:8080/source/region_32> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Giustino" .
+<http://localhost:8080/source/region_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_33> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Lavis" .
+
+<http://localhost:8080/source/region_34> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Levico Terme" .
+<http://localhost:8080/source/region_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_35> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Imer" .
+
+<http://localhost:8080/source/region_36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_36> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Grigno" .
+
+<http://localhost:8080/source/region_37> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Isera" .
+<http://localhost:8080/source/region_37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_38> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Lavarone" .
+<http://localhost:8080/source/region_38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_39> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Livo" .
+<http://localhost:8080/source/region_39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_40> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Nago" .
+<http://localhost:8080/source/region_40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_41> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mezzolombardo" .
+
+<http://localhost:8080/source/region_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_42> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Molveno" .
+
+<http://localhost:8080/source/region_43> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Novaledo" .
+<http://localhost:8080/source/region_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_44> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Nogaredo" .
+
+<http://localhost:8080/source/region_45> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Nomi" .
+<http://localhost:8080/source/region_45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_46> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mori" .
+<http://localhost:8080/source/region_46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_47> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Moena" .
+<http://localhost:8080/source/region_47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_48> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Novella" .
+<http://localhost:8080/source/region_48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_49> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Riva del Garda" .
+
+<http://localhost:8080/source/region_50> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Porte di Rendena" .
+<http://localhost:8080/source/region_50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_51> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pinzolo" .
+<http://localhost:8080/source/region_51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_52> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "San Martino di Castrozza" .
+<http://localhost:8080/source/region_52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_53> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pieve Tesino" .
+
+<http://localhost:8080/source/region_54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_54> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pomarolo" .
+
+<http://localhost:8080/source/region_55> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Predazzo" .
+<http://localhost:8080/source/region_55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_56> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Predaia" .
+<http://localhost:8080/source/region_56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_57> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Rabbi" .
+
+<http://localhost:8080/source/region_58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_58> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "San Michele allAdige" .
+
+<http://localhost:8080/source/region_59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_59> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "San Lorenzo Dorsino" .
+
+<http://localhost:8080/source/region_60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_60> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "SantOrsola Terme" .
+
+<http://localhost:8080/source/region_61> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sagron Mis" .
+<http://localhost:8080/source/region_61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_62> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Scurelle" .
+
+<http://localhost:8080/source/region_63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_63> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Samone" .
+
+<http://localhost:8080/source/region_64> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "San Giovanni di Fassa-Sen Jan" .
+<http://localhost:8080/source/region_64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_65> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sarnonico" .
+<http://localhost:8080/source/region_65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_66> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sanzeno" .
+
+<http://localhost:8080/source/region_67> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tenno" .
+<http://localhost:8080/source/region_67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_68> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Storo" .
+<http://localhost:8080/source/region_68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_69> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Strembo" .
+<http://localhost:8080/source/region_69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_70> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Terre dAdige" .
+
+<http://localhost:8080/source/region_71> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Telve di Sopra" .
+<http://localhost:8080/source/region_71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_72> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Telve" .
+
+<http://localhost:8080/source/region_73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_73> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tenna" .
+
+<http://localhost:8080/source/region_74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_74> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Terragnolo" .
+
+<http://localhost:8080/source/region_75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_75> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Terzolas" .
+
+<http://localhost:8080/source/region_76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_76> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bleggio Superiore" .
+
+<http://localhost:8080/source/region_77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_77> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Arco" .
+
+<http://localhost:8080/source/region_78> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Borgo Lares" .
+<http://localhost:8080/source/region_78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_79> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Borgo Chiese" .
+
+<http://localhost:8080/source/region_80> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bondone" .
+<http://localhost:8080/source/region_80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_81> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bocenago" .
+
+<http://localhost:8080/source/region_82> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Borgo Valsugana" .
+<http://localhost:8080/source/region_82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_83> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Brentonico" .
+
+<http://localhost:8080/source/region_84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_84> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Borgo dAnaunia" .
+
+<http://localhost:8080/source/region_85> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Bresimo" .
+<http://localhost:8080/source/region_85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_86> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Caderzone Terme" .
+
+<http://localhost:8080/source/region_87> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Calceranica al Lago" .
+<http://localhost:8080/source/region_87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_88> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Canal San Bovo" .
+<http://localhost:8080/source/region_88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_89> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Caldonazzo" .
+<http://localhost:8080/source/region_89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_90> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Campitello di Fassa" .
+<http://localhost:8080/source/region_90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_91> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Calliano" .
+
+<http://localhost:8080/source/region_92> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Canazei" .
+<http://localhost:8080/source/region_92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_93> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Campodenno" .
+<http://localhost:8080/source/region_93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_94> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Caldes" .
+
+<http://localhost:8080/source/region_95> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavedine" .
+<http://localhost:8080/source/region_95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_96> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavedago" .
+<http://localhost:8080/source/region_96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_97> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cimone" .
+
+<http://localhost:8080/source/region_98> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cinte Tesino" .
+<http://localhost:8080/source/region_98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_99> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Civezzano" .
+<http://localhost:8080/source/region_99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_100> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cembra Lisignago" .
+<http://localhost:8080/source/region_100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_101> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavareno" .
+<http://localhost:8080/source/region_101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_102> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cavizzana" .
+
+<http://localhost:8080/source/region_103> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Cis" .
+<http://localhost:8080/source/region_103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_104> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Fiave" .
+<http://localhost:8080/source/region_104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_105> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Dro" .
+<http://localhost:8080/source/region_105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_106> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Fai della Paganella" .
+<http://localhost:8080/source/region_106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_107> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Frassilongo" .
+<http://localhost:8080/source/region_107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_108> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Fierozzo" .
+
+<http://localhost:8080/source/region_109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_109> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Garniga Terme" .
+
+<http://localhost:8080/source/region_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_110> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Folgaria" .
+
+<http://localhost:8080/source/region_111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_111> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Giovo" .
+
+<http://localhost:8080/source/region_112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_112> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Fornace" .
+
+<http://localhost:8080/source/region_113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_113> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Madruzzo" .
+
+<http://localhost:8080/source/region_114> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Massimeno" .
+<http://localhost:8080/source/region_114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_115> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mezzocorona" .
+
+<http://localhost:8080/source/region_116> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mezzano" .
+<http://localhost:8080/source/region_116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_117> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Luserna" .
+
+<http://localhost:8080/source/region_118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_118> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Lona-Lases" .
+
+<http://localhost:8080/source/region_119> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mazzin - Mazin" .
+<http://localhost:8080/source/region_119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_120> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Mezzana" .
+<http://localhost:8080/source/region_120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_121> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Male" .
+
+<http://localhost:8080/source/region_122> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pieve di Bono-Prezzo" .
+<http://localhost:8080/source/region_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_123> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pelugo" .
+<http://localhost:8080/source/region_123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_124> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Palu del Fersina Palai en Bersntol" .
+
+<http://localhost:8080/source/region_125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_125> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pergine Valsugana" .
+
+<http://localhost:8080/source/region_126> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ospedaletto" .
+<http://localhost:8080/source/region_126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_127> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Panchia" .
+
+<http://localhost:8080/source/region_128> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Pellizzano" .
+<http://localhost:8080/source/region_128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_129> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ossana" .
+
+<http://localhost:8080/source/region_130> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Peio" .
+<http://localhost:8080/source/region_130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_131> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Rovere della Luna" .
+
+<http://localhost:8080/source/region_132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_132> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Roncegno Terme" .
+
+<http://localhost:8080/source/region_133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_133> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ronchi Valsugana" .
+
+<http://localhost:8080/source/region_134> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ronzo-Chienis" .
+<http://localhost:8080/source/region_134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_135> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ruffre" .
+
+<http://localhost:8080/source/region_136> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Rovereto" .
+<http://localhost:8080/source/region_136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_137> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ronzone" .
+
+<http://localhost:8080/source/region_138> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Romeno" .
+<http://localhost:8080/source/region_138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_139> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Rumo" .
+
+<http://localhost:8080/source/region_140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_140> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Stenico" .
+
+<http://localhost:8080/source/region_141> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sella Giudicarie" .
+<http://localhost:8080/source/region_141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_142> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Spormaggiore" .
+
+<http://localhost:8080/source/region_143> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Spiazzo" .
+<http://localhost:8080/source/region_143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_144> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Segonzano" .
+<http://localhost:8080/source/region_144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_145> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sover" .
+
+<http://localhost:8080/source/region_146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_146> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Soraga di Fassa" .
+
+<http://localhost:8080/source/region_147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_147> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sporminore" .
+
+<http://localhost:8080/source/region_148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_148> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Sfruz" .
+
+<http://localhost:8080/source/region_149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_149> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tione di Trento" .
+
+<http://localhost:8080/source/region_150> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tre Ville" .
+<http://localhost:8080/source/region_150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_151> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Valdaone" .
+
+<http://localhost:8080/source/region_152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_152> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Torcegno" .
+
+<http://localhost:8080/source/region_153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_153> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Trento" .
+
+<http://localhost:8080/source/region_154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_154> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Valfloriana" .
+
+<http://localhost:8080/source/region_155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_155> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Trambileno" .
+
+<http://localhost:8080/source/region_156> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Tesero" .
+<http://localhost:8080/source/region_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_157> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ton" .
+<http://localhost:8080/source/region_157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_158> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Vallarsa" .
+
+<http://localhost:8080/source/region_159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_159> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Vallelaghi" .
+
+<http://localhost:8080/source/region_160> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Vermiglio" .
+<http://localhost:8080/source/region_160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+
+<http://localhost:8080/source/region_161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_161> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Vignola" .
+
+<http://localhost:8080/source/region_162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_162> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Villa Lagarina" .
+
+<http://localhost:8080/source/region_163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_163> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ville dAnaunia" .
+
+<http://localhost:8080/source/region_164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
+<http://localhost:8080/source/region_164> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ville di Fiemme" .
+
+<http://localhost:8080/source/region_165> <http://knowdive.disi.unitn.it/etype#has_name_GID-2> "Ziano di Fiemme" .
+<http://localhost:8080/source/region_165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#region_GID-46452> .
 
