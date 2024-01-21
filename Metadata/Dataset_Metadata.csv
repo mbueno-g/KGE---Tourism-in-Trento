@@ -1,0 +1,39 @@
+DatLicense,DatURL,DatKeyword,DatPublisher,DatCreator,DatOwner,DatLanguage,DatLevel,DatSize,DatName,DatPublication,DatDescription,DatVersion,DatDomain,DatFileFormat
+Apache-2.0 license,https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Datasets/Data%20Integration/bus.csv,"bus,transport,trentino, trento",Datascientia Foundation,"Roberta Peracchio,
+Hamid Omidi","Roberta Peracchio,
+Hamid Omidi",english,,231 KB,bus.csv,21/12/2022,Provides information about all the bus stations in the trentino region,1,transport,csv
+Apache-2.0 license,https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Datasets/Data%20Integration/train_stations2.csv,"train,transport,trentinto, trento",Datascientia Foundation,"Roberta Peracchio,
+Hamid Omidi","Roberta Peracchio,
+Hamid Omidi",english,,11.8 KB,train_station_2.csv,21/12/2022,Provides information about all the train stations in the trentino region,2,transport,csv
+Apache-2.0 license,https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Datasets/Data%20Integration/gas_station.csv,"gas station, cars, transport, trentino, trento",Datascientia Foundation,"Roberta Peracchio,
+Hamid Omidi","Roberta Peracchio,
+Hamid Omidi",english,,2.22 KB,gas_station.csv,21/12/2022,Provides information about  all the gas stations in the trentino region,1,transport,csv
+Apache-2.0 license,https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Datasets/Data%20Integration/hotel2.csv,"acommodation, holiday, hotel,trentino, trento",Datascientia Foundation,"Roberta Peracchio,
+Hamid Omidi","Roberta Peracchio,
+Hamid Omidi",english,,29.5 KB,hotel_2.csv,21/12/2022,Provides information about different hotels of the trentino region,2,tourism,csv
+Apache-2.0 license,https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Datasets/Data%20Integration/campsite2.csv,"acommodation, holiday, campsite,trentino, trento",Datascientia Foundation,"Roberta Peracchio,
+Hamid Omidi","Roberta Peracchio,
+Hamid Omidi",english,,4.22 KB,campsite_2.csv,21/12/2022,Provides information about different campsites of the trentino region,2,tourism,csv
+Apache-2.0 license,https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Datasets/Data%20Integration/holiday_house2.csv,"acommodation, holiday, holiday house, trentino, trento",Datascientia Foundation,"Roberta Peracchio,
+Hamid Omidi","Roberta Peracchio,
+Hamid Omidi",english,,57.9 KB,holiday_house2.csv,21/12/2022,Provides information about different holiday houses of the trentino region,2,tourism,csv
+Apache-2.0 license,https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/blob/main/Datasets/Data%20Integration/skiing_infrastructure2.csv,"skiing, sports, holiday,  trentino, trento",Datascientia Foundation,"Roberta Peracchio,
+Hamid Omidi","Roberta Peracchio,
+Hamid Omidi",english,,2.53 KB,skiing_infrastructure2.csv,21/12/2022,Provides information about different skiing infrastructures of the trentino region,2,tourism,csv
+Open Data Commons Attribution License,https://drive.google.com/file/d/1A8fIm5H-hRNlEHLaLSzzOic2gSAuQCjY/view?usp=sharing,"trento, trentino, tourism, shops, outdoors, nature",Xiaoyue Li,Xiaoyue Li,Knowdive Research group,english,,2 KB,pint_outdoor_shop.txt,06/09/2023,Provides information about different outdoor equipment shops  of the trentino region,1,tourism,txt
+Open Data Commons Attribution License,https://drive.google.com/file/d/1FeH6lkH7v8U5RQBdNYuwh0rg6Z_yTy9g/view?usp=sharing,"trento, trentino, natural, mountain",Xiaoyue Li,Xiaoyue Li,Knowdive Research group,english,,240 KB,point_peak.txt,06/09/2023,"Provides the peaks of the different mountains in the trentino region, based on Open Street Maps",1,tourism,txt
+Open Data Commons Attribution License,https://drive.google.com/file/d/10rukwDQ1ISfrWWGbtT7s7qjg3SrlFSZh/view?usp=drive_link,"trento, trentino, natural, cave",Xiaoyue Li,Xiaoyue Li,Knowdive Research group,english,,32 KB,point_cave_entrance.txt,06/09/2023,"Provides the points of entry of the different in the trentino region, based on Open Street Maps",1,tourism,txt
+Open Data Commons Attribution License,https://github.com/mbueno-g/KGE---Tourism-in-Trento/blob/main/Phase%202%20-%20Information%20Gathering/Cleaned%20datasets/old_herarchies/lakes.csv,"trento, trentino, natural, lake",Marina Bueno García,Marina Bueno García,Trentino.com,english,,3.55 KB,lakes.csv,15/12/2023,"Provides info about the different lakes in the trentino region, based on https://www.trentino.com/en/highlights/nature-and-landscape/lakes/",1,tourism,csv
+Creative Commons Attribution 4.0 International (CC BY 4.0),https://www.provincia.tn.it/Documenti-e-dati/Risorse/Elenco-dei-referenti-ISTAT-per-il-settore-turismo,"tourism,trento, trentino, regions, territory",Provincia autonoma di Trento,Provincia autonoma di Trento,Provincia autonoma di Trento,italian,,19 KB,dataset-data-61135.csv,12/07/2022,Provides info about the differentresponsibles of tourisms of each of the territories within the Trentino region,NA,tourism,csv
+Apache-2.0 license,https://github.com/mbueno-g/KGE---Tourism-in-Trento/blob/main/Phase%202%20-%20Information%20Gathering/Cleaned%20datasets/tourist_trip.csv,"tourism,trento,hikes, nature, trentino",Lucía Trillo Carreras,Lucía Trillo Carreras,Komoot,english,,2.02 KB,tourist_trip.csv,15/12/2023,"Provides info about the different hikes, levels, heights throughout the territories within the Trentino region. They were obtained through the https://www.komoot.com/discover webpage.",5,tourism,csv
+Apache-2.0 license,https://github.com/mbueno-g/KGE---Tourism-in-Trento/blob/main/Phase%202%20-%20Information%20Gathering/Cleaned%20datasets/person_tourist.csv,"tourism,trento, trentino, regions, territory, custom, personas",Marina Bueno García,Marina Bueno García,Marina Bueno García,english,,"0,35 KB",person_tourist.csv,07/12/2023,Provides 6 custom tourist personas for interactions within the Natural tourism Knowledge Graph,2,tourism,csv
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,"lacking: hotel, holiday house...",,,,,,
