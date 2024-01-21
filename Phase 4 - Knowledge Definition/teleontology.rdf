@@ -35,6 +35,16 @@
     
 
 
+    <!-- http://knowdive.disi.unitn.it/etype#close_GID-84218 -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#close_GID-84218">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hike_GID-1458"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#transportation_GID-24838"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://knowdive.disi.unitn.it/etype#part_of_GID-14002 -->
 
     <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#part_of_GID-14002">
