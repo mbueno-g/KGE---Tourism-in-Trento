@@ -127,21 +127,6 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#has_city_GID-45988 -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_city_GID-45988">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#accommodation_GID-14254"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#formation_GID-49530"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station_GID-18641"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#ski_resort_GID-46553"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#store_GID-23209"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#transportation_GID-24838"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#has_duration_GID-80582 -->
 
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_duration_GID-80582">
@@ -199,25 +184,6 @@
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hike_GID-1458"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085 -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#accommodation_GID-14254"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#formation_GID-49530"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#gas_station_GID-18641"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#guide_GID-34478"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#hike_GID-1458"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#region_GID-46452"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#ski_resort_GID-46553"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#store_GID-23209"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#tourist_GID-57726"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#transportation_GID-24838"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
