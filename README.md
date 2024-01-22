@@ -127,7 +127,7 @@ properties that will be obtained in a later phase.
 
 ## Teleontology
 
-
+![Teleontologyl]([/webassets/teleontology.png])
 
 
 ## Final Knowledge Graph
