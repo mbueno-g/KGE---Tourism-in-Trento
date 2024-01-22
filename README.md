@@ -6,13 +6,13 @@ This project is created for the Knowledge Graph subject at University of Trento,
 
 ## Materials
 ### Code
-The GitHub repository can be found (here)[https://github.com/mbueno-g/KGE---Tourism-in-Trento]
+The GitHub repository can be found [here](https://github.com/mbueno-g/KGE---Tourism-in-Trento)
 
 ### Report
-The report of this project can be found by clicking (here)[https://github.com/mbueno-g/KGE---Tourism-in-Trento/Documentation/report.pdf]
+The report of this project can be found by clicking [here](https://github.com/mbueno-g/KGE---Tourism-in-Trento/Documentation/report.pdf)
 
 ### Presentation slides
-The presentation slides of can be found  (here)[https://github.com/mbueno-g/KGE---Tourism-in-Trento/Documentation/ppt.pdf].
+The presentation slides of can be found [here](https://github.com/mbueno-g/KGE---Tourism-in-Trento/Documentation/ppt.pdf)
 
 
 ## Introduction
@@ -105,21 +105,24 @@ properties that will be obtained in a later phase.
 
 ## Information Gathering
 ### Data Resources
-##### Informal Data Sources:
-
-
 
 ##### Formal Data Sources:
 
-OSM Places Trentino dataset provided by the DataScientia Foundation https://datascientiafoundation.github.io/LiveDataTrentino/datasets/OSM%20Places/
+[OSM Places Trentino dataset]( https://datascientiafoundation.github.io/LiveDataTrentino/datasets/OSM%20Places/) provided by the DataScientia Foundation
+[Tourist Facilities datasets](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/tree/main) created by Roberta Peracchio and Hamid Omidi
+
+
+##### Informal Data Sources:
+[Hike datasets](https://www.komoot.com/discover) sourced from Komoot
+[Lake dataset](https://www.trentino.com/en/highlights/nature-and-landscape/lakes/) sourced from the Trentino page
+[Regions and tourist profesional datasets](https://www.provincia.tn.it/Documenti-e-dati/Risorse/Elenco-dei-referenti-ISTAT-per-il-settore-turismo) sourced from ISTAT
 
 
 ### Knowledge Resources
 ##### Formal Knowledge Source:
 
-OSM Lightweight Ontology provided by The DataScientia Foundation
-https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/
-
+[OSM Lightweight Ontology](https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/) provided by The DataScientia Foundation 
+[Various Ontologies](https://schema.org) sourced from schema.org
 
 
 ## Teleontology
@@ -133,4 +136,7 @@ https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-
 
 
 ## Conclusion
+
+In summary, this research has successfully achieved its objective of constructing a knowledge graph that encapsulates the diverse information related to natural tourism in Trentino. The knowledge graph serves as a valuable tool for gaining insights into various aspects of visitors' options. The practical outcomes of this project signify a promising starting point, with ample opportunities for further enhancement and refinement within the context of Trentino's natural attractions. Looking forward, numerous potential directions for future work have been identified. These include the integration of additional hikes, modeling points of interest within the hikes, enriching the ontology with more references, and the incorporation of more time-specific data into the knowledge graph, possibly from diverse sources (specifying the best and worst times a year to make a certain visit). 
+beyond mere points of interest, could provide deeper insights into their preferences and behaviors.Although the project has yielded practical outcomes, it represents just the initial phase of a broader exploration into understanding and enhancing the natural tourism experience using knowledge graphs. The extensive potential for future work promises exciting developments in advancing research within the realm of natural tourism in Trentino.
 
