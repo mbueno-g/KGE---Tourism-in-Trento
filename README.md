@@ -95,7 +95,12 @@ Based on 6 Personas and 3 Scenarios, we defined 20 competency questions
 
 
 ## ER Model
-From the competency questions, relating to Personas and Scenarios, we extract entities with properties. In consideration with these identified entities, we designed an Entity-relationship (ER) model as shown in the figure below.
+From the competency questions, relating to Personas and Scenarios, we extract entities with properties and connect them in a EER model. In our first version, we had mapped several object properties, expecting to obtain the data values that connect them while making queries within the Knowledge Graph. However, this is a mistake, as it is impossible to map properties before having the data first. Therefore, we have created two phases within our Knowledge Graph: the first one shows the current object properties. The second one illustrates in purple the future object
+properties that will be obtained in a later phase.
+
+![Simple EER model]([https://github.com/mbueno-g/KGE---Tourism-in-Trento/blob/main/webassets/minimalEER.png])
+
+![Complex EER model]([https://github.com/mbueno-g/KGE---Tourism-in-Trento/blob/main/webassets/EERphaseii.png])
 
 
 ## Information Gathering
@@ -119,15 +124,12 @@ https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-
 
 ## Teleontology
 
-## Teleontology
-
 
 
 
 ## Final Knowledge Graph
 
 
-## Competency questions
 
 
 ## Conclusion
