@@ -126,11 +126,12 @@ properties that will be obtained in a later phase.
 
 
 ## Teleontology
-
-![Teleontology](/webassets/teleontology.png)
+In the teleontology phase, we directly import and join both the ontology(showcasing hierarchies) and teleology(showcasing properties) to producea single file, as a consumer. 
+![Teleontology](/webassets/realteleontology.png)
 
 
 ## Final Knowledge Graph
+
 
 
 
