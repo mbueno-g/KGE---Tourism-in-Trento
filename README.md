@@ -125,13 +125,22 @@ From the competency questions, relating to Personas and Scenarios, we extract en
 
 
 ## Teleontology
-In the teleontology phase, we directly import and join both the ontology(showcasing hierarchies) and teleology(showcasing properties) to producea single file, as a consumer. 
+In the teleontology phase, we directly import and join both the ontology(showcasing hierarchies) and teleology(showcasing properties) to producea single file, as a consumer.This step was done using Protege, and the illustration using yED. 
 ![Teleontology](/webassets/realteleontology.png)
 
 
 ## Final Knowledge Graph
+After following all the steps outlined in more detail in the project report, we managed to build a knowledge graph in GraphDB based on Trento's natural tourism Teleontology and the associated data. A screenshot of a part of the knowledge graph can be seen in the figure below.
 
+![KG](/webassets/graph.png)
 
+We evaluated our competency questions through the use of SPARQL queries. Here is an example:
+
+Query 1 (CQ 1): What are the top three challenging trails in Trentino?
+By most challenging trails we mean the trails that need a high level of expertise.
+
+![Query 1 question](/webassets/query1question.png)
+![Query 1 solution](/webassets/query1.png)
 
 
 
