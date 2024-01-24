@@ -9,7 +9,7 @@ This project is created for the Knowledge Graph subject at University of Trento,
 The GitHub repository can be found [here](https://github.com/mbueno-g/KGE---Tourism-in-Trento)
 
 ### Report
-The report of this project can be found by clicking [here](https://github.com/mbueno-g/KGE---Tourism-in-Trento/Documentation/report.pdf)
+The report of this project can be found by clicking [here](https://github.com/mbueno-g/KGE---Tourism-in-Trento/blob/main/Documentation/report.pdf)
 
 ### Presentation slides
 The presentation slides of can be found [here](https://pitch.com/v/trentino-territory-tourism-facilities-9iz672)
