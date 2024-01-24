@@ -12,7 +12,7 @@ The GitHub repository can be found [here](https://github.com/mbueno-g/KGE---Tour
 The report of this project can be found by clicking [here](https://github.com/mbueno-g/KGE---Tourism-in-Trento/Documentation/report.pdf)
 
 ### Presentation slides
-The presentation slides of can be found [here](https://github.com/mbueno-g/KGE---Tourism-in-Trento/Documentation/ppt.pdf)
+The presentation slides of can be found [here](https://pitch.com/v/trentino-territory-tourism-facilities-9iz672)
 
 
 ## Introduction
