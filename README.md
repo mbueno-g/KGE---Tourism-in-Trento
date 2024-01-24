@@ -107,21 +107,21 @@ From the competency questions, relating to Personas and Scenarios, we extract en
 
 ##### Formal Data Sources:
 
-[OSM Places Trentino dataset]( https://datascientiafoundation.github.io/LiveDataTrentino/datasets/OSM%20Places/) provided by the DataScientia Foundation
-[Tourist Facilities datasets](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/tree/main) created by Roberta Peracchio and Hamid Omidi
+- [OSM Places Trentino dataset]( https://datascientiafoundation.github.io/LiveDataTrentino/datasets/OSM%20Places/) provided by the DataScientia Foundation
+- [Tourist Facilities datasets](https://github.com/rorosonoio/KGE---Trentino-tourist-facilities/tree/main) created by Roberta Peracchio and Hamid Omidi
 
 
 ##### Informal Data Sources:
-[Hike datasets](https://www.komoot.com/discover) sourced from Komoot
-[Lake dataset](https://www.trentino.com/en/highlights/nature-and-landscape/lakes/) sourced from the Trentino page
-[Regions and tourist profesional datasets](https://www.provincia.tn.it/Documenti-e-dati/Risorse/Elenco-dei-referenti-ISTAT-per-il-settore-turismo) sourced from ISTAT
+- [Hike datasets](https://www.komoot.com/discover) sourced from Komoot
+- [Lake dataset](https://www.trentino.com/en/highlights/nature-and-landscape/lakes/) sourced from the Trentino page
+- [Regions and tourist profesional datasets](https://www.provincia.tn.it/Documenti-e-dati/Risorse/Elenco-dei-referenti-ISTAT-per-il-settore-turismo) sourced from ISTAT
 
 
 ### Knowledge Resources
 ##### Formal Knowledge Source:
 
-[OSM Lightweight Ontology](https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/) provided by The DataScientia Foundation 
-[Various Ontologies](https://schema.org) sourced from schema.org
+- [OSM Lightweight Ontology](https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/) provided by The DataScientia Foundation 
+- [Various Ontologies](https://schema.org) sourced from schema.org
 
 
 ## Teleontology
